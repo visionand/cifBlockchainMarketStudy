@@ -1,2 +1,14 @@
-=Code Table=
+= <Company Name> =
 
+<pre>
+  Founded: <year>
+  Stage: <Concept/Test/Live>
+  Team Size: <Number>
+</pre>
+
+==Short Description==
+<Description max. x characters including spaces>
+
+==References==
+
+==Additional Links==
