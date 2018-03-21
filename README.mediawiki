@@ -1,0 +1,2 @@
+=BlockchainMarketStudy=
+Analysis of the Blockchain Landscape, including use-cases, companies and projects.
