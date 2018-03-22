@@ -1,0 +1,18 @@
+= How to contribute =
+
+Thank you for your interest in contributing to this ambitious project. To cover the blockchain space we do need your support! Feel free to add information about a Blockchain-related company of your choice. Any commits must comply with the following rules and submission guidelines.
+
+== Rules ==
+* The company must be Blockchain-related
+* Information must be backed by references
+* Facts only, no buzz-words, fud or hype
+
+== Submitting changes ==
+Please use a [https://github.com/cifunibas/cifBlockchainMarketStudy/pull/new/master GitHub Pull Request] for any additions or modifications. 
+
+Always follow our conventions and use the provided [https://github.com/cifunibas/cifBlockchainMarketStudy/blob/master/templates/companyTemplate.mediawiki templates] for new companies or projects. 
+
+Use the standard log message convention e.g. "Create company xy" or "Modify company y". A biref summary is much appreciated.
+
+== Questions and Contact ==
+Feel free to contact us: f.schaer@unibas.ch
