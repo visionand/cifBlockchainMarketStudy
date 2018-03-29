@@ -4,11 +4,43 @@
   Founded: <year>
   Stage: <Concept/Test/Live>
   Team Size: <Number>
+  Sector: <Branche according classifications of S&P>
+  Funding: <Number or empty if N/A>
+  Based on Blockchain: <Chain privtae/main)
+  Customer Segment: <B2B or B2C>
+  Open-Source: <Yes/No>
 </pre>
 
 ==Short Description==
 <Description max. x characters including spaces>
 
+==Colaborations==
+
+==Location==
+<Country & Coordinates>
+
+==Team==
+<Introduction of the key members - Management and Board>
+
+==Statistics==
+<Key numbers if N/A empty fields> 
+<pre>
+clients: <number>
+Business Volume: <number>
+Valuation: <number>
+Tradeability: <Token/Stock Exchange/Certificates>
+</pre>
+
+==Funding==
+<Brief explanation of the type of financing, Pre-ICO and ICO prices, current Prices, how many Tokens are issued>
+
+==Revenue Model==
+<Software as a Service (SaaS)/Comission/Trading/License Fee/Interest/Advertising/Data/Non-Profit>
+
+==Additional Informations==
+<Only valuable and necessary Informations>
+
 ==References==
 
 ==Additional Links==
+<Website & Scial Media & Github>
