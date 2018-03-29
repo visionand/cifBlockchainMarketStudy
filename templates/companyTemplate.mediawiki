@@ -14,7 +14,7 @@
 ==Short Description==
 <Description max. x characters including spaces>
 
-==Colaborations==
+==Collaborations==
 
 ==Location==
 <Country & Coordinates>
@@ -24,7 +24,7 @@
 
 ==Key Indicators==
 <pre>
-clients: <number>
+Clients: <number>
 Business Volume: <number>
 Valuation: <number>
 Revenue: <number>
