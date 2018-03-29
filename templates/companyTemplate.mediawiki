@@ -23,7 +23,6 @@
 <Introduction of the key members - Management and Board>
 
 ==Key Indicators==
-<if N/A empty fields> 
 <pre>
 clients: <number>
 Business Volume: <number>
