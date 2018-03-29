@@ -22,12 +22,13 @@
 ==Team==
 <Introduction of the key members - Management and Board>
 
-==Statistics==
-<Key numbers if N/A empty fields> 
+==Key Indicators==
+<if N/A empty fields> 
 <pre>
 clients: <number>
 Business Volume: <number>
 Valuation: <number>
+Revenue: <number>
 Tradeability: <Token/Stock Exchange/Certificates>
 </pre>
 
