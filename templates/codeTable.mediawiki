@@ -1,2 +1,44 @@
-=Code Table=
+=Definitions=
+
+==Sectors according to Global Industry Classification Standard==
+<pre>
+Energy (10)
+Materials (15)
+Industrials (20)
+Consumer Discretionary (25)
+Consumer Staples (30)
+Health Care (35)
+Financials (40)
+Information Technology (45)
+Telecommunication Services (50)
+Utilities (55)
+Real Estate (60)
+</pre>
+
+==Blockchain Protocol==
+<pre>
+Bitcoin
+Ethereum
+Hyperledger
+Neo
+EOS
+<own>
+</pre>
+
+==Token==
+<pre>
+</pre>
+
+==Stage==
+<pre>
+Concept
+Test
+Live
+</pre>
+
+==Customer Segment==
+<pre>
+B2B
+B2C
+</pre>
 
