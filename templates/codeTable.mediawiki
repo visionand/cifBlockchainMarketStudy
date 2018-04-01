@@ -37,7 +37,7 @@ Yes/No
 * SaaS/License fee
 
 ==Sectors==
-Note: Classification and codes according to Global Industry Classification Standard (GICS)
+Note: Classification and codes according to Global Industry Classification Standard (GICS). See https://www.msci.com/gics for further information.
 
 * Energy (10)
 * Materials (15)
