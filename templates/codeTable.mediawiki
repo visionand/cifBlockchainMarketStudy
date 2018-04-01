@@ -66,3 +66,8 @@ Note: Classification and codes according to Global Industry Classification Stand
 * Utility token
 Note: A token may have more than one of the above characteristics.
 
+==Tradability==
+
+* Certificates: Yes/No (if yes add ISIN number)
+* Stock: Yes/No (if yes add ISIN number)
+* Token: Yes/No (if yes add token abbreviation)
