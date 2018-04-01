@@ -17,17 +17,15 @@ Note: If you are interested in contributing to this project, please make sure th
 * Symbiont
 * Tendermint/Cosmos
 * Tezos
-* own
+* [own]
 
 ==Customer Segment==
 
-* B2B
-* B2C
+B2B/B2C
 
 ==Open source==
 
-* Yes
-* No
+Yes/No
 
 ==Revenue model==
 
@@ -39,7 +37,7 @@ Note: If you are interested in contributing to this project, please make sure th
 * SaaS/License fee
 
 ==Sectors==
-Note: Classification according to Global Industry Classification Standard (GICS)
+Note: Classification and codes according to Global Industry Classification Standard (GICS)
 
 * Energy (10)
 * Materials (15)
@@ -61,6 +59,10 @@ Note: Classification according to Global Industry Classification Standard (GICS)
 
 ==Token==
 
-
-
+* Asset token
+* Currency token
+* Equity token
+* Reputation and reward token
+* Utility token
+Note: A token may have more than one of the above characteristics.
 
