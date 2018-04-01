@@ -1,44 +1,66 @@
 =Definitions=
+Note: If you are interested in contributing to this project, please make sure that you use the following framework and definitions.
 
-==Sectors according to Global Industry Classification Standard==
-<pre>
-Energy (10)
-Materials (15)
-Industrials (20)
-Consumer Discretionary (25)
-Consumer Staples (30)
-Health Care (35)
-Financials (40)
-Information Technology (45)
-Telecommunication Services (50)
-Utilities (55)
-Real Estate (60)
-</pre>
+==Blockchain/Distributed Ledger Protocol==
 
-==Blockchain Protocol==
-<pre>
-Bitcoin
-Ethereum
-Hyperledger
-Neo
-EOS
-<own>
-</pre>
-
-==Token==
-<pre>
-</pre>
-
-==Stage==
-<pre>
-Concept
-Test
-Live
-</pre>
+* BigChainDB
+* Bitcoin
+* Chain
+* Corda
+* EOS
+* Ethereum
+* Hyperledger
+* IOTA
+* Lisk
+* Neo
+* Quorum
+* Symbiont
+* Tendermint/Cosmos
+* Tezos
+* own
 
 ==Customer Segment==
-<pre>
-B2B
-B2C
-</pre>
+
+* B2B
+* B2C
+
+==Open source==
+
+* Yes
+* No
+
+==Revenue model==
+
+* Advertising
+* Commission/Trading
+* Data
+* Interest
+* Non-profit
+* SaaS/License fee
+
+==Sectors==
+Note: Classification according to Global Industry Classification Standard (GICS)
+
+* Energy (10)
+* Materials (15)
+* Industrials (20)
+* Consumer Discretionary (25)
+* Consumer Staples (30)
+* Health Care (35)
+* Financials (40)
+* Information Technology (45)
+* Telecommunication Services (50)
+* Utilities (55)
+* Real Estate (60)
+
+==Stage==
+
+* Concept
+* Test (Proof of concept)
+* Live
+
+==Token==
+
+
+
 
