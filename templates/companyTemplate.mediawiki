@@ -1,46 +1,64 @@
 = <Company Name> =
 
 <pre>
+  Website: <official weblink>
   Founded: <year>
   Stage: <Concept/Test/Live>
   Team Size: <Number>
-  Sector: <Branche according classifications of S&P>
+  Sector: <Sector according classifications of S&P>
   Funding: <Number or empty if N/A>
-  Based on Blockchain: <Chain privtae/main)
+  Based on Blockchain: <Blockchain>
   Customer Segment: <B2B or B2C>
   Open-Source: <Yes/No>
 </pre>
 
 ==Short Description==
-<Description max. x characters including spaces>
+<Description max. 1200 characters including spaces>
 
 ==Collaborations==
 
 ==Location==
-<Country & Coordinates>
+<pre>
+Address: <text>
+Coordinates: <longitudes and latitudes>
+Link: <Google maps/open maps>
+</pre>
 
 ==Team==
-<Introduction of the key members - Management and Board>
+< firstName> < lastName >, < position >
 
 ==Key Indicators==
 <pre>
 Clients: <number>
-Business Volume: <number>
+Business Volume: <number based on annual data>
 Valuation: <number>
-Revenue: <number>
+Revenue: <number based on annual data>
 Tradeability: <Token/Stock Exchange/Certificates>
+Identification code: <ISIN/token abbreviation>
+Link: <Bloomberg/coinmarketcap>
 </pre>
 
 ==Funding==
-<Brief explanation of the type of financing, Pre-ICO and ICO prices, current Prices, how many Tokens are issued>
+<Brief explanation of the type of financing, Pre-ICO and ICO prices, current prices, how many tokens are issued, funding per round/stage>
 
 ==Revenue Model==
-<Software as a Service (SaaS)/Comission/Trading/License Fee/Interest/Advertising/Data/Non-Profit>
+<Software as a Service (SaaS) and License Fee/Comission and Trading/Interest/Advertising/Data/Non-Profit>
 
 ==Additional Informations==
 <Only valuable and necessary Informations>
 
 ==References==
+<ref>Testing the references, mediawiki format, center for innovative finance, universitaet basel, 2018.</ref>
+
+</or as an alternative citation method, requested if the same reference or footnote is cited several times>
+
+<ref name="CIF">CIF`s Market study, First Edition, Berentsen, Schaer, Co., 2018.</ref>
+
+</afterwards only this is needed to cite the same reference>
+
+<ref name="CIF"/>
+
+<references/>
 
 ==Additional Links==
-<Website & Scial Media & Github>
+<Website & Social Media & Github>
