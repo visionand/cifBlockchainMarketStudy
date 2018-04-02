@@ -8,8 +8,9 @@ Note: If you are interested in contributing to this project, please make sure th
 * Chain
 * Corda
 * EOS
-* Ethereum
-* Hyperledger
+* Ethereum Main Chain
+* Ethereum Private Chain
+* Hyperledger Fabric
 * IOTA
 * Lisk
 * Neo
@@ -59,12 +60,9 @@ Note: Classification and codes according to Global Industry Classification Stand
 
 ==Token==
 
-* Asset token
-* Currency token
-* Equity token
-* Reputation and reward token
-* Utility token
-Note: A token may have more than one of the above characteristics.
+* Utility/payment token
+* Security-like token
+
 
 ==Tradability==
 
