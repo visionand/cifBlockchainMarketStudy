@@ -1,2 +1,71 @@
-=Code Table=
+=Definitions=
+Note: If you are interested in contributing to this project, please make sure that you use the following framework and definitions.
 
+==Blockchain/Distributed Ledger Protocol==
+
+* BigChainDB
+* Bitcoin
+* Chain
+* Corda
+* EOS
+* Ethereum Main Chain
+* Ethereum Private Chain
+* Hyperledger Fabric
+* IOTA
+* Lisk
+* Neo
+* Quorum
+* Symbiont
+* Tendermint/Cosmos
+* Tezos
+* [own]
+
+==Customer Segment==
+
+B2B/B2C
+
+==Open source==
+
+Yes/No
+
+==Revenue model==
+
+* Advertising
+* Commission/Trading
+* Data
+* Interest
+* Non-profit
+* SaaS/License fee
+
+==Sectors==
+Note: Classification and codes according to Global Industry Classification Standard (GICS). See https://www.msci.com/gics for further information.
+
+* Energy (10)
+* Materials (15)
+* Industrials (20)
+* Consumer Discretionary (25)
+* Consumer Staples (30)
+* Health Care (35)
+* Financials (40)
+* Information Technology (45)
+* Telecommunication Services (50)
+* Utilities (55)
+* Real Estate (60)
+
+==Stage==
+
+* Concept
+* Test (Proof of concept)
+* Live
+
+==Token==
+
+* Utility/payment token
+* Security-like token
+
+
+==Tradability==
+
+* Certificates: Yes/No (if yes add ISIN number)
+* Stock: Yes/No (if yes add ISIN number)
+* Token: Yes/No (if yes add token abbreviation)
