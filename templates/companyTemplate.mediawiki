@@ -1,6 +1,7 @@
-= <Company Name> =
+= <Project Name> =
 
 <pre>
+  Company name: <According to commercial registry>
   Website: <official weblink>
   Founded: <year>
   Stage: <Concept/Test/Live>
@@ -16,6 +17,7 @@
 <Description max. 1200 characters including spaces>
 
 ==Collaborations==
+<first informations about the holding company and its function for the project afterwards other collaborations>
 
 ==Location==
 <pre>
