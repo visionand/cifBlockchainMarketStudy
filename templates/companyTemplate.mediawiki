@@ -39,7 +39,6 @@ Revenue: <number based on annual data>
 Tradeability: <Token/Stock Exchange/Certificates>
 Identification code: <ISIN/token abbreviation>
 Token: <Utility or payment token/ Security-like token>
-Security-like token
 Link: <Bloomberg/coinmarketcap>
 </pre>
 
