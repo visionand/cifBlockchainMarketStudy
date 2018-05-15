@@ -1,0 +1,128 @@
+=Filecoin=
+
+* Company Name: Protocol Labs, Inc.<ref name=„protocollabsprojects“>https://protocol.ai/projects/, accessed on 10.04.2018.</ref>
+* Website: https://filecoin.io/
+* Founded: 2014 <ref name=„roadmap“>https://filecoin.io/research-roadmap-2017.pdf, accessed on 10.04.2018.</ref>
+* Stage: Concept<ref>https://filecoin.io/blog/update-2017-q4/, accessed on 10.04.2018.</ref>
+* Team Size: 15 (core team)<ref>https://protocol.ai/team/, accessed on 10.04.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $257M <ref name=„token“>https://filecoin.io/blog/sale-completed/, accessed on 10.04.2018.</ref>
+* Based on Blockchain: Filecoin (own)<ref name=„primer“>https://ipfs.io/ipfs/QmWimYyZHzChb35EYojGduWHBdhf9SD5NHqf8MjZ4n3Qrr/Filecoin-Primer.7-25.pdf, accessed on 10.04.2018.</ref>
+* Customer Segment: B2B and B2C<ref name=„primer“/>
+* Open-Source: Yes <ref name=„primer“/> <!-- There is no GitHub page of Filecoin, open-source anyway?? -->
+
+
+==Short Description==
+
+Filecoin is a project of Protocol Labs, Inc. in the area of decentralized cloud storage services. Owners of unused hard drive capacity can offer their free storage to other users. Filecoin wants to introduce its own blockchain that is secured by the self-invented Proof-of-Spacetime consensus algorithm. This algorithm creates an incentive structure for the storage provider to store the data safely over time and allows the data owner to observe the whole process. Files will be shredded and the data packages will be distributed among several miners/hosts. To ensure data integrity, Filecoin will make use of Erasure Coding (EC) and Information Dispersal Algorithms (IDA). Therefore, a certain amount of hosts are tolerated to go offline while still being able to recover and retrieve the whole data. On the Filecoin platform, storage providers compete with each other, which is likely to result in low service prices. Filecoin tokens will be used to pay for the services. There was an initial coin offering (ICO) in the fall of 2017 that generated a total funding of about $257M. Filecoin will make use of InterPlanetary File System (IPFS), a second product of Protocol Labs, Inc.. IPFS restructures the world wide web in a decentralized manner.<ref name=”PoRep”>https://filecoin.io/filecoin.v2.pdf, accessed on 11.04.2018.</ref> <ref name=”primer”/> <ref name=”coinlist”>https://coinlist.co/filecoin, accessed on 11.04.2018.</ref> <ref>https://ipfs.io/, accessed on  11.04.2018.</ref>
+
+
+==Collaborations==
+
+[https://protocol.ai/ Protocol Labs, Inc.] (legal entity)
+
+
+
+==Location==
+
+Address: 
+
+548 Market Street
+
+Suite 51207
+
+San Francisco, CA 94104
+
+United States
+
+
+
+Coordinates: 
+
+Latitude: 37.790047
+
+Longitude: -122.400874
+
+
+
+Link: [https://www.google.ch/maps/place/548+Market+St,+San+Francisco,+CA+94104,+USA/@37.7899928,-122.4008679,20.65z/data=!4m13!1m7!3m6!1s0x808580627b5ea1d1:0x60fd99496057cf74!2s548+Market+St,+San+Francisco,+CA+94104,+USA!3b1!8m2!3d37.7900465!4d-122.4008744!3m4!1s0x808580627b5ea1d1:0x60fd99496057cf74!8m2!3d37.7900465!4d-122.4008744 Google Maps]
+
+
+
+==Team==
+
+Juan Benet, CEO and Founder
+
+David Dias
+
+Jakub Sztandera
+
+Colin Evran
+
+Skylar Norris
+
+Friedel Ziegelmayer
+
+Matt Zumwalt
+
+Evan Miyazono
+
+Victor Bjelkholm
+
+Hector Sanjuan
+
+Lars Gierth
+
+Michelle Lee
+
+Jesse Clayburgh
+
+Nicola Greco
+
+Jeromy Johnson
+
+<ref>https://protocol.ai/team/, accessed on 11.04.2018.</ref>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Token<!-- (and stocks?) -> Where can I find the missing information about stocks and shares? -->
+* Identification code: FIL <ref name=„coinlist“/>
+* Token Type: Utility/Payment token <ref name=„primer“/>
+* Link: https://coinmarketcap.com/currencies/filecoin/
+
+
+
+==Funding==
+
+2016: Selling of ca. $3.7M worth of equity securities.<ref>http://www.xdata.co/story.php?a=000167522516000001&c=1675225, accessed on 13.04.2018.</ref> <ref>https://www.sec.gov/Archives/edgar/data/1675225/000167522516000001/xslFormDX01/primary_doc.xml, accessed on 13.04.2018.</ref>
+
+2017: Token sale. First, there was a pre-sale to advisors (funding of about $52M) and the following token sale to investors raised about $205M.<ref name=„token“/> Total funding of about $257M. <ref>https://icodrops.com/filecoin/, accessed on 11.04.2018.</ref>
+
+
+==Revenue Model==
+
+Market Protocol <!--(what category?)--><ref>https://protocol.ai/blog/protocol-labs-creating-new-networks/, accessed on 13.04.2018.</ref>
+
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+https://twitter.com/MineFilecoin
+
+https://www.linkedin.com/company/16181958/
