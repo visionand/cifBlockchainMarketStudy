@@ -1,0 +1,122 @@
+=Storj=
+
+* Company Name: Storj Labs Inc. <ref name=„website“>https://storj.io/, accessed on 13.04.2018.</ref>
+* Website: https://storj.io/
+* Founded: 2015<ref>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309570101, accessed on 16.04.2018.</ref>
+* Stage: Live<ref name=„website“/>
+* Team Size: 33<ref name=„team“>https://storj.io/team.html, accessed on 16.04.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $33M<!--(more?)--><ref>https://storj.io/sale-terms.pdf, accessed on 16.04.2018.</ref><ref>https://blog.storj.io/post/157615681743/storj-labs-raises-3-million-in-seed-funding, accessed on 16.04.2018.</ref>
+* Based on Blockchain: Ethereum Main<ref name=„faq“/>
+* Customer Segment: B2B and B2C<!--source?--><ref>https://storj.io/industry-overview.pdf, accessed on 16.04.2018.</ref>
+* Open-Source: Yes<ref name=„website“/>
+
+
+==Short Description==
+
+Storj is a platform for decentralized cloud storage services created by the company Storj Labs Inc. The platform is using the main Ethereum blockchain. Similar to other projects in this area, files are being shredded into data chunks (so-called shards) and encrypted before being sent to storage providers. Storj uses a distributed hash table (Kademlia) to allocate the shards among a variety of hosts. Redundancy of data is introduced through Erasure Coding algorithms that guarantee the availability of files even when a certain amount of hosts go offline. Because the data owner is the only one who holds the private keys, data chunks cannot be read nor can they be located correctly by malicious attackers. In 2017, Storj sold the ERC-20 Token STORJ in an initial coin offering (ICO) to investors and raised about $30 million worth of funds. The token can now be used to pay for the storage services. Renting one gigabyte of hard drive space on the Storj network costs 0.015$ per month while the price for downloading is 0.05$ per gigabyte.<ref name=”whitepaper”> https://storj.io/storj.pdf, accessed on 18.04.2018.</ref><ref name=”beginner”> https://coincentral.com/storj-beginners-guide/, accessed on 18.04.2018</ref><ref>https://icodrops.com/storj/, accessed on 16.04.2018.</ref><ref name=”website”/>
+
+
+==Collaborations==
+
+Storj Labs Inc. (legal entity)
+
+[https://www.caplinked.com/ CapLinked]<ref>https://blog.storj.io/post/166303581118/caplinked-partners-with-storj-labs, accessed on 16.04.2018.</ref>
+
+[https://genaro.network/en Genaro Network]<ref>http://www.the-blockchain.com/2017/11/22/genaro-storj-labs-announce-collaboration-product-integration/, accessed on 16.04.2018.</ref>
+
+[https://www.loomia.com/ Loomia Technologies, Inc.]<ref>http://www.the-blockchain.com/2017/10/19/loomia-announces-collaboration-storj-labs-introduces-smart-fabrics-consumer-data-blockchain-technology/, accessed on 16.04.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+423 Piedmont Road NE 
+
+Suite 475 
+
+Atlanta, Georgia 30305 
+
+United States
+
+
+
+
+Coordinates: 
+
+Latitude: 33.766605
+
+Longitude: -84.382032
+
+
+
+Link: [https://www.google.com/maps/place/423+Piedmont+Ave+NE+%23475,+Atlanta,+GA+30308,+USA/@33.7666051,-84.3842204,17z/data=!4m13!1m7!3m6!1s0x88f504710a73d065:0xf65429fdbfdac239!2s423+Piedmont+Ave+NE+%23475,+Atlanta,+GA+30308,+USA!3b1!8m2!3d33.7666051!4d-84.3820317!3m4!1s0x88f504710a73d065:0xf65429fdbfdac239!8m2!3d33.7666051!4d-84.3820317?hl=de Google Maps]
+
+
+==Team==
+
+Ben Golub, Executive Chairman & Interim CEO
+
+Shawn Wilkinson, Founder & Chief Strategy Officer
+
+John Quinn, Founder & Chief Revenue Officer
+
+Philip Hutchins, Chief Technology Officer & Principal DevOps Architect
+
+JT Olio, Director of Engineering
+
+Matthew May, Chief Financial Officer
+
+Patrick Gerbes, Lead Data Scientist
+
+Braydon Fuller, Lead Developer
+<ref name=„team“/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Token
+* Identification code: STORJ<ref>https://coinmarketcap.com/currencies/storj/, accessed on 16.04.2018.</ref>
+* Token Type: Utility/Payment token<ref name=„faq“/>
+* Link: https://coinmarketcap.com/currencies/storj/
+
+
+==Funding==
+
+<!-- (2014 – 2016: Several funding rounds according to crunchbase<ref>https://www.crunchbase.com/organization/storj, accessed on 16.04.2018.</ref>) -->
+
+2017: Seed Funding ($3M) followed by a token sale that raised another $30M.<ref>https://blog.storj.io/post/157615681743/storj-labs-raises-3-million-in-seed-funding, accessed on 16.04.2018.</ref><ref>https://icodrops.com/storj/, accessed on 16.04.2018.</ref>
+
+==Revenue Model==
+
+Data<ref name=„faq“> https://storj.io/faq, accessed on 16.04.2018.</ref>
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+https://twitter.com/storjproject
+
+https://github.com/Storj/
+
+https://www.reddit.com/r/storj/
+
+https://www.facebook.com/storjproject
+
+https://medium.com/@storjproject
+
