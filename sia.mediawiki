@@ -1,0 +1,110 @@
+=Sia=
+
+* Company Name: Nebulous Inc.<ref name=„sia“>https://sia.tech/about, accessed on 06.04.2018.</ref>
+* Website: https://sia.tech/
+* Founded: 2014<ref name=„sia“/>
+* Stage: Live<ref name=„siaroad“>https://sia.tech/roadmap, accessed on 06.04.2018.</ref>
+* Team Size: 7<ref name=„siafaq“>https://siawiki.tech/faq, accessed on 07.04.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $1.65M<ref name=„siacompany“>https://siawiki.tech/development/nebulous_inc, accessed on 06.04.2018.</ref>
+* Based on Blockchain: Sia (own)<ref name=„sia“/>
+* Customer Segment: B2B and B2C<ref>http://i.imgur.com/pjzvL0u.jpg, accessed on 06.04.2018.</ref>
+* Open-Source: Yes<ref>https://support.sia.tech/article/w8D64fYiDi-is-sia-open-source-where-can-i-see-your-repo, accessed on 06.04.2018.</ref>
+
+
+
+==Short Description==
+
+Sia is a project of Nebulous, Inc. that aims to offer a blockchain-based solution for cloud storage services. The idea is to make privately owned underutilized hard drive capacity publicly available. Data owners are being matched with storage providers (hosts) via a public and open-source blockchain. This blockchain-based platform serves as a decentralized marketplace that runs without an intermediary. To ensure privacy and data integrity, files are being shredded, encrypted and distributed over various hosts. Furthermore, Sia makes use of a redundancy scheme called “Reed-Solomon erasure coding“ that guarantees the ability to recover files even when up to two thirds of all hosts go offline. For each agreement between hosts and users a special kind of smart contract (file contract) is created on the underlying Sia blockchain. File contracts determine components of the agreement such as contract duration, uptime commitments and prices for several services. The Sia network enforces these contracts automatically with no need for an intermediary. Transactions in the network are made using the Siacoin cryptocurrency on the Sia blockchain. There is a second cryptocurrency called Siafunds built on the blockchain. A fee of 3.9% of each Siacoin payment goes to the holders of Siafunds.<ref name=„sia”/> <ref name=„siatech”>https://sia.tech/technology, accessed on 07.04.2018.</ref> <ref name=„siafunds”>https://siawiki.tech/wallet/siafund, accessed on 07.04.2018.</ref>
+
+==Collaborations==
+
+
+Nebulous, Inc. (legal entity)
+
+[http://www.minebox.io/ Minebox IT Services GmbH]
+
+
+==Location==
+
+Address: 
+
+Nebulous, Inc. 
+
+280 Congress St., Floor 12
+
+Boston, MA 02210 USA
+
+
+
+Coordinates: 
+
+Latitude: 42.353425
+
+Longitude: -71.053118
+
+
+
+Link: [https://www.google.ch/maps/place/280+Congress+St+Floor+12,+Boston,+MA+02210,+USA/@42.3534258,-71.0536649,19z/data=!3m1!4b1!4m5!3m4!1s0x89e37081ad9d8a31:0x95146b82325a20e7!8m2!3d42.3534248!4d-71.0531177 Google Maps]
+
+
+==Team==
+
+David Vorick: Cofounder, CEO, Core Developer
+
+Luke Champine: Cofounder, President, Core Developer
+
+Ava Howell: Core Developer
+
+Christopher Schinnerl: Core Developer
+
+Marcin Jachymiak: Software Engineering Intern
+
+Zach Herbert: VP of Operations
+
+Steve Funk: Community Manager
+
+<ref name=„siafaq“/>
+
+
+
+==Key Indicators==
+
+* Clients: Nearly 1’000’000 software downloads. About 900 storage providers. (Information on request, received on 18.04.2018.)
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Siacoin and Siafund
+* Identification code: SC and SF
+* Token Type: Utility/payment token (Siacoin) and Security-like token (Siafund)
+* Link: [https://coinmarketcap.com/currencies/siacoin/ Siacoin], [https://coinmarketcap.com/currencies/sianote/ Siafund]
+
+
+
+==Funding==
+
+2014: IPO (SiaNotes). Issuance of 1250 SiaNotes at a price of $192. Total fundraising of about $240’000. Moreover, they raised additional $375’000 in private equity financing.
+
+2015: SiaNotes were redeemed at a 1:1 ratio by Siafunds. A total amount of 10’000 Siafunds were premined. 8’835 of these tokens are held by Sia’s parent company Nebulous, Inc. The remaining tokens were distributed to investors.<ref name=„siafunds”/>
+
+2016: Nebulous, Inc. raised another $750’000 in private equity financing. 
+
+2017: Nebulous, Inc. received a $400’000 grant from INBlockchain.
+
+
+Investors include Procyon Ventures, Raptor Group, Fenbushi Capital and Xiaolai Li. <ref>https://siawiki.tech/development/nebulous_inc, accessed on 07.04.2018.</ref> <ref name=„memorandum“>https://siafunds.tech/Nebulous-Private-Placement-Memorandum-US.pdf, accessed on 07.04.2018.</ref>
+
+==Revenue Model==
+
+Comission and Trading
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+
+https://twitter.com/siatechhq
+
+https://github.com/nebulouslabs
