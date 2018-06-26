@@ -31,10 +31,9 @@ Address:
 
 Nebulous, Inc. 
 
-280 Congress St., Floor 12
+67 Batterymarch St., Floor 4
 
-Boston, MA 02210 USA
-
+Boston, MA 02110 USA
 
 
 Coordinates: 
@@ -42,8 +41,6 @@ Coordinates:
 Latitude: 42.353425
 
 Longitude: -71.053118
-
-
 
 Link: [https://www.google.ch/maps/place/280+Congress+St+Floor+12,+Boston,+MA+02210,+USA/@42.3534258,-71.0536649,19z/data=!3m1!4b1!4m5!3m4!1s0x89e37081ad9d8a31:0x95146b82325a20e7!8m2!3d42.3534248!4d-71.0531177 Google Maps]
 
@@ -54,15 +51,17 @@ David Vorick: Cofounder, CEO, Core Developer
 
 Luke Champine: Cofounder, President, Core Developer
 
-Ava Howell: Core Developer
-
 Christopher Schinnerl: Core Developer
-
-Marcin Jachymiak: Software Engineering Intern
 
 Zach Herbert: VP of Operations
 
-Steve Funk: Community Manager
+Steve Funk: Head of Support
+
+Matt Sevey, Core Developer
+
+Eddie Wang, Front-end Developer
+
+Jacob Johnston, Operations
 
 <ref name=„siafaq“/>
 
@@ -91,6 +90,7 @@ Steve Funk: Community Manager
 
 2017: Nebulous, Inc. received a $400’000 grant from INBlockchain.
 
+2018: Nebulous, Inc. sold 231 Siafunds at a price of $7,500 per Siafund. Total revenue of $1'732'500 was raised.
 
 Investors include Procyon Ventures, Raptor Group, Fenbushi Capital and Xiaolai Li. <ref>https://siawiki.tech/development/nebulous_inc, accessed on 07.04.2018.</ref> <ref name=„memorandum“>https://siafunds.tech/Nebulous-Private-Placement-Memorandum-US.pdf, accessed on 07.04.2018.</ref>
 
