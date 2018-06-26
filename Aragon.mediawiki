@@ -1,0 +1,73 @@
+= Aragon One AG =
+
+
+* Website: https://aragon.one
+* Founded: 2017<ref>crunchable overview aragon, https://www.crunchbase.com/organization/aragon-2, access 04/12/18.</ref>
+* Stage: Proof-of-Concept <ref>The merkle: What is Aragon?, https://themerkle.com/what-is-aragon/, access 04/12/18.</ref>		
+* Team Size: 13 <ref>aragon core team, https://blog.aragon.one/about, access 04/12/18.</ref>
+* Sector: Information Technology (45)
+* Funding: 25 Milions <ref>crunchable overview aragon, https://www.crunchbase.com/organization/aragon-2, access 04/12/18.</ref>
+* Based on Blockchain: Ethereum Testnet Rinkeby <ref>https://blog.aragon.one/aragon-core-v0-5-the-architect-release-327c7163b89c, access 04/12/18.</ref>	
+* Customer Segment: B2B <ref>https://bravenewcoin.com/assets/Whitepapers/Aragon-Whitepaper.pdf, Aragon Whitepaper, access 04/12/18.18.</ref>
+* Open-Source: Yes <ref>https://coincentral.com/aragon-ant-beginners-guide/, access 04/12/18.</ref>
+
+
+==Short Description==
+The Aragon project consists on the one side out of a DApp based on the Ethereum Blockchain that provides an infrastructure which lets anyone create and manage decentralized organizations. The project focuses on democratizing governance and autonomous organizations. Some core administrative functions that are common across most of the companies are provided in the out-of-the-box Aragon Core software. To address the unique needs of an organization this software is built as a modular system that allows additional functionality to be built on top. Currently the project is relaying on the nonprofit Aragon Foundation. <ref>https://coincentral.com/aragon-ant-beginners-guide/</ref> On the other side the project will implement the the Aragon Network (AN)that once deployed replaces the Foundation. The AN will be the first DAO whose goal is to act as a digital jurisdiction. The AN will let opt-in organization to it and consume the services it will provide. The Network itself provides a built-in governance system based on the use of the Aragon Network Token ANT. The organizations which are using the ANT will decide which services are provided, their costs and other parameters.<ref>https://blog.aragon.one/introducing-the-aragon-network-20b998e2caba, access 04/19/18.</ref>  
+
+==Collaborations==
+* Bancor, <ref> https://www.ethnews.com/aragon-partners-with-bancor-to-offer-liquidity-to-community-members, access 05/23/18. </ref> 
+* 0x, <ref> https://blog.aragon.one/aragon-partners-with-0x-3c8d0c9dcd84, access 05/23/18. </ref> 
+* ShapeShift, <ref>https://www.newsbtc.com/press-releases/aragon-partners-leading-digital-asset-exchange-shapeshift-ahead-highly-anticipated-token-sale/, access 05/23/18.</ref>
+* Status.im, <ref>https://cointelegraph.com/news/aragon-partners-with-statusim-to-hook-23-bln-smartphone-users ,access 05/23/18.</ref> 
+
+==Location== 
+
+Address: 
+* Bahnhofstrasse 20
+* 6300 Zug
+* Switzerland <ref> https://www.zefix.ch/de/search/entity/list/firm/1348815?name=Aragon%2520One%2520AG&searchType=exact, access 04/19/18. </ref> 
+Coordinates:
+* Latitude: 47.169466
+* Longitude: 8.513694
+* Link: [https://www.google.com/maps/place/Bahnhofstrasse+20,+6300+Zug/@47.1694663,8.513694,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaaf7a270e13d:0x9b7ab670225705!8m2!3d47.1694663!4d8.5158827 Google Maps]
+
+
+==Team==
+* Luis, Cuende, project lead & co-founder
+* Jorge Izquierdo, tech lead & co-founder
+* Maria, Gomez, strategy & operations lead
+* Tatu, Kärki, communications lead
+* Luke, Duncan, research lead
+* John, Light, community lead
+* Jouni, Helminen, design lead<ref>https://aragon.one/about, access 04/19/18. </ref> 
+
+==Key Indicators==
+
+* Clients: Aragon Core and Aragon Network are not live at the moment so no project can be powered by Aragon by this time. 7 projects have publicly announced to be interested in using Aragon in the future. <ref> ,access 05/23/18.</ref>
+* Business Volume: N/A
+* Valuation: 64`702`132 USD <ref>market cap according [https://coinmarketcap.com/currencies/aragon/ CoinMarketCap], access 04/11/18.</ref>
+* Revenue: N/A
+* Tradeability: Token
+* Token Type: 
+* Identification code: ANT
+* Link: [https://coinmarketcap.com/currencies/aragon/ CoinMarketCap]
+
+
+==Funding==
+The Aragon ICO took place on the 17th May 2017. In 26 Minutes 275`000 ether were raised at an exchange rate of 120 ANT for 1 ETH. The pre-sale conditions were 20% discount on this public price but connected to a 6 month vesting schedule with a 3 month cliff. Initial buyers were allowed to contribute to the upper limit of $10`000 in ether. Only institutional buyers (CoinFund, ICONOMI and ShapeShift) were allowed to exceed this upper bound with $40`000 in ether. For liquidity purposes ShapeShift was also allowed to buy another specific portion of tokens that were not discounted and subject to vesting in the height of $20`000. The total Pre-Sale was realized to finance the development and the public sale. A total of almost 726 ether of capital was generated due the Pre-ICO.<ref>https://blog.aragon.one/pre-sale-transparency-report-333e310304c</ref> The total supply which will be constant until the Aragon Network will be deployed is 39`609`523 ANT. <ref>https://blog.aragon.one/the-aragon-token-sale-the-numbers-12d03c8b97d3, access 04/19/18.</ref>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee<ref>https://blog.aragon.one/introducing-the-aragon-network-20b998e2caba, access 04/19/18. </ref> 
+
+==Additional Informations==
+
+
+==References==
+
+<references/>
+
+==Additional Links==
+* [https://blog.aragon.one Medium]
+* [https://twitter.com/AragonProject Twitter]
+* [https://github.com/aragon/aragon GitHub]
