@@ -1,0 +1,72 @@
+= DAOstack =
+
+
+* Website: https://daostack.io
+* Founded: 2016<ref>https://www.linkedin.com/in/matan-field-92a2b396/?locale=de_DE, access 04/07/18.</ref>
+* Stage: Proof-of-Concept <ref>https://medium.com/@cryptonomii/daostack-ico-review-a-governance-framework-for-daos-5c1cbde3c851,access 04/07/18.</ref>					
+* Team Size: 9 	<ref name="DAO"> https://daostack.io, access 04/07/18.</ref>
+* Sector: Information Technology (45)
+* Funding: 30m <ref name="ico"> https://icodrops.com/daostack/, access 06/26/18.</ref>
+* Based on Blockchain: Ethereum main chain <ref name="DAO"/>
+* Customer Segment: B2C
+* Open-Source: Yes
+
+
+==Short Description==
+DAOstack envolved out of the Backfeed project and classifies itself as a operating system for Decentralized Autonomous Organizations. They developed a layer framework called "DAO Stack", that concludes all necessary components to create an own DAO in a "LEGO-like" manner. The primary purpose of the project is to allocate the decision making power for any kind of organization to the collective instead of having a top-down hierarchy. Their stack consists out of four different layers; ARC, Alchemy, Arc.js and the ArcHives <ref>https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-d0e034739c5a, access 04/07/18.</ref>
+*Arc: This is the core framework that provides complete DAO templates and modules from which people will be able to take ideas and  components to create a DAO that suits their needs. It’s a library of smart contracts. Each of them represents functional elements that can be mixed, matched, and modified to create the complete governance protocol for any given type of DAO. <br />
+*Arc.js: The arc framework is quite complex. Nevertheless Arc.js enables frontend developers the possibility to integrate their third  party dapps without blockchain expertise because it`s a JavaScript gate. <br />
+*Alchemy: This is the first app built on the DAOstack and outlines a graphic interface that enables users the interaction with the Arc framework and their DAOs.<br />
+*The ArcHives: Is a collection of shared records in the DAOstack ecosystem. Its main function is the networking possibility between the third party dapps to simplify further collaborations. <ref>https://hackernoon.com/daostack-synopsis-for-the-average-consumer-7e51bb27c481, access 04/07/18.</ref> <ref>https://daostack.io/wp/DAOstack-White-Paper-en.pdf, access 04/07/18.</ref> 
+
+==Collaborations==
+* Gnosis
+* Sapien
+* Menlo
+* Endor
+* Cultu.Re
+* iAngels
+* NfX
+* XSQ <ref name="DAO"/>
+
+==Location==
+
+* Address: N/A
+* Coordinates: N/A
+* Link: N/A
+
+
+==Team==
+* Matan, Field, CEO & Founder
+* Adam, Levi, CTO
+* Roberto, Klein, Legal & Finance
+* Oren, Sokolowsky, Lead Developer<ref name="DAO"/>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation:N/A
+* Revenue: N/A
+* Tradeability: ERC20-Token
+* Identification code: GEN 
+* Link: [https://coinmarketcap.com/de/currencies/daostack/ CoinMarketCap]
+
+
+==Funding==
+The ICO of DAO Stack took place on the 8th of May. The hard cap of 30m was reached within this day. The ico token price was 1 GEN for $1. Only 40% out of the total 100m token was available for token sale. 40% of the GEN were put into the Genesis DAO and the last 20% were reserved for the DAOstack implementations so far and for the future expenditures. <ref name="ico">
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+* [https://twitter.com/daostack Twitter]
+* [https://www.reddit.com/r/daostack/ reddit]
+* [https://github.com/daostack GitHub]
+* [https://medium.com/daostack> Medium]
