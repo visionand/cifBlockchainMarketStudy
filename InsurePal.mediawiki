@@ -1,0 +1,75 @@
+= InsurePal =
+
+* Website: https://insurepal.io
+* Founded: 2015<ref name="Whitepaper">https://insurepal.io/InsurePal_whitepaper.pdf, access 06/25/18.</ref>
+* Stage: Concept <ref> https://medium.com/insurepal-blog/meet-the-insurepal-team-1927257e783d, access 06/25/18.</ref>							
+* Team: ~ 42 <ref> https://insurepal.io/team, access 06/25/18</ref><ref>https://medium.com/insurepal-blog/meet-the-insurepal-team-1927257e783d, access 06/26/18.</ref><ref 			name="Whitepaper"/>
+* Sector: Financials (40)
+* Funding: 18m  <ref>https://icodrops.com/insurepal/, access, 06/25/18.</ref>
+* Based on Blockchain: Ethereum <ref name="Whitepaper"/>
+* Customer Segment: B2C and B2B <ref name="Whitepaper"/>
+* Open-Source: Yes
+
+
+==Short Description==
+InsurePal is a self-regulating, decentralized insurance platform. Currently the problem in the insurance industry is the lack of proper segmentation that results in higher premiums for every insuree in any kind of insurance segment. To give an example we consider a concrete example for car insurances. Every driver has a mandatory car insurance. The good drivers pay partially for the mistakes of the bad drivers in terms of higher premiums for everyone resulting out of accidents. The idea behind InsurePal is to offer an insurance platform that connects safe drivers. A driver that hadn't had an accident for years, let's call him John, pays actually $1000 premium and is not confident with that because he thinks he is overpaying for his car insurance. With InsurePal he can choose a friend as endorser out of his social contacts, in our case Mary, that guarantees for John with her credit card data and exposes herself to a potential payment. That's why she receives an immediately reward of $100 USD worth in IPL tokens. John can reduce his initially premium of $ 1000 USD for the car insurance up to 50% due to this endorsement. We assume in our example that John safes 40% of his premium. Mary's credit card will only be charged when John is at-fault for an accident within the next year. If John discloses an at-fault claim Mary will be charged by $550 consisting out of $400 of Johns savings, $100 of her cash-back bonus and $50 of penalties. If there is no claim John only paid $600 for his car insurance and Mary received $100 of IPL tokens. John can search other endorsers to further reduce his premium. The social proof is a psychological phenomenon that reinforce self regulation. In other words Mary's trust motivates John to drive safer. InsurePal will develop a platform that will apply social proof to different segments of insurance. They even patented the methodology of the social proof. <ref name="Whitepaper"/>
+
+
+==Collaborations==
+Netis Group,<ref>https://insurepal.io/roadmap, access 06/26/18.</ref> Mattereum (LOI, letter of intent),<ref>https://medium.com/insurepal-blog/mattereum-and-insurepal-sign-letter-of-intent-to-collaborate-on-effective-mass-use-of-blockchain-1eda70b2fd97, access 06/26/18.</ref>
+
+==Location==
+
+Slovenia, Ljubljana (headquarter), office in London and Vaduz <ref>https://medium.com/insurepal-blog/interview-with-the-boss-what-is-next-e2d0cf6b726e, access 06/26/18.</ref>
+
+* Address: N/A
+* Coordinates: N/A
+* Link: N/A
+
+
+==Team==
+* Matt, Peterman, Co-Founder and CEO
+* Tom, Volk, Co-Founder 
+* Damir, Kervina, Chief Product and Operations Officer
+* Maxim, Streltses, Chief Financial Officer
+* Matjaž, Tercelj, Chief Technology Officer
+* Robert, Kovačič, Chief Compliance Officer
+* Daniel, Biesuz, General Legal Counsel 
+* Aleš, Tomažin, VP of Business Development
+* Jacob, Westerlaken, Business Development<ref> https://insurepal.io/team, access 06/25/18</ref>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: ERC20-Token
+* Identification code: IPL
+* Token Type: Utility/Payment Token <ref name="Whitepaper"/>
+* Link: [https://coinmarketcap.com/de/currencies/insurepal/ CoinMarketCap]
+
+
+==Funding==
+The ICO of InsurePal took place on January 16th in 2018. The Price for one IPL token laid by $0.1. Total token amount is 300m where 67% where available for token crowdsale. The last third was mostly shared by the InsurePal team and their advisors. The soft cap was 5m and the hard cap 18m. They achieved 12m in the pre-sale. The last 6m where raised in only 80 seconds. Due to this short period every participant has profited of the bonus scheme and therefore received another discount of 10%. <ref>https://icodrops.com/insurepal/, access 06/26/18.</ref>
+
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+==Additional Informations==
+The website does not have the latest team numbers, see [https://medium.com/insurepal-blog/meet-the-insurepal-team-1927257e783d Medium]. In the Whitepaper there is no concrete figure about the support team available (page 47) so the total team number is only a approximation out of all these informations. (also backed up by  [https://icodrops.com/insurepal/ this source])
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://www.facebook.com/InsurePal/ Facebook]
+* [https://twitter.com/InsurePal_io Twitter]
+* [https://www.linkedin.com/company/insurepal/ Linkdin]
+* [https://https://medium.com/insurepal-blog Medium]
+* [https://bitcointalk.org/index.php?topic=2495721.0 Bitcointalk]
+* [https://github.com/InsurePal GitHub]
+* [https://angel.co/Insurepal Angel.co]
