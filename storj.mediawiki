@@ -4,7 +4,7 @@
 * Website: https://storj.io/
 * Founded: 2015<ref>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309570101, accessed on 16.04.2018.</ref>
 * Stage: Live<ref name=„website“/>
-* Team Size: 33<ref name=„team“>https://storj.io/team.html, accessed on 16.04.2018.</ref>
+* Team Size: 37<ref name=„team“>https://storj.io/team.html, accessed on 27.06.2018.</ref>
 * Sector: Information Technology (45)
 * Funding: $33M<!--(more?)--><ref>https://storj.io/sale-terms.pdf, accessed on 16.04.2018.</ref><ref>https://blog.storj.io/post/157615681743/storj-labs-raises-3-million-in-seed-funding, accessed on 16.04.2018.</ref>
 * Based on Blockchain: Ethereum Main<ref name=„faq“/>
