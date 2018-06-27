@@ -1,0 +1,75 @@
+= iXledger =
+
+
+* Website: https://www.ixledger.com
+* Founded: 2017 <ref>https://www.ixledger.com/company/, access 06/27/18.</ref>
+* Stage: Proof-of-Concept
+* Team Size: 6 
+* Sector: Financials (40)
+* Token Sale:	$6,949,290 <ref> https://chasing-coins.com/ico/IXT, access 06/27/18.</ref>
+* Based on Blockchain: Ethereum
+* Customer Segment: B2B
+* Open-Source: No
+
+
+==Short Description==
+iXleder is an insurance marketplace based on the Ethereum Blockchain. As consequence of the steady grown and global insurance sector the possibility of personal meetings is more and more limited. This marketplace tries to close on the one side that trade-off and also wants to strengthen the market connectivity. On the other side it contributes to reduce the market inefficiencies. They focus on insurance professionals and there especially on Brokers, Insurers and Reinsurers. According to the CEO and Co-Founder Svensson insurance nowadays are traded and processed in a traditional manner which means manually and with different sorts of intermediaries. Mostly a large amount of documents and date have to be exchanged due to a normal insurance deal. In manual systems these processes introduce costs, delays and may cause errors. <ref> https://cointelegraph.com/news/worlds-first-blockchain-insurance-marketplace-to-launch-ambitious-ico, access 06/21/18. </ref> Furthermore the different parties store their own copies of data and process it individually. This makes the synchronization and collaboration difficult. With iXledger and its marketplace, the insurance companies receive the possibility to work directly together and trade insurance products in an end-to-end solution. A Broker or an insurer can open a tender with specific information about an insurance contract. This tender will be listed on the platforms market and if another party supplies a fitted insurance service they can negotiate about the conditions for the services. Uploaded documents that are needed for the tender as well as the chat function are backed by the blockchain and cryptographically secured. If an agreement has been reached, the parties can digitally sign and exchange the contract. <ref> https://medium.com/@friedmandave/insurex-white-paper-an-analysis-of-its-market-e456c59746d0, access 06/20/18 </ref> <ref>https://medium.com/ixledger/ixledger-faqs-2298ae13d58c, access 06/20/18 </ref>
+
+
+==Collaborations==
+* GenR
+* fidentiaX <ref>https://medium.com/ixledger/ixledger-faqs-2298ae13d58c, access 06/20/18 </ref>
+
+==Location== 
+
+Address:
+* Warnford Court
+* Throgmorton St.
+* London EC2N 2AT
+* United kingdom 
+
+Coordinates: 
+* Longitudes: 51.51538
+* Latitude: -0.08686
+* Link: [https://www.google.com/maps/place/iXledger/@51.5153863,-0.0868636,15z/data=!4m5!3m4!1s0x0:0xc593a8f8524daa37!8m2!3d51.5153863!4d-0.0868636 Google Maps]
+
+
+==Team==
+Ingemar, Svensson, CEO & Founder
+* Cristina, Dolan, Co-Founder & President US
+* Mikael, Olofsson, Co-Founder & President EMEA
+* Ciaran, Sainty, Senior Underwriter & Product Director
+* Andrew, Hodgett, Senior Broker & Product director
+* Dick, Strip, Regional Director Asia <ref> https://www.ixledger.com/company/, access 05/25/18</ref>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: DIP
+* Token Type: Utility and payment token <ref> Whitepaper Etherisc, page 8, access 05/24/18 </ref>
+* Link: [https://coinmarketcap.com/de/currencies/ixledger/ CoinMarketCap]
+
+
+==Funding==
+iXledger – formaly InsureX – planned to do their ico on 11th to 31th July in 2017 but they ended the crowd sale much earlier on the 13th July due to safty lacks. <ref>https://www.coinschedule.com/ico/insurex, access 05/25/18</ref>  Nevertheless InsureX raised USD 6`949`290 $ and therefore could successfully execute their roadmap. The soft cap was 2`222 ETH while the hard cap was 83`778 ETH. The total supply of IXT tokens is 65`778`844. <ref> (https://www.coingecko.com/de/ico/insurex), access 05/23/18</ref> The conversion rate was 1`125 IXT for 1 ETH. According to ixledger's bonus structure, buyers of the first IXT tokens with a value of 1634 ETH received a discount of 36% on the initial ICO price. The next IXT tokens with a value of 1852 ETH had 20% off. This diminishng bonus schedule can be fully seen on [https://chasing-coins.com/ico/IXT Chaising Coin]. 
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee <ref> https://cointelegraph.com/news/worlds-first-blockchain-insurance-marketplace-to-launch-ambitious-ico, access 06/21/18. </ref>
+
+
+==Additional Informations==
+Actually they've witnessed lots of security attacks on their system before and during their ICO that they decided to halt the crowd sale earlier than planned. An assailant raised 1`100 ETH before the particular ICO started because he took control of iXledger`s Twitter account and even had access to their Slack channel where he announced a "special" pre-sale with fake discounts.<ref> https://themerkle.com/insurex-project-affected-by-hack-scammer-raises-1100-eth-from-investors/, access 05/25/18</ref> iXledger`s reaction was a claiming process for the one who suffered from the scams. <ref> https://www.reddit.com/r/insureX/comments/6ovo1u/update_from_insurex_july_17_2017/, access 05/25/18.</ref> 
+
+==References==
+
+<references/>
+
+==Additional Links==
+* [https://www.facebook.com/iXledger/ Facebook]
+* [https://twitter.com/iXledger Twitter]
+* [https://www.linkedin.com/company/insurex-technologies/ LinkedIn]
