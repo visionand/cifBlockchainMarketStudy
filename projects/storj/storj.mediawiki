@@ -1,7 +1,6 @@
 =Storj=
 
-{{col-begin}}
-{{col-break}}
+{|
 * Company Name: Storj Labs Inc. <ref name=„website“>https://storj.io/, accessed on 13.04.2018.</ref>
 * Website: https://storj.io/
 * Founded: 2015<ref>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309570101, accessed on 16.04.2018.</ref>
@@ -12,9 +11,9 @@
 * Based on Blockchain: Ethereum Main<ref name=„faq“/>
 * Customer Segment: B2B and B2C<!--source?--><ref>https://storj.io/industry-overview.pdf, accessed on 16.04.2018.</ref>
 * Open-Source: Yes<ref name=„website“/>
-{{col-break}}
-[[File:logo.png|200px]]
-{{col-end}}
+|
+[[File:logo.png|frame|200px]]
+|}
 
 ==Short Description==
 
