@@ -1,5 +1,7 @@
 =Storj=
 
+[[File:logo.png|400px]]
+
 * Company Name: Storj Labs Inc. <ref name=„website“>https://storj.io/, accessed on 13.04.2018.</ref>
 * Website: https://storj.io/
 * Founded: 2015<ref>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309570101, accessed on 16.04.2018.</ref>
