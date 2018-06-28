@@ -12,7 +12,7 @@
 * Customer Segment: B2B and B2C<!--source?--><ref>https://storj.io/industry-overview.pdf, accessed on 16.04.2018.</ref>
 * Open-Source: Yes<ref name=„website“/>
 |
-[[File:logo.png|frame|200px]]
+[[File:logo.png|frame|20px]]
 |}
 
 ==Short Description==
