@@ -2,7 +2,7 @@
 
 * Company Name: Storj Labs Inc. <ref name=„website“>https://storj.io/, accessed on 13.04.2018.</ref>
 * Website: https://storj.io/
-* Founded: 2015<ref>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309570101, accessed on 16.04.2018.</ref>
+* Founded: 2014<ref>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=309570101, accessed on 29.06.2018.</ref>
 * Stage: Live<ref name=„website“/>
 * Team Size: 37<ref name=„team“>https://storj.io/team.html, accessed on 27.06.2018.</ref>
 * Sector: Information Technology (45)
