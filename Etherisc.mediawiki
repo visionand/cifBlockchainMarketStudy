@@ -6,24 +6,29 @@
 * Stage: Concept & Proof-of-Concept (Currently 25 products in various stages of development even with temporary live versions in case of a flight app) <ref>https://medium.com/@pmonien/etherisc-ico-review-decentralized-insurance-5562835e414b, access 05/02/18. </ref>	
 * Team Size: 22 <ref>https://etherisc.com/#downloads, access 05/02/18.</ref>
 * Sector: Financials (40)
-* Funding: Token Sale: 25 JUN – 25 JUL <ref> https://icodrops.com/etherisc/, access 05/23/18.</ref>	
-* Based on Blockchain: Ethereum
+* Funding: Token Sale: 25 JUN – 25 JUL 2018 <ref> https://icodrops.com/etherisc/, access 05/23/18.</ref>	
+* Based on Blockchain: Ethereum main chain <ref> https://etherscan.io/token/0x9b0f6a5a667cb92af0cd15dbe90e764e32f69e77, access 06/29/18.</ref>
 * Customer Segment: B2C
 * Open-Source: Yes
 
 
 ==Short Description==
-Etherisc aims to built a blockchain based platform for decentralized insurance applications. For that matter they focus on parametric insurance. With their first prototype Flight Delay DApp the functionality of decentralized insurance products can easily be explained. As costumer one may have the incentive to insure yourself against flight delays. To satisfy this desire in a decentralized way one has to pay a premium to a suited smart contract on the etherisc platform. That's it for the customer. In the background the same smart contract collects as well premiums from other customers with exactly the same need in purpose of risk allocation. Furthermore it ensures a completely automatic pay out to one of the insuree if the delay scenario occurs to one of them. The pay out is then funded by the collected premiums. To ensure correct payment to such an event the smart contracts receives data from an oracle that observes the flight schedule the whole time. To cover the risk of a so called black swan event in which flight disruption would last for several days investors can buy tokenized risk pools and reinsurance the allocated risk e.g. the flight delay risk pool as in the example. This example shows a way to disintermediate the insurance process. On the one hand there is the possibility to reduce the administrative burdens in the insurance sector and on the other hand there arises perspectives to develop new markets, such as corp insurance especially in developing countries or other suited insurance products. <ref> https://www.cash.ch/news/top-news/insurtech-blockchain-kann-die-versicherungen-bis-zehnmal-guenstiger-machen-1112579, 2018</ref> <ref>https://blog.etherisc.com/introduction-to-risk-pool-tokens-on-the-etherisc-protocol-1744de67a57e, access 05/06/18.</ref> 
+Etherisc aims to built a blockchain based platform for decentralized insurance applications. For this purpose they started mainly with paramteric insurance projects, as these are particularly well suited for implementation via smart contracts. However, Etherisc's product range now includes projects with use cases and applications other than parametric insurance, such as social insurance or insurance for token economics. <ref>https://etherisc.com, access 07/02/18</ref>  With their first prototype Flight Delay DApp the functionality of decentralized parametric insurance products can easily be explained. As passenger you may have the incentive to insure yourself against flight delays. To satisfy this desire in a decentralized way you have to pay a premium to a smart contract on the etherisc platform via a graphical user interface. That's it for the customer. In this way, the smart contract receives corresponding premiums from several different insurance customers with the same needs and thus pools the risk for flight delays. Furthermore the smart contract ensures an automatic pay out to one of the insuree if the delay scenario occurs to one of them. The pay out is then funded by the collected premiums. In order to ensure correct payment for such an event, the smart contract constantly receives new data from an oracle that monitors the flight schedule. To cover the risk of a so called black swan event in which flight disruption would last for several days investors can buy tokenized risk pools and reinsure the allocated risk e.g. the flight delay risk pool as in the example. This example shows a way to disintermediate the insurance process. On the one side, the administrative burdens that shape the insurance sector can be reduced by this insurance model. On the other side, new markets can be opened up that are not attractive for existing insurance companies, e.g. if premiums are below $10 (micro-insurance) or markets with a low market volumes.<ref> https://www.cash.ch/news/top-news/insurtech-blockchain-kann-die-versicherungen-bis-zehnmal-guenstiger-machen-1112579, 2018</ref> <ref>https://blog.etherisc.com/introduction-to-risk-pool-tokens-on-the-etherisc-protocol-1744de67a57e, access 05/06/18.</ref> 
 
 
 
 ==Collaborations==
 * MME
 * Ernst & Young
-* inapt
+* inacta
 * Lakeside Partners
 * cofound.it
-* Altoros <ref> https://medium.com/@pmonien/etherisc-ico-review-decentralized-insurance-5562835e414b, access 05/06/18. </ref>
+* Altoros 
+* Wachsmann
+* KR1
+* Bochsler Finance
+* BitY
+* Captain Frank <ref> https://etherisc.com/#team, access 07/02/18.</ref>
 
 ==Location== 
 
@@ -56,7 +61,7 @@ Coordinates:
 
 
 ==Funding==
-Etherisc`s ICO or as they prefer to say "Token Generating Event" will take part in summer 2018. Already known is that 1 billion tokens will be supplied to a price of USD 0.1 $. The hard cap is fixed at USD 30 millions. The TGE consists of two phases. Firstly there will be an individual cap for registered participants. Secondly the registered participants can contribute unlimited amounts until the hard cap is reached or the TGE ends. <ref> https://blog.etherisc.com/announcing-the-etherisc-dip-token-generating-event-registration-is-now-open-fcc7ccb895b0, access 05/23/18.</ref>
+Etherisc`s ICO or as they prefer to say "Token Generating Event" will take part in summer 2018. Already known is that 1 billion tokens will be supplied to a price of $0.1. The hard cap is fixed at $30 millions. The TGE consists of two phases. Firstly there will be an individual cap for registered participants. Secondly the registered participants can contribute unlimited amounts until the hard cap is reached or the TGE ends. <ref> https://blog.etherisc.com/announcing-the-etherisc-dip-token-generating-event-registration-is-now-open-fcc7ccb895b0, access 05/23/18.</ref>
 
 ==Revenue Model==
 Software as a Service (SaaS) and License Fee
