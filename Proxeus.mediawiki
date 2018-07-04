@@ -1,0 +1,151 @@
+=Proxeus=
+
+* Company Name: Proxeus Est.<ref>https://proxeus.com/en/impressum/, accessed on 03.07.2018.</ref>
+* Website: https://proxeus.com/en/
+* Founded: 2015<ref name=„website“>https://proxeus.com/en/, accessed on 03.07.2018.</ref>
+* Stage: Proof of Concept<ref name=„tech“>https://proxeus.com/en/tech/, accessed on 03.07.2018.</ref>
+* Team Size: 25<ref name=„about“>https://proxeus.com/en/about/, accessed on 03.07.2018.</ref>
+* Sector: Finacials (40), Information Technology (45) and Consumer Discretionary (25)
+* Funding: $25M<ref name =„ico“>https://medium.com/@proxeusapp_4423/how-we-launched-our-ico-with-zero-marketing-budget-and-raised-usd-25-million-in-two-days-e8adfb702848, accessed on 03.07.2018.</ref>
+* Based on Blockchain: Ethereum main chain and Hyperledger<ref name=„whitepaper“>https://docs.google.com/document/d/1R3r2ZglmGHwjTfxKRy5omBge5fwjk8iF8euMhdlf1yY/edit#, accessed on 03.07.2018.</ref>
+* Customer Segment: B2B<ref name=„whitepaper“/>
+* Open-Source: Yes<ref>https://techcrunch.com/2018/04/22/proxeus-wants-to-be-the-wordpress-of-blockchain/, accessed o 03.07.2018.</ref>
+
+
+==Short Description==
+
+Proxeus is a Swiss- and Liechtenstein-based company that is aimed at upgrading conventional business systems by offering a simple framework to create decentralized applications (DApps) on blockchains such as Ethereum and Hyperledger. Thus, enterprises will be able to relocate their legal, financing, sales, production, human resources and payment processes to the blockchain. As the aforementioned vision is a long-term project, the company currently focuses on developing blockchain-based solutions for three main realms: Logistics & trade finance, tokenization of assets and legal & compliance. The first field includes trade finance, algorithmic insurance and more. Tokenization of assets involves certification on a blockchain of anything that is unique (e.g. course certificates at the University of Basel). The last realm is about digitization of legal and compliance processes such as Token Generating Events (TGEs). The technology offered by Proxeus consists of the base layer (Proxeus core), the middle layer (Proxeus modules) and the top layer (DApps). The base layer is designed to generate human- and machine-readable documents. The middle layer extends the base layer by adding several functionalities such as monitoring blockchain activities, payment and more. Finally, the top layer brings these two layers together and a front-end allows users to create DApps in a simplified way.<ref name=„tech“/><ref name=„whitepaper“/>
+
+
+==Collaborations==
+
+[https://www.mount10.ch/ Mount10]<ref name=„website“/>
+
+[https://cif.unibas.ch/en/home/ Center for Innovative Finance, University of Basel]<ref name=„website“/>
+
+[https://www.wwf.ch/de WWF Switzerland]<ref>https://proxeus.com/en/2018/06/20/proxeus-and-wwf-switzerland-put-donation-on-the-blockchain/, accessed on 04.07.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+Proxeus Est.
+
+Lettstrasse 10 
+
+9490 Vaduz 
+
+Liechtenstein
+
+
+Coordinates: 
+
+Latitude: 47.140891
+
+Longitude: 9.519463
+
+
+
+Link: [https://www.google.com/maps/place/Lettstrasse+10,+9490+Vaduz,+Liechtenstein/@47.1408946,9.5172742,17z/data=!3m1!4b1!4m5!3m4!1s0x479b3167e7f68ae9:0xdfa94294202ce714!8m2!3d47.140891!4d9.5194629?hl=en Google Maps]
+
+
+==Team==
+
+Antoine Verdon, Co-Founder
+
+Patrick Allemann, Co-Founder
+
+Artan Veliju, CTO
+
+Philippe Furter, COO
+
+Anders Mathis, CFO
+
+Dave Taylor, Head of Communications & PR
+
+Kathryn Willcox, HR Manager
+
+Manuel Gall, Project Manager
+
+Fabian Mösli, Project Manager
+
+Katrin Schuler, Project Manager
+
+Arta Veliju, Project Assistant
+
+Mathieu Amsler, Business Development
+
+Frederico Apóstolo, Back-end developer
+
+Serafima Grigoryan, Mobile developer
+
+Cyrill Steinmetz, Front-end developer
+
+David Matter, Front-end developer
+
+Pedro Tiple, Back-end developer
+
+Rodrigo Saraiva, Back-End developer
+
+Stephan Balzer, Junior Digitalisation Manager
+
+João Frazão, Back-end developer
+
+Lotta Keski-Mäenpää, Communications & PR
+
+Tiago Mota, Back-end developer
+
+Slavik Koval, Back-end developer
+
+Walter Sanchez, Project Manager
+
+Jan-Erik Gagnum, Full-Stack Developer
+
+
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A 
+* Tradability: Token
+* Identification code: XES<ref>https://proxeus.com/en/xes/, accessed on 03.07.2018.</ref>
+* Token Type: Utility/Payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/proxeus/ CoinMarketCap]
+
+
+==Funding==
+
+2018: Proxeus initiated an ICO in february and collected funds worth of $25M within two days. The contribution for each buyer was capped to $80’000 in order to create a broad user base. In total, 795 investors took part in the token sale.<ref name=„ico“/>
+
+==Revenue Model==
+
+Commission and Trading<ref name=„tech“/>
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.reddit.com/r/proxeus/ Reddit]
+
+[https://t.me/joinchat/Gj6qYUpY1XHgHGnQa9msvA Telegram]
+
+[https://twitter.com/proxeusapp Twitter]
+
+[https://www.facebook.com/proxeusapp/ Facebook]
+
+[https://www.linkedin.com/company/proxeus/ LinkedIn]
+
+
