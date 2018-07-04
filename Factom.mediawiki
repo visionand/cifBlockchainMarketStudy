@@ -1,0 +1,102 @@
+= Factom =
+
+* Website: https://www.factom.com
+* Alias: Notary Chains <ref> https://www.factom.com/about, access 07/04/18.</ref>
+* Founded: 2014<ref>https://www.factom.com/about, access 07/03/18.</ref>
+* Stage: Live <ref> https://www.factom.com/blog/technical-update-factom-genesis, access 07/03/18.</ref>			
+* Team: 28 <ref> https://www.factom.com/about/team, access 07/03/18.</ref>
+* Sector: Information Technology (45)
+* Funding: $1.1m (2278 BTC valued in July 2015) <ref>https://www.coindesk.com/blockchain-can-legally-authenticate-evidence-chinese-judge-rules/, access 07/03/18.</ref>
+* Based on Blockchain: Bitcoin main chain <ref name="Whitepaper">https://www.factom.com/devs/docs/guide/factom-white-paper-1-0, access 07/03/18.</ref>
+* Customer Segment: B2B <ref name="Whitepaper">
+* Open-Source: Yes
+
+
+==Short Description==
+The open source platform Factom is a layer built on top of the Bitcoin blockchain to store confidential data. While the Bitcoin blockchain is a decentralized ledger for financial transactions, Factom is designed to store any type of data. <ref>https://www.weusecoins.com/what-is-factom/, access 07/03/18.</ref> The system of Factom is constructed of different block layers:
+* Directory Block layer – first level of hierarchy in the system
+* Entry Block layer – second level of hierarchy in the system
+By hashing digital artifacts like e.g. photos, videos or documents users can construct Entries. Entries can be plain text if encoding of the data isn't necessary. However, such entries must be paid according to the size of the data which should also counteract an infinite amount of data spam. To buy these Entry Credits Factom allows conventional credit card payments next to crypto currencies like Bitcoin or Factoid (Factom`s tradable token). An Entry Block contains hashes of individual Entries. The hashes of Entries prove the existence of the data and delivers a key to find the Entries in the Distributed Hash Table (DHT) network. The Factom servers accept Entries, arrange them into blocks and fix their order by inserting every 10 minutes an anchor into the Bitcoin blockchain. Various Entries of an user are recorded in a chain structure whereby the various user-defined chains have no dependencies. The Directory Layer defines which user chain of Entries, identified by generated ChainIDs, have been updated during a specified time period. The Directory Block consists mainly of the ChainIDs and the corresponding Merkle roots of the Entry Blocks and is therefore a memory saving solution for a bunch of Entries. Every minute a Directory Block is sealed. Ten successive Directory Blocks are hashed via a Merkle tree. The Merkle root is then recorded in the Bitcoin blockchain. The ledger is secured by the Bitcoin hash power and doesn't bloat its blockchain. The applications of the Factom protocol can be extended to a variety of industries. The primary goal is to create an efficient data organization with high data integrity.<ref name="Whitepaper">
+
+
+
+
+==Collaborations==
+* Bitsapphire <ref>https://bravenewcoin.com/news/factom-and-bitsapphire-partner-adding-data-protection-to-record-keeping/, access 07/04/18.</ref>
+* Netki <ref>https://www.factom.com/blog/netki-factom-announce-partnership, access 07/04/18.</ref>
+* Tether
+* Serica <ref>https://www.factom.com/blog/p23, access 07/04/18.</ref>
+* Tradle 
+* Coinapult <ref>https://www.factom.com/blog/p22, access 07/04/18.</ref>
+* ShapeShift
+* Rivetz
+* Vaultoro <ref>https://www.factom.com/blog/p21, access 07/04/18.</ref>
+* Synero <ref>https://www.factom.com/blog/p20, access 07/04/18.</ref>
+* HealthNautica
+* Infinity Algorithm <ref>https://www.factom.com/blog/p19, access 07/04/18.</ref>
+* iSoftStone <ref>https://www.factom.com/blog/p10, access 07/04/18.</ref>
+* Ancun (Memorandum of Understanding, MOU) <ref>https://www.factom.com/blog/p9, access 07/04/18.</ref>
+* SmartContract.com <ref>https://www.factom.com/blog/smartcontract-factom-announce-collaboration, access 07/04/18.</ref>
+* Intrino
+* DataYes <ref>https://www.factom.com/blog/p7, access 07/04/18.</ref>
+* FPT <ref>https://coinjournal.net/fpt-and-factom-announce-global-partnership/, access 07/04/18.</ref>
+
+
+
+==Location==
+
+
+Address: 
+* 7320 N Mopac Expy #301
+* Austin
+* Texas 78731
+* USA
+Coordinates: 
+*Longitude: 30.35605
+* Latitude: –97.7487887
+* Link: [https://www.google.com/maps/place/7320+N+Mopac+Expy+%23301,+Austin,+TX+78731,+USA/@30.35605,-97.7487887,18z/data=!4m5!3m4!1s0x8644cb0f5966c9ad:0x1cc8f11f5a89f1fa!8m2!3d30.3560315!4d-97.7479089 Google Maps]
+
+
+==Team==
+* Paul, Snow, CEO
+* David Johnston, Chairman of the Board 
+* Brian Deren, Chief Scientist
+* Zachary, Lynde, CFO
+* Andrew, Yashchuk, VP of Product Management
+* Laurie, Pyle, COO
+* Zeen, Zhang, China General Manager
+* Abhi, Dobhal, VP of Business Development
+* Michael, Been, Core Developer<ref>https://www.factom.com/about/team, access 07/04/18</ref>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: FCT
+* Token Type: Utility/Payment Token <ref name="Whitepaper"/>
+* Link: [https://coinmarketcap.com/de/currencies/factom/ CoinMarketCap]
+
+
+==Funding==
+Before Factom issued their own crypto currencies Factoid (FCT) they were bootstrapped through an undisclosed network of private investors. However, they raised 2278 BTC through the public sale of Factoids in 2015. <ref name="coindesk">https://www.coindesk.com/blockchain-factom-raises-1-1-million-crowdsale/, access 07/04/18</ref> <ref>https://bnktothefuture.com/pitches/2087/_factom-inc-bringing-the-blockchain-to-business.html, access 07/04/18</ref> The purpose of this crowdsale was to fund the non-profit part of their technology which is backed by the London-based Factom Foundation. <ref>http://blog.bnktothefuture.com/bnktothefuture-case-study-factom/, access 07/04/18</ref> Later in the same year, Factom received $1.1m in funding as part of an equity crowdsale hosted by BnktToTheFuture to fund the for-profit part of their technology backed by Factom Inc.<ref name="coindesk"><ref>http://blog.bnktothefuture.com/bnktothefuture-case-study-factom/, access 07/04/18</ref> In 2016, Factom raised $4.2 million in another financing round (Series A) to build a series of new products for its blockchain data network from various global investors led by billionaire investor Tim Draper. <ref>https://www.reuters.com/article/us-factom-blockchain-draper-idUSKCN1251RG, access 07/04/18.</ref> <ref>https://www.coindesk.com/factom-blockchain-series-a-4-2-million/, access 07/04/18.</ref> In an extended Series A round, Factom raised $8m in 2017 which was the latest of a series of financing rounds of Factom. <ref>https://cointelegraph.com/news/factoms-latest-investment-sends-draper-startup-8mln-higher, access 07/04/18</ref>
+
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://www.facebook.com/FactomProject/ Facebook]	
+* [https://twitter.com/factom Twitter]
+* [https://www.linkedin.com/company/factom/ LinkedIn]
+* [https://www.youtube.com/channel/UCZlpFmzDKrSmTObhSPuhdSw/featured Youtube]
+* [https://www.reddit.com/r/factom/ reddit]
