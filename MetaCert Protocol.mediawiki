@@ -1,0 +1,101 @@
+=MetaCert Protocol=
+
+* Company Name: MetaCert<ref name =„website MetaCert“>https://metacert.com/, accessed on 26.06.2018.</ref>
+* Website: https://metacertprotocol.com
+* Founded: N/A
+* Stage: live<ref name=„website“>https://metacertprotocol.com/, accessed on 26.06.2018.</ref>
+* Team Size: 12<ref>https://metacertprotocol.com/team, accessed on 26.06.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $1.2m<ref>https://venturebeat.com/2016/11/22/metacert-raises-1-2-million-to-detect-malware-on-enterprise-bots-like-slack-microsoft-teams/, accessed on 26.06.2018.</ref>
+* Based on Blockchain: Ethereum main chain<ref>https://medium.com/metacert/as-platforms-emerge-metacert-protocol-will-stick-with-the-ethereum-blockchain-ee47086dc089, accessed on 26.06.2018.</ref>
+* Customer Segment: C2C<ref name=“whitepaper“>https://metacertprotocol.com/assets/metacert_white_paper.pdf, accessed on 27.06.2018.</ref>
+* Open-Source: Yes<ref name=“whitepaper“/>
+
+==Short Description==
+
+MetaCert is a company that works in the realm of online security and safety. The team started by creating a categorized and currently centralized registry of Uniform Resource Identifiers (URIs) including domain names, applications, bots, crypto wallet addresses, Application Programming Interfaces (APIs) and content classification. The registry contains information about trustworthiness and reputation of the registered URIs. MetaCert wants to create the open MetaCert Protocol by shifting the centralized registry of URIs to the Ethereum Blockchain (main chain). Hereby, the submission, validation and dispute processes of URIs will become decentralized and available to the public. To ensure a high quality of the data submitted and stored on the blockchain, MetaCert will implement a token-backed incentive system and a reputation score. Due to the incentive system, users reporting URIs will get the opportunity to earn money by collecting fees for data access of other users. The reputation score consists of various behavior parameters depending on the users activity in the system and makes sure that reliable participants will make contributions to the MetaCert Protocol.<ref name=”whitepaper”/><ref> https://next.metacert.com/, accessed on 27.06.2018.</ref>
+
+
+==Collaborations==
+
+[https://metacert.com/ MetaCert] (legal entity)
+
+[https://eyeo.com/ eyeo GmbH]
+
+[https://coolwallet.io/ CoolBitX]
+
+[https://www.appmakr.com/ appmakr]
+
+[https://rocket.chat/ Rocket.Chat]
+
+
+==Location==
+
+Address: N/A
+
+Coordinates: N/A
+
+Latitude: N/A
+
+Longitude: N/A
+
+Link: N/A
+
+
+==Team==
+
+Paul Walsh, CEO
+
+Ian Hayward, COO
+
+Alfonso Valdes, Sys Ops
+
+Mario Alvarado, Engineer
+
+Jon Orlin, Head of Content
+
+Patrick Reilly, IP Attorney
+
+Satnam Narang, Head of Partner and Developer Relations
+
+Jeremy Nation, Chief Storyteller
+
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: N/A
+* Identification code: N/A
+* Token Type: N/A
+* Link: N/A
+
+==Funding==
+
+N/A
+
+==Revenue Model==
+
+N/A
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.facebook.com/MetaCertHQ Facebook]
+
+[https://twitter.com/metacert Twitter]
+
+[https://t.me/metacert Telegram]
