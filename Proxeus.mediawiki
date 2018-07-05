@@ -5,7 +5,7 @@
 * Founded: 2015<ref name=„website“>https://proxeus.com/en/, accessed on 03.07.2018.</ref>
 * Stage: Proof of Concept<ref name=„tech“>https://proxeus.com/en/tech/, accessed on 03.07.2018.</ref>
 * Team Size: 25<ref name=„about“>https://proxeus.com/en/about/, accessed on 03.07.2018.</ref>
-* Sector: Finacials (40), Information Technology (45) and Consumer Discretionary (25)
+* Sector: Financials (40), Information Technology (45) and Consumer Discretionary (25)
 * Funding: $25M<ref name =„ico“>https://medium.com/@proxeusapp_4423/how-we-launched-our-ico-with-zero-marketing-budget-and-raised-usd-25-million-in-two-days-e8adfb702848, accessed on 03.07.2018.</ref>
 * Based on Blockchain: Ethereum main chain and Hyperledger<ref name=„whitepaper“>https://docs.google.com/document/d/1R3r2ZglmGHwjTfxKRy5omBge5fwjk8iF8euMhdlf1yY/edit#, accessed on 03.07.2018.</ref>
 * Customer Segment: B2B<ref name=„whitepaper“/>
@@ -36,7 +36,7 @@ Lettstrasse 10
 
 9490 Vaduz 
 
-Liechtenstein
+Liechtenstein<ref>https://proxeus.com/en/impressum/, accessed on 03.07.2018.</ref>
 
 
 Coordinates: 
@@ -62,47 +62,7 @@ Philippe Furter, COO
 
 Anders Mathis, CFO
 
-Dave Taylor, Head of Communications & PR
-
-Kathryn Willcox, HR Manager
-
-Manuel Gall, Project Manager
-
-Fabian Mösli, Project Manager
-
-Katrin Schuler, Project Manager
-
-Arta Veliju, Project Assistant
-
-Mathieu Amsler, Business Development
-
-Frederico Apóstolo, Back-end developer
-
-Serafima Grigoryan, Mobile developer
-
-Cyrill Steinmetz, Front-end developer
-
-David Matter, Front-end developer
-
-Pedro Tiple, Back-end developer
-
-Rodrigo Saraiva, Back-End developer
-
-Stephan Balzer, Junior Digitalisation Manager
-
-João Frazão, Back-end developer
-
-Lotta Keski-Mäenpää, Communications & PR
-
-Tiago Mota, Back-end developer
-
-Slavik Koval, Back-end developer
-
-Walter Sanchez, Project Manager
-
-Jan-Erik Gagnum, Full-Stack Developer
-
-
+Dave Taylor, Head of Communications & PR<ref name="about"/>
 
 
 ==Key Indicators==
@@ -111,7 +71,7 @@ Jan-Erik Gagnum, Full-Stack Developer
 * Business Volume: N/A
 * Valuation: N/A
 * Revenue: N/A 
-* Tradability: Token
+* Tradability: Token<ref>https://proxeus.com/en/xes/, accessed on 03.07.2018.</ref>
 * Identification code: XES<ref>https://proxeus.com/en/xes/, accessed on 03.07.2018.</ref>
 * Token Type: Utility/Payment token<ref name=„whitepaper“/>
 * Link: [https://coinmarketcap.com/currencies/proxeus/ CoinMarketCap]
