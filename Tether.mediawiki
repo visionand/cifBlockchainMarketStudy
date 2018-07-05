@@ -1,0 +1,99 @@
+=Tether=
+
+* Alias: Realcoin<ref>https://www.coindesk.com/realcoin-relaunches-tether-avoid-altcoin-association/, accessed on 05.07.2018.</ref>
+* Company Name: Tether Limited<ref name=„whitepaper“>https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf, accessed on 04.07.2018.</ref> 
+* Website: https://tether.to/
+* Founded: 2015<ref name=„ukbusins“>https://www.businessinsider.de/tether-explained-bitcoin-cryptocurrency-why-people-worried-2018-1?r=UK&IR=T, accessed on 04.07.2018.</ref>
+* Stage: live<ref name=website“>https://tether.to/, accessed on 04.07.2018.</ref>
+* Team Size: N/A
+* Sector: Financials (40)<ref name=„website“/>
+* Funding: N/A
+* Based on Blockchain: Bitcoin<ref name=„whitepaper“/> 
+* Customer Segment: B2B/B2C/C2C<ref name=„whitepaper“/>
+* Open-Source: Yes (Tethers on Bitcoin blockchain) and No (Tether.to web wallet)<ref name=„whitepaper“/>
+
+
+==Short Description==
+
+Tether claims to be a stable token based on the Bitcoin blockchain that is pegged to fiat currencies. To avoid price volatility, Tether Limited (holding company) states to hold reserves greater than or equal to the total amount of Tether tokens in circulation. According to Tether Limited, Tethers can be converted at a one-to-one exchange rate into fiat currency at any time. The Tether system consists of three layers: the Bitcoin blockchain, the  Omni Layer protocol and Tether Limited. Hereby, the Bitcoin blockchain is used as a basic transactional ledger. Because tokens cannot directly be created on the Bitcoin blockchain, Tether Limited makes use of the Omni Layer protocol (second layer) that is built on top of the Bitcoin blockchain and enables the issuance of tokens. The last layer consists of the company itself that is responsible for the control of both Tethers and reserves. Tether Limited identifies the centralized management of fiat currency reserves as a weakness in the Tether system. Therefore, bank account balances are being published on the [https://wallet.tether.to/transparency website’s transparency page] and bank deposits are regularly being monitored by an independent and professional auditor.<ref name=„whitepaper“>
+
+
+==Collaborations==
+
+Tether Limited (legal entity)
+
+[https://www.freehsporkinsullivan.com/ Freeh Sporkin & Sullivan, LLP]
+
+[https://www.cathaybk.com.tw/cathaybk/english/eindex.htm Cathay United Bank]
+
+[https://www.hwataibank.com.tw/frame_eng.htm Hwatai Bank]
+
+Note: Freeh Sporkin & Sullivan, LLP is the company that regularly audits the bank accounts of Tether Limited to verify if all Tethers circulating are backed at a one-to-one-ration with fiat currency.<ref>https://tether.to/fss-report-transparency-update/, accessed on 04.07.2018.</ref> Cathay United Bank and Hwatai Bank are the banks based in Taiwan where the reserves of Tether Limited are deposited.<ref name=„whitepaper“/>
+
+==Location==
+
+Based in Hong Kong with offices in Switzerland (no detailed information)<ref name=„contact“>https://tether.to/contact-us/, accessed on 04.07.2018.</ref>
+
+Address: N/A
+
+Coordinates: N/A
+
+Latitude: N/A
+
+Longitude: N/A
+
+Link: N/A
+
+
+==Team==
+
+J.L. van der Velde, Chief Executive Officer
+
+Giancarlo Devasini, Chief Financial Officer
+
+Philip G. Potter, Chief Strategy Officer
+
+Matthew Tremblay, Chief Compliance Officer
+
+Stuart Hoegner, General Counsel<ref>https://tether.to/about-us/, accessed on 05.07.2018.</ref>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume:  N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Token<ref name=„cmc“>https://coinmarketcap.com/currencies/tether/, accessed on 04.07.2018.</ref>
+* Identification code: USDT<ref name=„cmc“/>
+* Token Type: Utility/Payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/tether/ CoinMarketCap]
+
+
+==Funding==
+
+N/A
+
+==Revenue Model==
+
+N/A
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/Tether_to/ Twitter]
+
+[https://www.facebook.com/tether.to Facebook]
+
+[https://www.linkedin.com/company/tether/ LinkedIn]
