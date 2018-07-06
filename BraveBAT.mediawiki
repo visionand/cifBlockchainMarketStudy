@@ -1,0 +1,116 @@
+=Brave/Basic Attention Token=
+
+* Company Name: Brave Software, Inc.<ref name=„website“>https://brave.com/, accessed on 05.07.2018.</ref>
+* Website: https://brave.com/, https://basicattentiontoken.org/index/
+* Founded: 2014<ref name=„bloomberg“>https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=317170098, accessed on 05.07.2018.</ref>
+* Stage: live<ref name=„website“/>
+* Team Size: 66<ref name=„about“>https://brave.com/about/, accessed on 05.07.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $36M<ref name=„ico1“>https://basicattentiontoken.org/bat-launches-raising-36m-in-less-than-30-seconds/, accessed on 05.07.2018.</ref>
+* Based on Blockchain: Ethereum (main chain)<ref name=„etherscan“>https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef, accessed on 05.07.2018.</ref>
+* Customer Segment: B2C<ref name=„whitepaper“>https://basicattentiontoken.org/index/BasicAttentionTokenWhitePaper-4.pdf, accessed on 05.07.2018.</ref>
+* Open-Source: Yes<ref name=„website“/>
+
+
+==Short Description==
+
+Brave Software, Inc. sees considerable market inefficiencies in the online advertising market because of the presence of numerous middlemen taking parts of the advertising pie.<ref name=„whitepaper“>https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf, accessed on 05.07.2018.</ref> For this reason, the company presents a solution that consists on the one hand of the Brave web browser and on the other hand of the ERC-20 Basic Attention Token (BAT) on the Ethereum blockchain (main chain).<ref name=„bravebat“>https://basicattentiontoken.org/faq/#Brave-BAT, accessed on 05.07.2018.</ref> The Brave web browser blocks ads and trackers and analyzes the users browsing activity („attention“) in an anonymized way to reward publishers according to the user’s attention devoted to their content. The browser is supplemented by the introduction of the Basic Attention Token that serves as a medium of exchange between users, publishers and advertisers. Advertisers send payments to publishers for showing their ads. In turn, users can adapt the browser’s default settings and allow certain kinds of ads. Thus, they will receive a share of the advertiser’s payment to the publisher and are thereby financially compensated for their attention.<ref name=„whitepaper“/> The collected revenue can either be kept or donated to publishers. There are two ways to donate: Automatic micropayments according to the time spent on each website or manual donation according to the user’s preferences. Brave takes a 5% share of every donation to generate revenue.<ref name=„website“>
+
+
+==Collaborations==
+
+Brave Software Inc. (legal entity)
+
+[https://uphold.com/ Uphold]<ref name=„partners“>https://brave.com/faq/#partners, accessed on 05.07.2018.</ref>
+
+[https://duckduckgo.com/ DuckDuckGo]<ref name=„partners“/>
+
+[https://www.privateinternetaccess.com/ Private Internet Access]<ref name=„partners“/>
+
+
+
+[http://www.townsquaremedia.com/ Townsquare Media, Inc.]<ref name=„partner2“>https://brave.com/townsquare-partnership, accessed on 05.07.2018.</ref>
+
+==Location==
+
+Address: 
+
+512 Second Street, Floor 2
+
+San Francisco, CA 94107 USA<ref name=„website“/>
+
+
+Coordinates: 
+
+Latitude: 37.7828409
+
+Longitude: -122.39335619999997
+
+
+
+Link: [https://www.google.com/maps/place/512+2nd+St+Floor+2,+San+Francisco,+CA+94107,+USA/@37.7827092,-122.3957475,17z/data=!3m1!4b1!4m5!3m4!1s0x8085807904a82215:0x80646dea7c604c64!8m2!3d37.7827092!4d-122.3935642 Google Maps]
+
+
+==Team==
+
+
+Brendan Eich, Founder & CEO
+
+Brian Bondy, Founder & CTO
+
+Yan Zhu, Chief Information Security Officer
+
+Ben Livshits, Chief Scientist
+
+David Temkin, Chief Product Officer
+
+Brian Brown, Chief Business Officer
+
+Brad Richter, Head of Design
+
+Catherine Corre, Head of Communications
+
+Christine Chua, Head of HR
+
+Johnny Ryan, Chief Policy & Industry Relations Officer
+<ref name=„about“/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Basic Attention Token<ref name=„whitepaper“/>
+* Identification code: BAT<ref name=„whitepaper“/>
+* Token Type: Utility/Payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/basic-attention-token/ CoinMarketCap]
+
+
+==Funding==
+
+2017: By selling the Basic Attention Token (BAT) in an ICO, Brave raised 156’250 ETH worth $36M at that time.<ref name=„ico1“/><ref name=„ico2“>https://basicattentiontoken.org/bat-sale-finishes-quickly/, accessed on 05.07.2018.</ref>
+
+==Revenue Model==
+
+Commission and Trading<ref name=„website“/>
+
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/brave Twitter]
+
+[https://reddit.com/r/brave_browser Reddit]
