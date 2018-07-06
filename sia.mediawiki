@@ -15,14 +15,14 @@
 
 ==Short Description==
 
-Sia is a project of Nebulous, Inc. that aims to offer a blockchain-based solution for cloud storage services. The idea is to make privately owned underutilized hard drive capacity publicly available. Data owners are being matched with storage providers (hosts) via a public and open-source blockchain. This blockchain-based platform serves as a decentralized marketplace that runs without an intermediary. To ensure privacy and data integrity, files are being shredded, encrypted and distributed over various hosts. Furthermore, Sia makes use of a redundancy scheme called “Reed-Solomon erasure coding“ that guarantees the ability to recover files even when up to two thirds of all hosts go offline. For each agreement between hosts and users a special kind of smart contract (file contract) is created on the underlying Sia blockchain. File contracts determine components of the agreement such as contract duration, uptime commitments and prices for several services. The Sia network enforces these contracts automatically with no need for an intermediary. Transactions in the network are made using the Siacoin cryptocurrency on the Sia blockchain. There is a second cryptocurrency called Siafunds built on the blockchain. A fee of 3.9% of each Siacoin payment goes to the holders of Siafunds.<ref name=„sia”/> <ref name=„siatech”>https://sia.tech/technology, accessed on 07.04.2018.</ref> <ref name=„siafunds”>https://siawiki.tech/wallet/siafund, accessed on 07.04.2018.</ref>
+Sia is a project of Nebulous, Inc. that aims to offer a blockchain-based solution for cloud storage services. The idea is to make privately owned underutilized hard drive capacity publicly available. Data owners are being matched with storage providers (hosts) via a public and open-source blockchain. This blockchain-based platform serves as a decentralized marketplace that runs without an intermediary. To ensure privacy and data integrity, files are being shredded, encrypted and distributed over various hosts. Furthermore, Sia makes use of a redundancy scheme called “Reed-Solomon erasure coding“ that guarantees the ability to recover files even when up to two thirds of all hosts go offline. For each agreement between hosts and users a special kind of smart contract (file contract) is created on the underlying Sia blockchain. File contracts determine components of the agreement such as contract duration, uptime commitments and prices for several services. The Sia network enforces these contracts automatically with no need for an intermediary. Transactions in the network are made using the Siacoin cryptocurrency on the Sia blockchain. There is a second cryptocurrency called Siafunds built on the blockchain. A fee of 3.9% of each Siacoin payment goes to the holders of Siafunds.<ref name=„sia“/> <ref name=„siatech”>https://sia.tech/technology, accessed on 07.04.2018.</ref> <ref name=„siafunds”>https://siawiki.tech/wallet/siafund, accessed on 07.04.2018.</ref>
 
 ==Collaborations==
 
 
 Nebulous, Inc. (legal entity)
 
-[http://www.minebox.io/ Minebox IT Services GmbH]
+[http://www.minebox.io/ Minebox IT Services GmbH]<ref name=„collaborations“>https://www.pr.com/press-release/701696, accessed on 05.07.2018.</ref>
 
 
 ==Location==
@@ -73,9 +73,9 @@ Jacob Johnston, Operations
 * Business Volume: N/A
 * Valuation: N/A
 * Revenue: N/A
-* Tradability: Siacoin and Siafund
-* Identification code: SC and SF
-* Token Type: Utility/payment token (Siacoin) and Security-like token (Siafund)
+* Tradability: Siacoin and Siafund<ref name=„scsf“>https://siasetup.info/learn/siacoins_and_siafunds, accessed on 05.07.2018.</ref> 
+* Identification code: SC and SF<ref name=„scsf“/>
+* Token Type: Utility/payment token (Siacoin) and Security-like token (Siafund)<ref name=„scsf“/>
 * Link: [https://coinmarketcap.com/currencies/siacoin/ Siacoin], [https://coinmarketcap.com/currencies/sianote/ Siafund]
 
 
@@ -96,7 +96,7 @@ Investors include Procyon Ventures, Raptor Group, Fenbushi Capital and Xiaolai L
 
 ==Revenue Model==
 
-Comission and Trading
+Comission and Trading<ref name=„siafunds”/>
 
 ==Additional Information==
 
