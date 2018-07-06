@@ -6,7 +6,7 @@
 * Stage: Proof of Concept<ref name=„tech“>https://proxeus.com/en/tech/, accessed on 03.07.2018.</ref>
 * Team Size: 25<ref name=„about“>https://proxeus.com/en/about/, accessed on 03.07.2018.</ref>
 * Sector: Financials (40), Information Technology (45) and Consumer Discretionary (25)
-* Funding: $25M<ref name =„ico“>https://medium.com/@proxeusapp_4423/how-we-launched-our-ico-with-zero-marketing-budget-and-raised-usd-25-million-in-two-days-e8adfb702848, accessed on 03.07.2018.</ref>
+* Funding: $25M<ref name=„ico“>https://medium.com/@proxeusapp_4423/how-we-launched-our-ico-with-zero-marketing-budget-and-raised-usd-25-million-in-two-days-e8adfb702848, accessed on 03.07.2018.</ref>
 * Based on Blockchain: Ethereum main chain and Hyperledger<ref name=„whitepaper“>https://docs.google.com/document/d/1R3r2ZglmGHwjTfxKRy5omBge5fwjk8iF8euMhdlf1yY/edit#, accessed on 03.07.2018.</ref>
 * Customer Segment: B2B<ref name=„whitepaper“/>
 * Open-Source: Yes<ref>https://techcrunch.com/2018/04/22/proxeus-wants-to-be-the-wordpress-of-blockchain/, accessed o 03.07.2018.</ref>
@@ -14,7 +14,7 @@
 
 ==Short Description==
 
-Proxeus is a Swiss- and Liechtenstein-based company that is aimed at upgrading conventional business systems by offering a simple framework to create decentralized applications (DApps) on blockchains such as Ethereum and Hyperledger. Thus, enterprises will be able to relocate their legal, financing, sales, production, human resources and payment processes to the blockchain. As the aforementioned vision is a long-term project, the company currently focuses on developing blockchain-based solutions for three main realms: Logistics & trade finance, tokenization of assets and legal & compliance. The first field includes trade finance, algorithmic insurance and more. Tokenization of assets involves certification on a blockchain of anything that is unique (e.g. course certificates at the University of Basel). The last realm is about digitization of legal and compliance processes such as Token Generating Events (TGEs). The technology offered by Proxeus consists of the base layer (Proxeus core), the middle layer (Proxeus modules) and the top layer (DApps). The base layer is designed to generate human- and machine-readable documents. The middle layer extends the base layer by adding several functionalities such as monitoring blockchain activities, payment and more. Finally, the top layer brings these two layers together and a front-end allows users to create DApps in a simplified way.<ref name=„tech“/><ref name=„whitepaper“/>
+Proxeus is a Swiss- and Liechtenstein-based company that is aimed at upgrading conventional business systems by offering a simple framework to create decentralized applications (DApps) on blockchains such as Ethereum and Hyperledger. Thus, enterprises will be able to relocate their legal, financing, sales, production, human resources and payment processes to the blockchain. As the aforementioned vision is a long-term project, the company currently focuses on developing blockchain-based solutions for three main realms: Logistics & trade finance, proof of existence and legal & compliance. The first field includes trade finance, algorithmic insurance and more. Proof of existence involves certification on a blockchain of anything that is unique (e.g. course certificates at the University of Basel). The last realm is about digitization of legal and compliance processes such as Token Generating Events (TGEs). The technology offered by Proxeus consists of the base layer (Proxeus core), the middle layer (Proxeus modules) and the top layer (DApps). The base layer is designed to generate human- and machine-readable documents. The middle layer extends the base layer by adding several functionalities such as monitoring blockchain activities, payment and more. Finally, the top layer brings these two layers together and a front-end allows users to create DApps in a simplified way. Proxeus won the Swiss FinTech Award in the category "Early Stage Start-up of the Year" in 2018.<ref>https://www.fuw.ch/wp-content/uploads/2017/11/press-release-swiss-fintech-awards-2018-1.pdf, accessed on 05.07.2018.</ref><ref name=„tech“/><ref name=„whitepaper“/>
 
 
 ==Collaborations==
@@ -62,7 +62,7 @@ Philippe Furter, COO
 
 Anders Mathis, CFO
 
-Dave Taylor, Head of Communications & PR<ref name="about"/>
+Dave Taylor, Head of Communications & PR<ref name=„about“/>
 
 
 ==Key Indicators==
