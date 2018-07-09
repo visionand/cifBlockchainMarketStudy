@@ -1,0 +1,135 @@
+=Nexo=
+
+* Company Name: Nexo AG<ref name=„website“>https://nexo.io/, accessed on 09.07.2018.</ref>
+* Website: https://nexo.io/
+* Founded: 2017<ref name=„whitepaper“>https://nexo.io/assets/downloads/Nexo-Whitepaper.pdf, accessed on 09.07.2018.</ref>
+* Stage: live<ref name=„website“/>
+* Team Size: 15<ref name=„website“/>
+* Sector: Financials (40)
+* Funding: $52.5M<ref name=„website“/>
+* Based on Blockchain: Ethereum (main chain)<ref name=„etherscan“>https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206, accessed on 09.07.2018.</ref>
+* Customer Segment: B2C<ref name=„whitepaper“/>
+* Open-Source: Yes<ref name=„github“>https://github.com/nexofinance/NEXO-Token, accessed on 09.07.2018.</ref>
+
+
+==Short Description==
+
+Nexo AG is a company located in Zug, Switzerland that offers crypto-backed loans to its customers.<ref name=„website“/> The idea behind the project is to give clients the opportunity to unlock their crypto currency’s value without selling them and thereby forgoing potential price gains. In order to provide this service, Nexo created a wallet where customers can deposit their Bitcoins, Ethers and NEXO tokens (in the future, further altcoins will also be accepted).<ref name=„website“/><ref name=„whitepaper“/> For each loan request, a smart contract is created on the blockchain defining the rules of the agreement. The crypto assets are then stored on the contract address and are managed by the smart contract’s code. As soon as the transaction on the blockchain is confirmed, customers can access immediate loans denominated in fiat currency up to the value of the deposited assets. The Nexo Oracle supplies the smart contract with data such as price changes and interest payments. Thus, a flexible adjustment of loan limits due to altered off-chain circumstances is enabled (e.g. price increases). Once the loan is repaid, crypto assets are being unlocked and clients can fully control their coins or tokens. Special loan conditions such as interest discounts apply to customer using NEXO Tokens as deposits.<ref name=„whitepaper“/> In addition, NEXO Tokens pay out 30% from the company’s profits in the form of dividends.<ref name=„dividends“>https://medium.com/nexo/nexo-to-accept-binance-coin-bnb-as-collateral-for-instant-crypto-backed-loans-74bb2fe1cfba, accessed on 09.07.2018.</ref>
+
+==Collaborations==
+
+Nexo AG (legal entity)
+
+Nexo is powered by [https://credissimo.com/ Credissimo]<ref name=„website“/>
+
+[https://wax.io/ WAX]<ref name=„wax“>https://medium.com/nexo/nexo-lending-platform-to-allow-wax-tokens-as-collateral-for-loans-8859137865c4, accessed on 09.07.2018.</ref>
+
+[https://onfido.com/ Onfido]<ref name=„onfido“>https://medium.com/nexo/nexo-partners-with-onfido-for-highest-compliance-standards-2963a19b7585, accessed on 09.07.2018.</ref>
+
+[https://www.bitgo.com/info/ BitGo]<ref name=„bitgo“>https://medium.com/nexo/nexo-teams-up-with-bitgo-to-ensure-security-of-clients-funds-deeb4bce8bb7, accessed on 09.07.2018.</ref>
+
+Furthermore, Nexo is a member of [https://cryptovalley.swiss/ Crypto Valley]<ref name=„cryptovalley“>https://medium.com/nexo/nexo-accepts-crypto-valley-association-membership-invitation-acec64f5fc00, accessed on 09.07.2018.</ref>
+
+
+==Location==
+
+Address:
+
+Nexo AG
+
+Grafenaustrasse 15
+
+6300 Zug
+
+Switzerland<ref name=„website“/>
+
+ 
+
+Coordinates: 
+
+Latitude: 47.173731
+
+Longitude: 8.511538
+
+ 
+
+Link: 
+
+[https://www.google.com/maps/place/Grafenaustrasse+15,+6300+Zug/@47.1737306,8.5093489,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaa5f3c7dd153:0x205d6b51e0c1d3eb!8m2!3d47.1737306!4d8.5115376 Google Maps]
+
+==Team==
+
+Kosta Kantchev, Managing Partner
+
+Georgi Shulev, Managing Partner 
+
+Antoni Trenchev, Managing Partner 
+
+Vasil Petrov, CTO 
+
+Kalin Metodiev, Corporate Finance 
+
+Kamen Trendafilov, Finance Director 
+
+Savina Cherneva, Compliance 
+
+Bilyana Christova, Marketing 
+
+Plamen Todorov, Blockchain Developer 
+
+Teodora Atanasova, Business Development
+
+Joro Yordanov, Product Designer 
+
+Boris Delev, Technical Lead 
+
+Ivan Kostov, Marketing 
+
+Yasen Damyanov, Business Development 
+
+Mario Krastev, Senior Quality Assurance Specialist 
+
+<ref name=„website“/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: NEXO Token<ref name=„whitepaper“/>
+* Identification code: NEXO<ref name=„icodrops“>https://icodrops.com/nexo/, accessed on 09.07.2018.</ref>
+* Token Type: Security-like token<ref name=„bnb“>https://medium.com/nexo/nexo-to-accept-binance-coin-bnb-as-collateral-for-instant-crypto-backed-loans-74bb2fe1cfba, accessed on 09.07.2018.</ref>
+* Link: [https://coinmarketcap.com/currencies/nexo/ CoinMarketCap]
+
+
+==Funding==
+
+2018: The NEXO Token was sold in a ICO. Thereby, Nexo AG raised Bitcoins and Ethers worth $52.5M in total. A 15% discount was granted to investors participating in the token pre-sale.<ref name=„icodrops“/>
+
+==Revenue Model==
+
+Interest<ref name=„overview“>https://nexo.io/assets/downloads/Nexo-Overview.pdf?=1, accessed on 09.07.2018.</ref>
+
+
+==Additional Information==
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://t.me/nexofinance Telegram]
+
+[https://twitter.com/NexoFinance Twitter]
+
+[https://www.reddit.com/r/Nexo/ Reddit]
+
+[https://medium.com/nexo Medium]
+
+[https://www.facebook.com/NexoFinance Facebook]
