@@ -1,0 +1,115 @@
+=QuarkChain=
+
+* Company Name: QuarkChain Foundation Ltd<ref name=„website“>https://www.quarkchain.io/, accessed on 09.07.2018.</ref>
+* Website: https://www.quarkchain.io/
+* Founded: 2017<ref name=„whitepaper“>https://www.quarkchain.io/QUARK%20CHAIN%20Public%20Version%200.3.5.pdf, accessed on 09.07.2018.</ref>
+* Stage: Proof of concept<ref name=„whitepaper“/>
+* Team Size: 9<ref name=„website“>
+* Sector: Financials (40)
+* Funding: $20M<ref name=„icodrops“>https://icodrops.com/quarkchain/, accessed on 09.07.2018.</ref>
+* Based on Blockchain: Root Blockchain and Shards (own)<ref name=„whitepaper“/>
+* Customer Segment: C2C<ref name=„whitepaper“/>
+* Open-Source: Yes<ref name=„whitepaper“/>
+
+
+==Short Description==
+
+The main goal of QuarkChain is to address the scalability problem of conventional blockchain technology without suffering the loss of both decentralization and security. Therefore, QuarkChain proposes a solution based on a root blockchain and so-called shards (minor blockchains). All blockchains within the QuarkChain Network are secured by proof-of-work consensus algorithms. Each shard processes a subset of all transactions in the system. The shards are connected to each other by the root blockchain where block headers of shard blocks are stored. QuarkChain is implementing numerous incentive mechanisms in order to ensure the even distribution of hash power among all shards and the devotion of at least 50% of all hash power to the root blockchain. Thus, a high stability of the system is guaranteed. Further incentive mechanisms and algorithms are deployed to counteract the risk of centralization. To enable cross-shard communication, QuarkChain is developing a smart wallet managing all addresses on each minor blockchain automatically. Thereby, users only need to store one private key while at the same time being able to transact within the whole network and across all shards.<ref name=„whitepaper“/> In addition, QuarkChain will support various DApps and smart contracts based on the Ethereum virtual machine (EVM).<ref name=„faq“>https://www.quarkchain.io/faq.html, accessed on 10.07.2018.</ref><ref name=„whitepaper“/> Once the system is fully operational, QuarkChain claims to be able to process more than 100'000 transactions per second.<ref name=„website“/>
+
+==Collaborations==
+
+N/A
+
+
+==Location==
+
+Address: 
+
+6 Eu Tong Sen Street #12 
+
+The Central
+
+Singapore 059817<ref name=„address“>https://github.com/ico-check/ico-check/issues/112, accessed on 10.07.2018.</ref>
+
+ 
+
+Coordinates: 
+
+Latitude: 1.288962
+
+Longitude: 103.846791
+
+ 
+
+Link: [https://www.google.com/maps/place/6+Eu+Tong+Sen+St,+Singapore+059817/@1.2886812,103.8443798,17z/data=!3m2!4b1!5s0x31da190a9ea66315:0xd9000ccabb9844d0!4m5!3m4!1s0x31da190a9976f6c1:0xecd8c5ad1d30bb30!8m2!3d1.2886812!4d103.8465685?hl=de Google Maps]
+
+
+==Team==
+
+Qi Zhou, Founder
+
+Zhaoguang Wang, Software Engineer
+
+Xiaoli Ma, Research Scientist
+
+Yaodong Yang, Research Scientist
+
+Wencen Wu, Research Scientist
+
+Anthurine Xiang, Marketing and Community
+
+Ting Du, Business Development and Eco-system
+
+Patrick Mei, Community Manager
+
+Julianne Zhu, Social Media Broadcasting
+
+<ref name=„website“/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: QuarkChain token<ref name=„coinmarketcap“>https://coinmarketcap.com/currencies/quarkchain/, accessed on 09.07.2018.</ref>
+* Identification code: QCK<ref name=„coinmarketcap“/>
+* Token Type: Utility/Payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/quarkchain/ CoinMarketCap]
+
+
+==Funding==
+
+2018: QuarkChain started an ICO in June and raised the equivalent of $20M in Ethers.<ref name=„icodrops“/><ref name=„tokensale“>https://steemit.com/ico/@quarkchain/quarkchain-token-sale-details, accessed on 10.07.2018.</ref> The token sale was divided into a public and a private sale with a hard cap of $4M (public) and $16M in the private sale respectively. Investors taking part in the private sale received 25% more QuarkChain tokens per Ether than Investors participating in the crowdsale.<ref name=„tokenterms“>https://www.quarkchain.io/QuarkChain-Token-Sale-Terms[EN-ZH].pdf, accessed on 10.07.2018.</ref>  The ERC-20 QuarkChain token based on the Ethereum blockchain will be converted into tokens on the QuarkChain blockchains as soon as the main network is launched.<ref name=„faq“/>
+
+
+
+==Revenue Model==
+
+Nonprofit<ref name=„whitepaper“/>
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://github.com/QuarkChain GitHub]
+
+[https://t.me/quarkchainio Telegram]
+
+[https://medium.com/@quarkchainio Medium]
+
+[https://twitter.com/quark_chain Twitter]
+
+[https://www.facebook.com/quarkchain/ Facebook]
+
+[https://www.linkedin.com/company/quarkchain/ LinkedIn]
