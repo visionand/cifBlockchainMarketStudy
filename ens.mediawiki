@@ -1,0 +1,111 @@
+=Ethereum Name Service (ENS)=
+
+* Company Name: True Names Ltd.<ref name=„company“>https://medium.com/the-ethereum-name-service/ens-progress-update-mid-2018-3f311e7aea11, accessed on 12.07.2018.</ref>
+* Website: https://ens.domains/
+* Founded: 2017<ref name=„launch“>https://medium.com/the-ethereum-name-service/announcing-the-ethereum-name-service-relaunch-date-4390af6dd9a2, accessed on 12.07.2018.</ref>
+* Stage: live<ref name=„website“>https://ens.domains/, accessed on 12.07.2018.</ref>
+* Team Size: minimum 9<ref name=„company“/>
+* Sector: Information Technology (45)
+* Funding: $1M<ref name=„company“/>
+* Based on Blockchain: Ethereum (main chain)<ref name=„etherscan“>https://etherscan.io/address/0x6090a6e47849629b7245dfa1ca21d94cd15878ef, accessed on 12.07.2018.</ref>, Ethereum Ropsten testnet and Ethereum Rinkeby testnet<ref name=„documentation“>https://docs.ens.domains/en/latest/introduction.html, accessed on 12.07.2018.</ref>
+* Customer Segment: N/A<!-- I find it quite difficult to assign a customer segment to this project, any suggestions?-->
+* Open-Source: Yes<ref name=„github“>https://github.com/ensdomains, accessed on 12.07.2018.</ref>
+
+
+==Short Description==
+
+The Ethereum Name Service (ENS) is a project initiated by True Names Ltd and supported by the Ethereum Foundation.<ref name=„company“/> The ENS is an open and decentralized naming system built on the Ethereum blockchain (main chain).<ref name=„website“/> It is designed to assign human-readable names ending on „.eth“ (domains) to machine-readable identifiers such as public keys/external accounts and contract addresses. There are two main elements constituting the ENS: the registry and resolvers. The former is a smart contract storing all domains, subdomains and some key information such as the domain’s owner and the associated resolver. Resolvers, in contrast to the registry itself, conduct the translation of domain names into their corresponding address or hash.<ref name=„documentation“/> This task can be fulfilled by any contract that implements the relevant standard but is generally done by the public resolver.<ref name=„documentation“/><ref name=„zinsmeister“>https://medium.com/hydrogen-api/blockchain-in-the-real-world-ethereum-name-service-58b859de6a30, accessed on 12.07.2018.</ref> In order to distribute domain names, users are required to send bids to the smart contract (registrar). Subsequently, a sealed bid auction mechanism allocates the names among bidding users. Once the domain has been acquired, the owner controls all appertaining subdomains. For instance, if the University of Basel obtains ownership of the domain „unibas.eth“ it is put in charge of each subdomain ending with „.unibas.eth“ (e.g. cif.unibas.eth).<ref name=„zinsmeister“/> Thus, transaction to the Ethereum address of the University of Basel could be sent to the domain „unibas.eth“.
+
+
+==Collaborations==
+
+True Names Ltd (legal entity)
+
+[https://www.ethereum.org/foundation Ethereum Foundation]<ref name=„company“/>
+
+
+==Location==
+
+Address: 
+
+38 North Canal Road 
+
+Singapore 059294
+
+<ref name=„address“>Address retrieved from https://www.uen.gov.sg/ueninternet/faces/pages/uenSrch.jspx?_afrLoop=1682295317988815&_afrWindowMode=0&_adf.ctrl-state=cqlyzu4yg_21, accessed on 12.07.2018.</ref>
+
+ 
+
+Coordinates: 
+
+Latitude: 1.286981
+
+Longitude: 103.847023
+
+ 
+
+Link: [https://www.google.com/maps/place/38+N+Canal+Rd,+Singapur+059294/@1.286981,103.8448342,17z/data=!3m1!4b1!4m5!3m4!1s0x31da190afcb0fe5b:0x352ca7fc27a5eb78!8m2!3d1.286981!4d103.8470229?hl=en Google Maps] 
+
+
+==Team==
+
+Nick Johnson, Founder<ref name=„founder“>https://www.ethnews.com/ethereum-name-service-will-bridge-the-gap-to-mainstream-adoption, accessed on 12.07.2018.</ref>
+
+Beltran Berrocal, UX Designer
+
+Chris Remus, Project Manager
+
+Dean Eigenmann, Solidity Developer and Researcher
+
+Jeff Lau, Javascript & Frontend Developer
+
+Leonard Tan, Developer Evangelist
+
+Makoto Inoue, JS & Solidity Developer
+
+Rebecca Liebert, Graphic Designer
+
+Virgil Griffith, Interim Executive Director for True Names Ltd
+
+<ref name=„company“/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: N/A
+* Identification code: N/A
+* Token Type: N/A
+* Link: N/A
+
+
+==Funding==
+
+2018: True Names Ltd received a $1M Ethereum Foundation grant to finance the development of ENS. In the future, they will also be looking for grants and sponsorships from other organizations. Furthermore, True Names Ltd considers the introduction of usage fees to fund its projects.<ref name=„company“/>
+
+==Revenue Model==
+
+Nonprofit<ref name=„company“/>
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/ensdomains Twitter]
+
+[https://medium.com/the-ethereum-name-service Medium]
+
+[https://github.com/ensdomains GitHub]
