@@ -1,0 +1,114 @@
+= Ripple =
+
+* Company Name: Ripple Labs Inc.
+* Alias: OpenCoin Inc. <ref name="Bloomberg">https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=235707311, access 07/06/18.</ref>
+* Website: https://ripple.com
+* Founded: 2012 <ref name="Bloomberg"/>
+* Stage: Live <ref name="quartal">https://ripple.com/insights/q1-2018-xrp-markets-report/, access 07/09/18.</ref>
+* Team: ~ 150 <ref>https://hackernoon.com/4-alarming-reasons-ripple-might-not-be-what-you-think-9debc3c86985, access 07/06/18.</ref>
+* Sector: Financials (40)
+* Funding: $93.6m  <ref name="finance">https://www.crunchbase.com/search/funding_rounds/field/organizations/last_funding_type/ripple-labs, access 07/05/18.</ref>
+* Based on Blockchain: XRP Ledger
+* Customer Segment: B2C <ref>https://ripple.com, access 07/05/18.</ref>
+* Open-Source: Yes <ref>http://www.businessinsider.com/ripple-link-xrp-explained-2018-3, access 07/06/18.</ref>
+
+
+==Short Description==
+
+We need to distinguish between Ripple Labs Inc. the company and their coin XRP. 
+
+Ripple Labs Inc. is currently offering three products mainly focusing on banks:
+* xCurrent: All members of RippleNet – a decentralized, global network of banks – are connected through xCurrent, a standardized technology that enables messaging and transaction settlements among RippleNet members. xCurrent is based on the Interledger Protocol (ILP). Interledger provides secure payments across multiple assets on different ledgers, whereby ledgers outline various kinds of external payment systems such as blockchains as well as banks, p2p payment schemes or automated clearing house to name a few. <ref>https://interledger.org/rfcs/0001-interledger-architecture/, access 07/09/18.</ref><ref>https://ripple.com/files/xcurrent_brochure.pdf, access 07/09/18.</ref> The main goal of xCurrent is to provide interoperability between any and all currencies, not just cryptos. The same way xCurrent can handle any kind of fiat currencies as well as cryptocurrencies, XRP can be traded through the system. <ref name="btc-echo">https://www.btc-echo.de/xrapid-xcurrent-xvia-ein-blick-auf-ripple-und-xrp/, access 07/09/18.</ref> <ref>https://www.coindesk.com/xrp-fits-ripples-payments-products-explained/, access 07/09/18.</ref>
+* xRapid: However, if XRP is traded through the xCurrent system Ripple Inc. defines it as a new Product called xRapid. Companies can swap assets in and out of XRP to move it faster through Ripple`s Inc. xCurrent payment protocol. Thus liquidity costs caused by investments in emerging markets can be reduced because pre-funded local currency accounts are replaced by collectors, holding various stocks of currencies as part of the ILP protocol. 
+* xVia: An interface that wants to standardize transactions across different networks. xVia's application programming interface can be used by banks to use xCurrent or xRapid. <ref name="btc-echo">https://www.btc-echo.de/xrapid-xcurrent-xvia-ein-blick-auf-ripple-und-xrp/, access 07/06/18.</ref>
+
+XRP, the cryptocurrency, is based on the XRP ledger whose main component is a peer-to-peer network that provides a globally distributed ledger. Unlike Bitcoin the XRP consensus ledger is permissoned, meaning that there are no anonymous parties involved in the transaction validating process because Ripple Inc. determines who can run a validator node on their network. <ref>https://www.coindesk.com/ripple-blockchain-55-million-series-b/, access 07/09/18.</ref> <ref>https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains/, access 07/09/18.</ref>The ledger presents applications crucial information like the balance between accounts, the settings for each account, time stamps and transaction costs. Transactions are signed and sent by client applications (mobile web wallets, gateways to financial institutions and electronic trading platforms) to the network. The nodes consist of various distributed servers that process the incoming transactions. More accurately there are two types of nodes: 
+* tracking nodes are responsible for the distribution of the candidate transactions to its peers. So the various candidates are propagated through the entire network.
+* valdiating nodes that agree in multiple voting rounds on specific set of candidate transactions that should be considered and added to the next ledger (until 80% of the peers agree on the same set of candidate transactions).<ref>https://ripple.com/build/xrp-ledger-consensus-process/#footnote_6, access 07/09/18.</ref><ref>https://ripplenews.tech/2018/04/09/breaking-xrp-ledger-protocol-consensus-part-1/, access 07/09/18.</ref>
+
+
+==Collaborations==
+* Banco Santander
+* American Express FX International Payments
+* InstaRem
+* BeeTech
+* Currencies Direct
+* Standard Chartered Bank
+* MUFG (Toyota-Mitsubishi UFJ Financial Group)
+* Krungsri
+* Mercury FX
+* MoneyGram
+* Cambridge Global Payments
+* SBI Holdings
+* Banco Bilbao Vizcaya Argentaria (BBVA)
+* [https://docs.google.com/spreadsheets/d/1E1AcLBd_ykemoDAPwZsbl5f2wyrS7RhlAt94CrHXTAg/edit#gid=1168577263 Full List of Ripple Partnerships and RippleNet Implementations]
+
+
+
+==Location==
+
+
+Address:
+* 315 Montgomery St
+* 2nd Floor Floor
+* San Francisco, CA 94104
+* United States <ref>https://ripple.com/company/careers/, access 07/09/18.</ref>
+
+Coordinates:
+* Longitude: 37.7921154
+* Latitude: -122.4051932
+*Link: [https://www.google.com/maps/place/Ripple/@37.7921154,-122.4051932,17z/data=!3m1!4b1!4m5!3m4!1s0x8085808a112c9263:0xb36496512eece364!8m2!3d37.7921154!4d-122.4030045 Google Maps]
+
+Further Ripple Inc. has workspaces in New York, London, Sydney, India, Singapore and Luxembourg.
+
+==Team==
+
+* Brad Garlinghouse, CEO
+* Marcus Treacher, SVP of Customer Success
+* Antoinette O`Gorman, Chief Compliance Officer
+* David Schwartz, Chief Cryptographer
+* Stefan Thomas, CTO
+* Cory Johnson, Chief Market Strategist
+* Asheesh Birla, SVP of Product
+* Ron Will, CFO
+* Kanaan, SVP of Engineering
+* Sandi Kochhar, VP of People
+* Brynly Llyr, General Counsel
+* Monica Long, SVP of Marketing and Communication
+* John Mitchell, SVP of Global Sales 
+* Eric van Miltenburg, SVP of Business Operations<ref>https://ripple.com/company/leadership/, access 07/09/18.</ref>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: 
+* Valuation: N/A
+* Revenue: In Q1 2018, market participants purchased $16.6 million directly from XRP II, LLC. Additionally, the company sold $151.1 million worth of XRP. <ref name="quartal"/>
+* Tradeability: Token 
+* Identification code: XRP
+* Token Type: Utility/Payment token 
+* Link: [https://coinmarketcap.com/de/currencies/ripple/ CoinMarketCap]
+
+
+==Funding==
+
+In the period of 2012 to 2016 Ripple Inc. attracted a total of $93.6M of venture capital in several financing rounds. <ref name="finance"/> However, the XRP supply and distribution is another differentiating feature of Ripple. On 26. May 2016 Ripple decided to lock up 55 billions of XRP in 55 different Smart Contracts, each one escrowing 1 billion XRP. In doing so, they took on the criticism of centralization and uncertainty because the company itself held 61.68b of the total XRP supply of 100 billions XRP. Each of the 55 contracts will expire on the first day of every month from months 0 to 54. As a contract expires the XRP become available for Ripple`s use. At the end of each month the unused XRP get returned to the escrow queue. <ref>https://ripple.com/insights/ripple-to-place-55-billion-xrp-in-escrow-to-ensure-certainty-into-total-xrp-supply/, access 07/10/18.</ref> 
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+==Additional Informations==
+[https://hackernoon.com/the-ripple-currency-problem-why-permissioned-blockchains-will-devalue-xrp-d79aef84c074 Gateways, Trust Lines, Issuance]
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://github.com/ripple GitHub]
+* [https://www.facebook.com/ripplepay Facebook]	
+* [https://twitter.com/Ripple Twitter]
+* [https://www.linkedin.com/company/ripple-labs/ LinkedIn]
+* [https://www.reddit.com/r/Ripple/ reddit]
