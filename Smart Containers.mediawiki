@@ -1,0 +1,98 @@
+= Smart Containers =
+
+* Company Name: Smart Containers Group AG
+* Website: https://smartcontainers.ch/en/
+* Founded: 2012<ref name="Whitepaper">https://smartcontainers.ch/en/assets/20180502_smartcontainers_whitepaper_v2.pdf, access 07/04/18.</ref>
+* Stage: Live <ref>https://cryptowithoutborders.com/tag/logi/,access 07/13/18.</ref>
+* Team: ~ 80 <ref>https://smartcontainers.ch/en/about.html, access 07/05/18.</ref>
+* Sector: Industrials (20)
+* Funding: $36m (SMARC Coin), $4m (LOGI Coin), ~ $25m traditional financing rounds  <ref name="Whitepaper"/>
+* Based on Blockchain: Ethereum main chain <ref>https://etherscan.io/token/0xe293e3de207ce9db9729cc0856a1a1b8f916e376, access 07/05/18.</ref><ref>https://etherscan.io/token/0x5ae655088e79fa0ced7b472d3bacd215ef796ccc, access 07/05/18.</ref>
+* Customer Segment: B2B and B2C <ref name="Whitepaper"/>
+* Open-Source: Partially 
+
+
+==Short Description==
+
+Smart Containers Group is an established Swiss-based company holding that has been operational for five years and comprises two operating companies, namely Sky Cell and Food Guardians. The Group aims to disrupt the logistics sector by using their self-developed, temperature-controlled containers for sensitive pharmaceutical and food products across the supply chain. The containers are equipped with a newly developed and patented insulation technology. This cutting-edge hardware is further combined with technology solutions that enables the creation of a logistic ecosystem backed by the blockchain technology. They call it LOGI CHAIN with its own ERC-20 token LOGI Tokens that is used for payments in the LOGI CHAIN ecosystem. It addresses the current inefficient paper trail in logistics according to which an international shipment of a container calls for hundred of documents. Smart Containers have in mind to move this paper trail of the container onto blockchains. Public documents can be recorded on the Ethereum blockchain while confidential data and documents will be placed on a permissioned blockchain. An open source reader enables access to the corresponding documents for the various stakeholders of a shipment that they are able to process the relevant actions. Furthermore the integration of Smart Contracts in the process will automate the invoicing and payment process. Due to the sensors installed in the containers, its location can be determined at any time and even the container recognizes itself when a shipment has arrived at its destination and when its contents have been unloaded. Payments can therefore be executed instantaneously when the container is unloaded. <ref name="Whitepaper"/> <ref>https://masterthecrypto.com/smartcontainers-ico-review-smartcontainers-ico-analysis/, access 07/05/18.</ref>
+
+
+==Collaborations==
+* Emirates Sky Cargo
+* Cargolux
+* IATA <ref name="Whitepaper"/>
+
+
+
+==Location==
+
+
+Address head office:
+* Technoparkstrasse 1
+* 8005 Zürich
+* Switzerland <ref name="Location">https://smartcontainers.ch/en/contact.html, access 07/05/18.</ref>
+
+Coordinates:
+* Longitude: 47.3900597
+* Latitude: 8.5154366
+* Link: [https://www.google.com/maps/place/Technopark,+Technoparkstrasse+1,+8005+Zürich/@47.3900597,8.5154366,17z/data=!4m5!3m4!1s0x47900a473dddd8e3:0xed9948c1f7b2b01a!8m2!3d47.3901869!4d8.5158465 Google Maps]
+
+Address company domicile:
+* Smart Containers
+* Leimatt A
+* 6317 Oberwil bei Zug
+* Switzerland <ref name="Location"/>
+
+Coordinates: 
+* Longitude: 47.1432678
+* Latitude: 8.5066552
+* Link: [https://www.google.com/maps/search/Leimatt,+6317+Leimatt+A+6317+Oberwil+b.+Zug/@47.1432678,8.5066552,17z/data=!3m1!4b1 Google Maps]
+
+
+==Team==
+* Richard Ettl, CEO & Co-Founder
+* Nico Ros, CTO & Co-Founder
+* Andreas Ernst, CFO
+* Thomas Maroni, Head of IT
+* Carla Bünger, CMO & Business Development Manager <ref name="Whitepaper"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: LOGI token, SMARC token
+* Token Type: 
+** LOGI: Utility/Payment token 
+** SMARC: Security-like token <ref>https://masterthecrypto.com/smartcontainers-ico-review-smartcontainers-ico-analysis/, access 07/05/18.</ref>
+* Link: N/A
+
+
+==Funding==
+Smart Containers ICO for both of the tokens took place on June 7 2018 and ended on June 30 the same year.
+* SMARC: One SMARC token could be purchased for $0.4320. All in all, SMARC tokens of $36M could be sold. Most of these funds will be used primarily for the further development of the two sub-companies, Food Guardians ($13M) and SkyCells ($15M). SMARC is a profit-sharing token offering 20% of future dividends as well as any exit profits from subdivisions paid out in ETH (proportionally to tokens in circulation). The total supply of SMARC tokens is 150M with 120M available for the ICO.
+* LOGI: The LOGI coin is used to fuel the payment of smart contract transactions in the LOGI ecosystem. 20M tokens were available for the ICO. The hard cap was $4M. Most of these funds will be used for the development to date and for the foundation, which always strives to ensure that everything runs smoothly. <ref>https://cryptowithoutborders.com/tag/logi/, access 07/13/18.</ref><ref name="Whitepaper"/>
+
+
+==Revenue Model==
+Commission and trading
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://github.com/SmartContainers GitHub]
+* [https://medium.com/smart-containers Medium]
+* [https://www.facebook.com/Smart-Containers-157874458234951/ Facebook]	
+* [https://twitter.com/SMARC_ICO Twitter]
+* [https://www.linkedin.com/company/smart-containers-group/ LinkedIn]
+* [https://www.youtube.com/channel/UC4NaVoE-RNhpvmSPN04Teaw Youtube]
+* [https://www.reddit.com/r/SmartContainers/ reddit]
+* [https://bitcointalk.org/index.php?topic=3058528.0 BitcoinTalk]
