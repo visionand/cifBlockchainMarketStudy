@@ -1,0 +1,93 @@
+= Orbs =
+
+* Company Name: Orbs Ltd.
+* Website: https://www.orbs.com/home
+* Founded: 2017<ref name="crunch">https://www.crunchbase.com/organization/orbs, access 07/10/18.</ref>
+* Stage: Proof-of-Concept <ref>https://medium.com/orbs-network/orbs-launches-alpha-testnet-demonstrating-capacity-for-1-000-tps-ad0f1f685a6f, access 07/12/18.</ref>
+* Team: 40 <ref>https://www.orbs.com/team, access 07/10/18.</ref>
+* Sector: Information Technology (45)
+* Funding: $118M <ref name="crunch"/>
+* Based on Blockchain: Ethereum main chain <ref>https://etherscan.io/token/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa, access 07/10/18.</ref>
+* Customer Segment: B2C <ref>https://steemit.com/blockchain/@gedalyahreback/was-ist-orbs-eine-einfuehrung, access 07/10/18.</ref>
+* Open-Source: Yes
+
+
+==Short Description==
+
+Solutions for Infrastructure as a Service (IaaS) for centralized applications have matured significantly in recent years. Cloud providers like Amazon Web Services (AWS) or Google Cloud Platform became industry standard and many large centralized companies like Netflix or Airbnb rely on AWS to provide their infrastructure. The Orbs platform aims to provide a decentralized, open source and transparent network that facilitates the transition to the blockchain for established consumer brands. In simple words Orbs is offering a cloud-based IaaS to run large scale consumer applications completely on a public blockchain. There are 3 main components for this purpose including consensus-based decentralized compute services, consensus-based decentralized storage services and Consensus as a Service (CaaS). Compute services enable developers of dapps to run their apps over the network and execute their code on the various nodes. Storage services enable developers of dapps to store data in a fully decentralized manner. The decentralized Orbs network consists of independent nodes owned or operated by different organizations. Each node is linked to its users which issue transactions. The Orbs platform developed a new consensus algorithm named Helix to order these transactions. It addresses explicitly the mass-market adoption because the classic forms of decentralized consensus algorithm like PoW would be too costly, too slow and further would cause too much environmental damages. Helix relays on a mechanism called randomized proof-of-stake. The algorithm separates the ordering and validation process by encrypting the pending transactions. Once consensus on the order is achieved the transactions are decrypted for the validating process. In a decentralized reputation system, nodes can be scored by its peers. This reputation affects a node's political power as well as the probability to be included in a committee. For each consensus round a well rated node is randomly chosen to propose the current transactions of a block (random leader node). A random selected bounded-size committee then verifies the block. The platform is designed to support a large number of independent consumer applications running on top of its infrastructure.<ref>https://docs.wixstatic.com/ugd/36247c_cb90d7c17c354c10abc91e063054c29c.pdf, access 07/12/18.</ref> <ref>https://medium.com/orbs-network/helix-the-orbs-consensus-algorithm-af5e6dc08856, access 07/12/18.</ref>
+==Collaborations==
+* Kin (by KiK)
+* Endor
+* Zooz
+* Zinc
+* PumaPay
+* Sirin Labs <ref>https://www.orbs.com/partners, access 07/12/18.</ref>
+
+
+
+==Location==
+
+
+Address:
+* Azrieli Sarona Tower
+* Derech Menachem Begin
+* Tel Aviv-Yafo
+* Israel <ref>https://cryptorated.com/icopedia/orbs-startup-offering-blockchain-service-raised-around-106-million-executive-says/, access 07/12/18.</ref>
+
+Coordinates:
+* Longitude: 32.0737
+* Latitude: 34.7906
+*Link: [https://www.google.com/maps/place/Azrieli+Center,+Derech+Menachem+Begin,+Tel+Aviv-Yafo,+Israel/@32.0737632,34.7906659,19z/data=!4m5!3m4!1s0x151d4b996d0afa93:0xf7b39dda408c811c!8m2!3d32.0740769!4d34.7922028 Google Maps]
+
+
+
+==Team==
+* Daniel Peled. President
+* Uriel Peled, Co-Founder
+* Tal Kol​, Co-Founder
+* Org Rottenstreich, Chief Research Officer
+* Oded Wertheim, CTO
+* Kfir Damri, Chief Strategy & Innovation
+* Oded Noam, Head of System Architecture
+* Leonid Beder, VP R&D
+* Ran Melamed, Chief Operating Officer
+* Eugene Stephan, Director of Strategic Alliances
+* Jonathan Noam, Chief Commercial Officer
+* David Yakira, Head of Research
+* Ilan Sterk, VP Trading
+* Shai Yallin, VP Engineering
+* Billy Attar, VP Marketing <ref>https://www.orbs.com/team, access 07/12/18.</ref>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: ORBS
+* Token Type: Utility/Payment token <ref>https://docs.wixstatic.com/ugd/36247c_cb90d7c17c354c10abc91e063054c29c.pdf, access 07/12/18.</ref>
+* Link: N/A
+
+==Funding==
+
+Orbs` ICO took place on 15 May 2018. Orbs was able to raise $118m. <ref>https://icodrops.com/orbs/, access 07/12/18.</ref>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://github.com/orbs-network GitHub]
+* [https://medium.com/orbs-network Medium]
+* [https://twitter.com/orbs_network Twitter]
+* [https://www.linkedin.com/company/orbs/ LinkedIn]
+* [https://www.reddit.com/r/ORBS_Network/ reddit]
+
