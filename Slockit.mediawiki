@@ -7,14 +7,14 @@
 * Team Size: 20<ref name=„team“>https://slock.it/team.html, accessed on 27.06.2018.</ref>
 * Sector: Industrials (20)
 * Funding: $2M<ref name=„funding“>https://blog.slock.it/slock-it-secures-2-million-usd-seed-funding-to-build-next-generation-sharing-economy-platform-b795c6d1a92d, accessed on 28.06.2018.</ref>
-* Based on Blockchain: Ethereum main chain<ref name =„ethereum“>https://slock.it/ethereum_computer.html, accessed on 28.06.2018.</ref>, Ethereum Kovan Test Network<ref>https://slock.it/tc.html, accessed on 03.07.2018.</ref>
-* Customer Segment: B2B/B2C/C2C<ref name=„solutions“>https://slock.it/solutions.html, accessed on 28.06.2018.</ref>, Machine to machine (M2M)<ref name=„iotlayer“/>
+* Based on Blockchain: Ethereum main chain<ref name=„iotlayer“/>, Ethereum Kovan Test Network<ref name="testnet">https://slock.it/tc.html, accessed on 03.07.2018.</ref> (see section "Additional Information")
+* Customer Segment: B2B/B2C<ref name=„funding“/>, Machine to machine (M2M)<ref name=„iotlayer“/>
 * Open-Source: Yes<ref name=„usn“>https://slock.it/usn.html, accessed on 28.06.2018.</ref>
 
 
 ==Short Description==
 
-Slock.it is a german company having the vision of creating an all-embracing sharing network to rent or share any asset over the Ethereum Blockchain (main chain). Because assets need to have an internet connection in order to be shared over blockchain-based applications, Slock.it also aims to offer solutions in the field of the Internet of Things (IoT). Their main product will be the Universal Sharing Network (USN), a decentralized and open-source infrastructure where assets can be shared for financial gain.<ref name=„website“/><ref name=„solutions“/> To connect assets to the Ethereum Blockchain, Slock.it is developing the Ethereum Computer (EC). The EC-software will be distributed as a file for several Systems on Chips (SoC). Thereby, the hardware can be integrated into any device that one might want to share.<ref name=„ec“>https://slock.it/ethereum_computer.html, accessed on 02.07.2018.</ref> Additionally, Slock.it started to develop another main product, the so-called IOT Layer. This project aims to offer a comprehensive software framework for the gateway between physical IoT devices and the virtual blockchain. The IOT Layer offers payment channels (on- and off-chain), hub services, a marketplace for assets and access control to the connected IoT devices. Furthermore, the IOT Layer integrates IoT devices into existing IoT clouds and IoT environments. By empowering machines to send and receive transactions, it also enables Machine to Machine and Machine to Human interactions.<ref name=„iotlayer“>https://iot.slock.it/iotlayer.html, accessed on 02.07.2018.</ref> In addition, the „Incubed“-client will be part of the IOT Layer offering the possibility to connect to multiple chains without storing any parts of the blockchain. The proposed solution works in a trustless environment. For this purpose, devices are connected to various nodes that are incentivized to provide correct information only to requests of the IoT device.<ref name=„blog1“>https://blog.slock.it/slock-it-iot-layer-f305601df963, accessed on 02.07.2018.</ref>
+Slock.it is a German company having the vision of creating an all-embracing sharing network to rent or share any asset over the Ethereum Blockchain (main chain). Because assets need to have an internet connection in order to be shared over blockchain-based applications, Slock.it also aims to offer solutions in the field of the Internet of Things (IoT). Their main product will be the Universal Sharing Network (USN), a decentralized and open-source infrastructure where assets can be shared for financial gain.<ref name=„website“/><ref name=„usn“/> To connect assets to the Ethereum Blockchain, Slock.it started to develop another product, the so-called IOT Layer. This project aims to offer a comprehensive software framework for the gateway between physical IoT devices and the virtual blockchain so that they can be shared on the blockchain. The IOT Layer offers payment channels (on- and off-chain), hub services, a marketplace for assets and access control to the connected IoT devices. Furthermore, the IOT Layer integrates IoT devices into existing IoT clouds and IoT environments. By empowering machines to send and receive transactions, it also enables Machine to Machine and Machine to Human interactions.<ref name=„iotlayer“>https://iot.slock.it/iotlayer.html, accessed on 02.07.2018.</ref> In addition, the „Incubed“-client will be part of the IOT Layer offering the possibility to connect to multiple chains without storing any parts of the blockchain. The proposed solution works in a trustless environment. For this purpose, devices are connected to various nodes that are incentivized to provide correct information only to requests of the IoT device. These features allow the client to be installed even on small IoT devices.<ref name=„blog1“>https://blog.slock.it/slock-it-iot-layer-f305601df963, accessed on 02.07.2018.</ref> Bringing it all together, the user experience could be as follows: Alice would like to rent a bike using the USN. She opens the Slock.it mobile application and looks for available bicycles close-by. Once she finds a bike, Alice sends a transaction to the access control smart contract on the Ethereum blockchain containing the payment for renting the bike and a collateral. The smart contract controls the bike’s smart lock and is thereby able to unlock it. Subsequently, Alice opens the lock by sending a bluetooth signal to the lock allowing her to use the bike for the specified conditions. As soon as Alice returns the bike, the deposit is released automatically by the smart contract and the remaining Ethers are sent to the owner of the bike.<ref name=„youtube“>https://www.youtube.com/watch?v=7BKegezSXIU, accessed on 16.07.2018.</ref><ref name=„usn“/>
 
 
 ==Collaborations==
@@ -35,7 +35,7 @@ Markt 16
 
 09648 Mittweida
 
-Germany<ref name="contact">https://slock.it/contact.html, accessed on 05.07.2018.</ref>
+Germany<ref name="careers">https://slock.it/careers.html, accessed on 05.07.2018.</ref>
  
 Coordinates: 
 
@@ -67,8 +67,8 @@ Benjamin Jentzsch, Head of Finances
 
 * Clients: N/A
 * Business Volume: N/A
-* Valuation: N/A
-* Revenue: N/A
+* Valuation: ~ €50M (~ $59M)<ref name=„request“>Information received on request (12.07.2018).</ref>
+* Revenue: ~ €1.4M (~ $1.6M)<ref name=„request“/>
 * Tradability: N/A
 * Identification code: N/A
 * Token Type: N/A
@@ -79,15 +79,18 @@ Benjamin Jentzsch, Head of Finances
 
 2017: Slock.it raised about $2M in a seed funding round.<ref name=„funding“/>
 
-Additional Information: In 2016, Slock.it created a Decetralized Autonomous Organization (DAO) called „The DAO“, a set of smart contracts operating on the Ethereum Classic blockchain. Investors can send coins to the DAO and later vote on how to allocate the collected funds among several project proposals. The idea of Slock.it was to make a proposal of their Universal Sharing Network/Ethereum Computer project to raise funds in this way. In the initial phase of The DAO, an attacker discovered a security vulnerability in the code and managed to withdraw around 3.5M ETH (~$50M). Consequently, the community decided to recover the lost funds with a hard fork of the blockchain that resulted in the independently operating Ethereum Blockchain (where „The DAO“-attack was made undone) and the Ethereum Classic Blockchain (where the code of „The DAO“ can still be found).<ref name=„historydao“>https://blog.slock.it/the-history-of-the-dao-and-lessons-learned-d06740f8cfa5, accessed on 02.07.2018.</ref>
+Additional Information: In 2016, Slock.it created a Decetralized Autonomous Organization (DAO) called „The DAO“, a set of smart contracts operating on the Ethereum blockchain. Investors can send coins to the DAO and later vote on how to allocate the collected funds among several project proposals. The idea of Slock.it was to make a proposal of their Universal Sharing Network project to raise funds in this way. In the initial phase of The DAO, an attacker discovered a vulnerability in the code and managed to withdraw around 3.5M ETH (~$50M). Consequently, the hack lead to an ideological dissent in the community, with some people arguing in favor of the immutability of the ledger and others in favor of the invalidation of the hack. The disagreement lead to change in the consensus rules and consequently to a forking event (Ethereum and Ethereum Classic).
+<ref name=„historydao“>https://blog.slock.it/the-history-of-the-dao-and-lessons-learned-d06740f8cfa5, accessed on 02.07.2018.</ref>
 
 ==Revenue Model==
 
-N/A
+SaaS/Licence fee (IoT Layer)<ref name=„request“/>
+
+Commission and Trading (Universal Sharing Network)<ref name=„request“/>
 
 ==Additional Information==
 
-
+Currently, the Slock.it's mobile application is running on the Ethereum Kovan Test Network.<ref name="testnet"/> However, once the USN is fully operational, the main registry will be built on top of the Ethereum Blockchain (main chain).<ref name=„iotlayer“/>
 
 
 ==References==
