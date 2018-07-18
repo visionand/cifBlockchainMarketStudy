@@ -1,0 +1,149 @@
+=Polymath=
+
+* Company Name: Polymath Labs Inc.<ref name=„company“>https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=8946892&V_TOKEN=1531807192789&crpNm=polymath&crpNmbr=&bsNmbr=, accessed on 17.07.2018.</ref>
+* Website: https://polymath.network/
+* Founded: 2017<ref name=founded“>https://blog.polymath.network/everything-you-need-to-know-about-polymath-7d6bd7d435c2, accessed on 17.07.2018.</ref>
+* Stage: Proof of Concept<ref name=„poc“>https://blog.polymath.network/modules-for-polymath-powered-st20-security-tokens-f11596a83234, accessed on 17.07.2018.</ref>
+* Team Size: 19<ref name=„team“>https://polymath.network/team.html, accessed on 17.07.2018.</ref>
+* Sector: Financials (40)
+* Funding: $58.7M<ref name=„sec“>https://www.sec.gov/Archives/edgar/data/1728099/000172809918000002/xslFormDX01/primary_doc.xml, accessed on 17.07.2018.</ref>
+* Based on Blockchain: Ethereum (main chain)<ref name=„etherscan“>https://etherscan.io/token/0x9e518098bb49354bc4372d48d3474d8c1f2eddf8, accessed on 17.07.2018.</ref> and Ethereum Kovan Test Network<ref name=„kovan“>https://kovan.etherscan.io/token/0x41de4dab97e110da0e387b0daba390365c33a6ae?a=0x0039f22efb07a647557c7c5d17854cfd6d489ef3, accessed on 17.07.2018.</ref>
+* Customer Segment: B2C<ref name=„whitepaper“>https://drive.google.com/file/d/180nPuOOPOZlDRDKSUoJP84AvFY0T5AuB/view, accessed on 17.07.2018.</ref>
+* Open-Source: Yes<ref name=„github“>https://github.com/PolymathNetwork/polymath-core, accessed on 17.07.2018.</ref>
+
+
+==Short Description==
+
+Polymath is developing a platform to bring both primary security issuance and secondary security trading to the blockchain. Hence, they are developing a new token standard (ST20) on the Ethereum blockchain designed to create security tokens.<ref name=„whitepaper“/> For security token offerings (STOs) to comply with Securities and Exchange Commission standards, Polymath allows KYC (Know Your Customer) providers to verify investors’ identities and link them to the respective Ethereum addresses. ST20 tokens are limited to be tradable only with addresses that have passed this verification process. Furthermore, companies planning to issue security tokens (issuers) can choose from a range of competing legal delegates. These delegates help issuers to implement on- and off-chain restrictions to meet regulatory compliance requirements.<ref name=„regulation“>https://blog.polymath.network/regulation-ethereum-tokens-233add4193b, accessed on 17.07.2018.</ref><ref name=„whitepaper“/> Finally, a smart contract is created for each STO where investors can send POLY tokens to in exchange for newly created security tokens. The acquired tokens can then be traded with any qualified buyer on a secondary marketplace over the Ethereum blockchain.<ref name=„whitepaper“/> In summer 2018, the Polymath system was  deployed on the Ethereum Kovan Test Network while the ERC-20 POLY token had already been running on the Ethereum main chain.<ref name=„kovan2“>https://blog.polymath.network/polymath-core-toro-v1-2-0-is-out-997e05adc665, accessed on 17.07.2018.</ref><ref name=„etherscan“/ref>
+
+==Collaborations==
+
+Polymath Labs Inc. (legal entity)
+
+[https://bnktothefuture.com/ BnkToTheFuture]<ref name=„bttf“>https://blog.polymath.network/polymath-and-bnktothefuture-disrupting-the-legacy-securities-industry-2ec42bdf751f, accessed on 17.07.2018.</ref>
+
+[https://www.tzero.com/ tZERO]<ref name=„tzero“>https://blog.polymath.network/polymath-advising-tzero-on-its-security-token-sale-d33abb56cf93, accessed on 17.07.2018.</ref>
+
+[https://www.agrello.org/ Agrello]<ref name=„agrello“>https://blog.polymath.network/agrello-polymath-and-smart-contract-legal-agreements-for-tokenized-securities-bd3ab1099993, accessed on 17.07.2018.</ref>
+
+[https://identitymindglobal.com/ Identity Mind]<ref name=„identitymind“>https://blog.polymath.network/identitymind-polymath-and-kyc-security-tokens-abfbb9f9b8ce, accessed on 17.07.2018.</ref>
+
+[https://www.katipult.com/ Katipult]<ref name=„katipult“>https://blog.polymath.network/katipult-and-polymath-named-among-industry-giants-as-finalists-for-most-promising-partnership-5344512e6925, accessed on 17.07.2018.</ref>
+
+[https://corl.io/ Corl]<ref name=„corl“>https://blog.polymath.network/polymath-partners-with-corl-financial-technologies-on-their-security-token-40997da441ba, accessed on 17.07.2018.</ref>
+
+[https://www.crowdmachine.com/ Crowd Machine]<ref name=„crowdmachine“>https://blog.polymath.network/polymath-partners-with-crowd-machine-to-boost-adoption-of-security-tokens-82eb100e7c08, accessed on 17.07.2018.</ref>
+
+[https://www.trustroot.io Trustroot]<ref name=„trustroot“>https://blog.polymath.network/polymath-and-trustroot-partner-on-verification-service-for-security-token-offerings-f50fbb836a6, accessed on 17.07.2018.</ref>
+
+[http://www.crowdfundx.io/ CrowdfundX]<ref name=„croedfundx“>https://blog.polymath.network/polymath-partners-with-crowdfundx-to-deliver-ai-powered-investor-marketing-for-security-token-c371cf8d18d7, accessed on 17.07.2018.</ref>
+
+[https://www.openfinance.io/ OpenFinance Network]<ref name=openfinancenetwork“>https://blog.polymath.network/polymath-partners-with-security-token-exchange-openfinance-network-db5514b6bd97, accessed on 17.07.2018.</ref>
+
+[https://pegasusfintech.com/ Pegasus Fintech]<ref name=„pegasus“>https://blog.polymath.network/pegasus-fintech-and-polymath-partner-to-launch-real-fan-token-and-block-development-token-on-the-fd9e29891b48, accessed on 17.07.2018.</ref>
+
+[https://www.minthealth.io/ MintHealth]<ref name=„minthealth“>https://blog.polymath.network/minthealth-and-polymath-partner-to-issue-the-first-healthcare-security-token-dd10684321cb, accessed on 17.07.2018.</ref>
+
+==Location==
+
+Address: 
+
+24 Wellesley St. West
+
+Unit 2607
+
+Toronto ON M4Y 2X6
+
+Canada<ref name=„company“/>
+
+ 
+
+Coordinates: 
+
+Latitude: 43.664844
+
+Longitude: -79.38593
+
+ 
+
+Link: [https://www.google.com/maps/place/24+Wellesley+St+W+%232607,+Toronto,+ON+M4Y+2X6,+Kanada/@43.6648437,-79.3881237,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b3e1c96f07:0x5d70bab6ac2049d0!8m2!3d43.6648437!4d-79.3859297 Google Maps]
+
+
+==Team==
+
+
+Trevor Koverko, Co-Founder & Chief Executive Officer
+
+Chris Housser, Co-Founder & Chief Operations Officer
+
+Pablo Ruiz, VP of Engineering
+
+Tracy Leparulo, Chief Events Officer
+
+Igor Denisov, M&A and Strategic Partnerships
+
+Adam Dossa, Senior Solidity Developer
+
+Boris Shevchenko, Lead dApps Architect
+
+Rachel Lam, VP of Regulatory Strategy
+
+Ryan Keller, Sr. Project Manager
+
+Thomas Borrel, Chief Product Officer
+
+<ref name=„team“/>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Polymath Tokens<ref name=„whitepaper“/>
+* Identification code: POLY<ref name=„whitepaper“/>
+* Token Type: Utility/payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/polymath-network/ CoinMarketCap]
+
+
+==Funding==
+
+Three sources say three different things:
+
+* Source 1: 2018: Polymath raised about $58.7M in a SEC-compliant token sale that was open to accredited investors.<ref name=„bi“>http://www.businessinsider.com/a-startup-raised-59-million-in-a-token-sale-to-usher-in-the-next-generation-of-crypto-2018-2, accessed on 17.07.2018.</ref><ref name=„sec“/>
+
+* Source 2: 2018: Polymath raised about $96.2M worth of Ethers in a token airdrop. Each POLY token was priced at $0.40.<ref name=„icodrops“>https://icodrops.com/polymath/, accessed on 17.07.2018.</ref>
+
+* Source 3: 2018: Polymath issued 10’000’000 POLY tokens for free in a token airdrop. Thereby, addresses were verified in a screening process in order to comply with the Office of Foreign Assets Control (OFAC).<ref name=„airdrop“>https://blog.polymath.network/polymath-token-poly-airdrop-faq-d4c268df511b, accessed on 17.07.2018.</ref>
+
+==Revenue Model==
+
+Commission and Trading<ref name=„deck“>https://docs.google.com/presentation/d/1riV0ARjpGbYdaP2RetaXQkeiy4PaDDt0mN87zImLGCQ/edit#slide=id.g2a9a3733a2_167_616, accessed on 17.07.2018.</ref>
+
+
+==Additional Information==
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.facebook.com/polymathnetwork Facebook]
+
+[https://twitter.com/polymathnetwork Twitter]
+
+[https://www.youtube.com/channel/UC77syPQJO0eA5FBUMczZ4bA YouTube]
+
+[https://www.linkedin.com/company/18168860/ LinkedIn]
+
+[https://t.me/polymathnetwork Telegram]
+
+[https://github.com/PolymathNetwork GitHub]
+
+[https://medium.com/@polymathnetwork Medium]
+
+[https://www.reddit.com/r/polymathnetwork Reddit]
+
