@@ -6,7 +6,7 @@
 *Team Size: 28 <ref name="Website">https://powerledger.io/#team, accessed on 07.04.2018.</ref>
 *Sector: Utilities (55)<ref name="Website"/>
 *Funding: 26.42 million U$ <ref name="Medium1">https://medium.com/power-ledger/power-ledger-ico-closes-with-a-34million-raised-eec6221e3752, accessed on 21.07.2018.</ref>
-*Based on Blockchain: Ethereum and EcoChain [own]<ref name="Whitepaper"/>
+*Based on Blockchain: Ethereum Main Chain and EcoChain [own]<ref name="Whitepaper"/>
 *Customer Segment: B2C and B2B
 *Open-Source: No
 
@@ -15,7 +15,7 @@ Power Ledger is based in Australia and provides a peer-to-peer trading solution 
 the power market. The concept of power ledger is based on the interplay of two tokens 
 on two different levels of blockchains. POWR is an ERC20 Token on Ethereum and serves 
 as an access permission token. To actually trade energy, the POWR token is escrowed in 
-a smart bond and thereby changed in to Sparkz which are stable coins and pegged to the 
+a smart contract and thereby changed in to Sparkz which are stable coins and pegged to the 
 smallest unit of the local fiat currency. Sparkz are used on EcoChain, a private Proof 
 of Stake blockchain which is the backbone of the Power Ledger ecosystem. It manages the 
 meter reading, uses information from oracles and enables the trading of Sparks. Power 
@@ -76,19 +76,13 @@ Link: [https://www.google.com/maps/place/Power+Ledger/@-31.9530099,115.8519621,1
 
 ==Key Indicators==
 
-Clients: N/A
-
-Business Volume: N/A
-
-Valuation: N/A
-
-Revenue: N/A
-
-Tradeability: POWR Token
-
-Identification Code: POWR
-
-Link: [https://coinmarketcap.com/currencies/power-ledger/ Coinmarketcap]
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: POWR Token
+*Identification Code: POWR
+*Link: [https://coinmarketcap.com/currencies/power-ledger/ Coinmarketcap]
 
 
 ==Funding==
@@ -106,8 +100,7 @@ the blockchain technology for this project. It is however unclear which share of
 ==Revenue Model==
 Software as a Service (SaaS) and License Fee/Comission and Trading
 
-==Additional Informations==
-<Only valuable and necessary Informations>
+==Additional Information==
 
 ==References==
 <references/>
