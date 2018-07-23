@@ -1,11 +1,12 @@
 = Power Ledger =
 
+*Company Name: Power Ledger Pty Ltd
 *Website: https://powerledger.io/
 *Founded: 2016 <ref name="Whitepaper">https://powerledger.io/media/Power-Ledger-Whitepaper-v8.pdf, accessed on 07.04.2018.</ref>
 *Stage: Live <ref name="Whitepaper"/>
 *Team Size: 28 <ref name="Website">https://powerledger.io/#team, accessed on 07.04.2018.</ref>
 *Sector: Utilities (55)<ref name="Website"/>
-*Funding: 26.42 million U$ <ref name="Medium1">https://medium.com/power-ledger/power-ledger-ico-closes-with-a-34million-raised-eec6221e3752, accessed on 21.07.2018.</ref>
+*Funding: 26.42 million USD <ref name="Medium1">https://medium.com/power-ledger/power-ledger-ico-closes-with-a-34million-raised-eec6221e3752, accessed on 21.07.2018.</ref>
 *Based on Blockchain: Ethereum Main Chain and EcoChain [own]<ref name="Whitepaper"/>
 *Customer Segment: B2C and B2B
 *Open-Source: No
@@ -27,33 +28,7 @@ adapt to the new technology.
 <ref name="Whitepaper"/>
 
 ==Collaborations==
-[http://www.vectorenergy.com.au/ Vector]
-
-[https://westernpower.com.au/ Westernpower]
-
-[https://www.indracompany.com/en/pais/australia Indra]
-
-[http://www.sunseap.com/ Sunseap]
-
-[https://www.ecovillage.net.au/ Whichcliffe]
-
-[https://www.nlv.com.au/ National Lifestyle Villages]
-
-[https://www.accesshousing.org.au/ Access Housing]
-
-[http://nestenergy.com.au/index.html nestenergy]
-
-[https://www.landisgyr.com/ Landis+Gyr]
-
-[https://www.landcorp.com.au/Residential/White-Gum-Valley/ Landcorp]
-
-[http://www.curtin.edu.au/ Curtin University]
-
-[http://www.yolkpropertygroup.com.au/ Yolk Property Group]
-
-[http://nightingalehousing.org/ Nightingale]
-
-[http://www.eurisd.org/ LISD].<ref name="Website"/>
+[http://www.vectorenergy.com.au/ Vector], [https://westernpower.com.au/ Westernpower], [https://www.indracompany.com/en/pais/australia Indra], [http://www.sunseap.com/ Sunseap], [https://www.ecovillage.net.au/ Whichcliffe], [https://www.nlv.com.au/ National Lifestyle Villages], [https://www.accesshousing.org.au/ Access Housing], [http://nestenergy.com.au/index.html nestenergy], [https://www.landisgyr.com/ Landis+Gyr], [https://www.landcorp.com.au/Residential/White-Gum-Valley/ Landcorp],  [http://www.curtin.edu.au/ Curtin University], [http://www.yolkpropertygroup.com.au/ Yolk Property Group], [http://nightingalehousing.org/ Nightingale], [http://www.eurisd.org/ LISD].<ref name="Website"/>
 
 ==Location==
 
@@ -80,13 +55,13 @@ Link: [https://www.google.com/maps/place/Power+Ledger/@-31.9530099,115.8519621,1
 *Business Volume: N/A
 *Valuation: N/A
 *Revenue: N/A
-*Tradeability: POWR Token
+*Tradeability: ERC20 Token
 *Identification Code: POWR
 *Link: [https://coinmarketcap.com/currencies/power-ledger/ Coinmarketcap]
 
 
 ==Funding==
-Power Ledger succesfully raised A$17million (~13.21 million U$ as per 6th of October 2017) during the Pre-ICO at the beginning of September 2017. 
+Power Ledger succesfully raised A$17million (~13.21 million USD as per 6th of October 2017) during the Pre-ICO at the beginning of September 2017. 
 In the following Main Sale, the company raised another A$17million 
 (A$6million in Bitcoin, A$10.7million in Ether and a$0.4million in Litecoin). <ref name="Medium1"/> 
 The price per POWR token was 0.0838 USD during the Pre-Sale.<ref name="ICOdrop">https://icodrops.com/powerledger/, accessed on 21.07.2018.</ref> 
