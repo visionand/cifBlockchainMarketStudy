@@ -4,31 +4,21 @@
 *Website: https://powerledger.io/
 *Founded: 2016 <ref name="Whitepaper">https://powerledger.io/media/Power-Ledger-Whitepaper-v8.pdf, accessed on 07.04.2018.</ref>
 *Stage: Live <ref name="Whitepaper"/>
-*Team Size: 28 <ref name="Website">https://powerledger.io/#team, accessed on 07.04.2018.</ref>
-*Sector: Utilities (55)<ref name="Website"/>
+*Team Size: 28 (07.04.2018), 33 (24.07.2018)  <ref name="Website">https://powerledger.io/#team, accessed on 07.04.2018.</ref>
+*Sector: Utilities (55)
 *Funding: 26.42 million USD <ref name="Medium1">https://medium.com/power-ledger/power-ledger-ico-closes-with-a-34million-raised-eec6221e3752, accessed on 21.07.2018.</ref>
-*Based on Blockchain: Ethereum Main Chain and EcoChain [own]<ref name="Whitepaper"/>
+*Based on Blockchain: Ethereum main net and consortium ETH network<ref name="Whitepaper"/><ref name = "contact">Information received on request (23.07.2018).</ref>
 *Customer Segment: B2C and B2B
 *Open-Source: No
 
 ==Short Description==
-Power Ledger is based in Australia and provides a peer-to-peer trading solution for 
-the power market. The concept of power ledger is based on the interplay of two tokens 
-on two different levels of blockchains. POWR is an ERC20 Token on Ethereum and serves 
-as an access permission token. To actually trade energy, the POWR token is escrowed in 
-a smart contract and thereby changed in to Sparkz which are stable coins and pegged to the 
-smallest unit of the local fiat currency. Sparkz are used on EcoChain, a private Proof 
-of Stake blockchain which is the backbone of the Power Ledger ecosystem. It manages the 
-meter reading, uses information from oracles and enables the trading of Sparks. Power 
-Ledger is developing many applications which could run on EcoChain, whereof peer-to-peer 
-energy trading is the most advanced. To facilitate the transition from the traditional 
-structure of the power sector, Power Ledger offers existing power utilities to create 
-their own trading applications on EcoChain. In this way power utilities can slowly 
-adapt to the new technology. 
-<ref name="Whitepaper"/>
+Power Ledger (PL) is based in Australia and provides a peer-to-peer trading solution for 
+the power market. The concept of PL is based on the interplay of two tokens 
+on two different levels of blockchains. POWR is an ERC20 Token on Ethereum and serves as an access permission token. To actually trade energy, the POWR token is escrowed in a smart contract and thereby changed in to Sparkz which are stable coins and pegged to the smallest unit of the local fiat currency. Sparkz are used on a consortium ETH network which is the backbone of the PL ecosystem. It manages the meter reading, uses information from oracles and enables the trading of Sparks. PL is developing many applications including peer-to-peer electricity trading, EV-charging, carbon markets and microgrid management & trading. Additionally, so called Asset Germination Events are held where money for autonomous renewable energy assets is gathered through crowdfunding. These autonomous assets are able to trade their own electricity and distribute the income to assigned wallet addresses. To facilitate the transition from the traditional structure of the power sector, PL offers existing power utilities to create their own trading applications on the consortium blockchain. In this way power utilities can slowly adapt to the new technology and gather experience. Since its ICO in November 2017, PL was able to expand its sphere of action to Thailand, India and the US by partnering with some major companies.
+<ref name="Whitepaper"/><ref>Information received on request (23.07.2018)</ref>
 
 ==Collaborations==
-[http://www.vectorenergy.com.au/ Vector], [https://westernpower.com.au/ Westernpower], [https://www.indracompany.com/en/pais/australia Indra], [http://www.sunseap.com/ Sunseap], [https://www.ecovillage.net.au/ Whichcliffe], [https://www.nlv.com.au/ National Lifestyle Villages], [https://www.accesshousing.org.au/ Access Housing], [http://nestenergy.com.au/index.html nestenergy], [https://www.landisgyr.com/ Landis+Gyr], [https://www.landcorp.com.au/Residential/White-Gum-Valley/ Landcorp],  [http://www.curtin.edu.au/ Curtin University], [http://www.yolkpropertygroup.com.au/ Yolk Property Group], [http://nightingalehousing.org/ Nightingale], [http://www.eurisd.org/ LISD].<ref name="Website"/>
+[http://www.vectorenergy.com.au/ Vector], [https://westernpower.com.au/ Westernpower], [https://www.indracompany.com/en/pais/australia Indra], [http://www.sunseap.com/ Sunseap], [https://www.ecovillage.net.au/ Whichcliffe], [https://www.nlv.com.au/ National Lifestyle Villages], [https://www.accesshousing.org.au/ Access Housing], [http://nestenergy.com.au/index.html nestenergy], [https://www.landisgyr.com/ Landis+Gyr], [https://www.landcorp.com.au/Residential/White-Gum-Valley/ Landcorp],  [http://www.curtin.edu.au/ Curtin University], [http://www.yolkpropertygroup.com.au/ Yolk Property Group], [http://nightingalehousing.org/ Nightingale], [http://www.eurisd.org/ LISD]<ref name="Website"/>, [http://helpanswers.org/ Helpanswers], [http://www.bcpggroup.com/en BCPG]<ref>https://web.powerledger.io/mediarelease/</ref>, [http://www.kepco.co.jp/english/ Kansai Electric Power Co.]<ref>https://medium.com/power-ledger/community-update-april-2018-d37a2270b861, accessed on 24.07.2018.</ref> [https://solara.io/ Clean Energy Blockchain Network], [http://www.siliconvalleypower.com/ Silicon Valley Power]<ref>https://medium.com/power-ledger/power-ledger-silicon-valley-power-ev-carbon-credits-37629bdca5ab, accessed on 24.07.2018</ref>, [https://www.techmahindra.com/DAVID.html Tech Mahindra]<ref>https://medium.com/power-ledger/tech-mahindra-and-power-ledger-unite-to-unleash-the-power-of-maas-c6e8ada705b8, accessed on 24.07.2018.</ref>
 
 ==Location==
 
@@ -43,8 +33,6 @@ Link: [https://www.google.com/maps/place/Power+Ledger/@-31.9530099,115.8519621,1
 *Dr. Jemma Green, Co-founder and Chair
 *David Martin, Co-founder and Managing Director
 *John Bulich, Co-founer and Technical Director
-*Dr. Govert Van Ek, Co-founder and Director
-*Jenni Conroy, Co-founder and Director
 *Marc van Hoof, Chief Operating Officer
 *Marc Griffiths, Chief Technology Officer
 
@@ -62,10 +50,10 @@ Link: [https://www.google.com/maps/place/Power+Ledger/@-31.9530099,115.8519621,1
 
 ==Funding==
 Power Ledger succesfully raised A$17million (~13.21 million USD as per 6th of October 2017) during the Pre-ICO at the beginning of September 2017. 
-In the following Main Sale, the company raised another A$17million 
-(A$6million in Bitcoin, A$10.7million in Ether and a$0.4million in Litecoin). <ref name="Medium1"/> 
+In the following Main Sale, the company raised another A$ 17million 
+(A$6million in Bitcoin, A$ 10.7million in Ether and A$ 0.4million in Litecoin). <ref name="Medium1"/> 
 The price per POWR token was 0.0838 USD during the Pre-Sale.<ref name="ICOdrop">https://icodrops.com/powerledger/, accessed on 21.07.2018.</ref> 
-There were a total of 1,000,000,000 POWR token issued, whereof 350,000 were sold during the ICO. Power Ledger keeps 250,000 POWR in escrow for two years. Thereafter they can be used for additional funding rounds.
+There were a total of 1'000'000'000 POWR token issued, whereof 350'000 were sold publicly during the ICO. 250'000 POWR were created to be used in the bounty campain and in a "growth pool" for future platform hosts. Power Ledger keeps 250'000 POWR in escrow for two years. Thereafter they can be used for additional funding rounds.
 <ref name="ICO">https://tge.powerledger.io/media/Power-Ledger-TGE-Token-Paper.pdf, accessed on 21.07.2018.</ref>
 
 In November 2017 the australian government granted A$8million to a project in the city of freemantel. Power Ledger is providing 
@@ -81,4 +69,4 @@ Software as a Service (SaaS) and License Fee/Comission and Trading
 <references/>
 
 ==Additional Links==
-[https://www.facebook.com/powerledger Facebook], [https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA Telegram], [https://medium.com/power-ledger Medium], [https://www.reddit.com/r/PowerLedger/ Reddit]
+[https://www.facebook.com/powerledger Facebook], [https://twitter.com/powerledger_io?lang=de Twitter] [https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA Telegram], [https://medium.com/power-ledger Medium], [https://www.reddit.com/r/PowerLedger/ Reddit]
