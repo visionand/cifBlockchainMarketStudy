@@ -1,0 +1,123 @@
+=Bancor=
+
+* Company Name: Bprotocol Foundation<ref name=„foundation“>https://about.bancor.network/about/, accessed on 23.07.2018.</ref>
+* Website: https://www.bancor.network/, https://about.bancor.network/
+* Founded: 2017<ref name=„foundation“/>
+* Stage: live<ref name=„websiteabout“>https://about.bancor.network/, accessed on 23.07.2018.</ref>
+* Team Size: N/A
+* Sector: Financials (40)
+* Funding: $153M<ref name=„funding“>https://https://medium.com/@bancor/a-historic-token-generation-event-tge-f446110f3b1c, accessed on 23.07.2018.</ref>
+* Based on Blockchain: Ethereum (main net)<ref name=„whitepaper“>https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf, accessed on 25.07.2018.</ref>
+* Customer Segment: B2C<ref name=„websiteabout“/>
+* Open-Source: Yes<ref name=„whitepaper“/>
+
+
+==Short Description==
+
+Bancor invented a decentralized liquidity network on the Ethereum blockchain where tokens can be converted into each other without any middleman and at an automatically calculated price. This has number of advantages such as low transaction costs due to automated market makers, the absence of counterparty risks and transparent pricing.<ref name=„websiteabout“/> The Bancor Network is based on the Bancor Protocol, whose key elements are so-called Smart Tokens. Such tokens can be converted into other tokens directly through their associated smart contract. To achieve this, a Smart Token’s smart contract holds reserves of the connected token (any ERC-20-compliant token). By sending Smart Tokens to the contract, they are taken out of circulation and the sender receives a certain amount of the tokens held as reserves, whereby the price is calculated automatically. Conversely, by sending the connected token to the contract, newly created Smart Tokens are issued and sent back.<ref name=„smarttokens“>https://blog.bancor.network/smart-tokens-101-63edc2cc5a89, accessed on 26.07.2018.</ref> The price is adjusted to meet a predefined ratio between the Smart Token’s and the connected token’s total value. Smart Tokens are forming a connected network via their reserve tokens making them instantly convertible into all other tokens of the network. For instance, Smart Token A and B both hold reserves of the ERC-20 token X. Therefore, A can be converted into X and X, in turn, into B. The first Smart Token on the Ethereum blockchain was the Bancor Network Token (BNT) connecting all tokens in the Bancor Network.<ref name=„whitepaper“/>
+
+
+==Collaborations==
+
+[https://naga.com/coin/ Naga] 
+
+[https://sirinlabs.com/ SIRIN LABS]
+
+[https://www.fcfl.io/ FCFL]
+
+<ref name=„partners“>https://blog.bancor.network/bancor-progress-update-466766be1dc6, accessed on 23.07.2018.</ref>
+
+==Location==
+
+Address: 
+
+Bprotocol Foundation
+
+Dammstrasse 16
+
+6300 Zug
+
+Switzerland
+
+<ref name=„location“>https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-181.679.849, accessed on 23.07.2018.</ref>
+
+ 
+
+Coordinates: 
+
+Latitude: 47.175806
+
+Longitude: 8.514732
+
+ 
+
+Link: [https://www.google.com/maps/search/Bprotocol+Foundation++Dammstrasse+16++6300+Zug++Switzerland/@47.1752348,8.5092972,15.68z Google Maps]
+
+
+==Team==
+
+
+Bernard Lietaer, Foundation Council President
+
+Eyal Hertzog, Foundation Council & Product Architect
+
+Guy Benartzi, Foundation Council & Strategy
+
+Guido Schmitz-Krummacher, Foundation Council
+
+Galia Benartzi, Business Development
+
+Asaf Shachaf, Product Manager
+
+Yudi Levi, Head of Technology
+
+<ref name=„blogabout“>https://blog.bancor.network/about, accessed on 24.07.2018.</ref><ref name=„foundation“/>
+
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Bancor Network Token<ref name=„whitepaper“/>
+* Identification code: BNT<ref name=„whitepaper“/>
+* Token Type: Utility/payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/bancor/ CoinMarketCap]
+
+
+==Funding==
+
+2017: Bancor raised 396’720 ETH (~$153M) in a Token Generation Event (TGE) where the Bancor Network Token was offered to public investors.<ref name=„funding“/>
+
+
+==Revenue Model==
+
+Nonprofit<ref name=„whitepaper“/>
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/Bancor Twitter]
+
+[https://t.me/bancor Telgram]
+
+[https://www.facebook.com/bancor/ Facebook]
+
+[https://www.youtube.com/channel/UCA125wWsdbsG1XPenWcBkyg YouTube]
+
+[https://www.reddit.com/r/Bancor/ Reddit]
+
+[https://medium.com/@bancor/bancor-progress-update-june-2018-419fd10b37f Medium]
