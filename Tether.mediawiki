@@ -4,7 +4,7 @@
 * Company Name: Tether Limited<ref name=„whitepaper“>https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf, accessed on 04.07.2018.</ref> 
 * Website: https://tether.to/
 * Founded: 2015<ref name=„ukbusins“>https://www.businessinsider.de/tether-explained-bitcoin-cryptocurrency-why-people-worried-2018-1?r=UK&IR=T, accessed on 04.07.2018.</ref>
-* Stage: live<ref name=website“>https://tether.to/, accessed on 04.07.2018.</ref>
+* Stage: live<ref name=„website“>https://tether.to/, accessed on 04.07.2018.</ref>
 * Team Size: N/A
 * Sector: Financials (40)<ref name=„website“/>
 * Funding: N/A
