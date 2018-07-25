@@ -1,0 +1,125 @@
+=MediBloc=
+
+* Company Name: Medibloc Inc.<ref name=„website“>https://medibloc.org/en, accessed on 19.07.2018.</ref>
+* Website: https://medibloc.org/en
+* Founded: 2017<ref name=„founded“>https://coincentral.com/medibloc-beginner-guide/, accessed on 20.07.2018.</ref> 
+* Stage: Proof of Concept<ref name=„whitepaper“>https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_en.pdf, accessed on 20.07.2018.</ref>
+* Team Size: 17<ref name=„about“>https://medibloc.org/en/About, accessed on 20.07.2018.</ref>
+* Sector: Health Care (35)
+* Funding: $30M (in terms of market value on 18.12.2017)<ref name=„funding“>https://medium.com/medibloc/ann-token-sale-successfully-ended-c8316b76ea04, accessed on 20.07.2018.</ref>
+* Based on Blockchain: Summer 2018: Qtum<ref name=qtumexplorer“>https://qtumexplorer.io/contract/2f65a0af11d50d2d15962db39d7f7b0619ed55ae, accessed on 20.07.2018.</ref> and Ethereum (main chain)<ref name=„etherscan“>https://etherscan.io/token/0xfd1e80508f243e64ce234ea88a5fd2827c71d4b7, accessed on 20.07.2018.</ref>; it is planned to launch main net based on an own blockchain in early 2019.<ref name=„mainnet“>https://medium.com/medibloc/ann-medibloc-to-build-its-own-blockchain-platform-and-conduct-1-1-airdrop-of-erc20-token-baf65b539c6b, accessed on 20.07.2018.</ref><ref name=„faqairdrop“>https://medium.com/@MediBloc/ann-medx-erc20-token-airdrop-faq-80940d20b55, accessed on 20.07.2018.</ref>
+* Customer Segment: B2B/B2C<ref name=„whitepaper“/>
+* Open-Source: Yes<ref name=„whitepaper“/>
+
+
+==Short Description==
+
+The goal of MediBloc is to build a platform for decentralized healthcare data management.<ref name=„website“/> Currently, medical information is often not exchangeable between institutions, resulting in multiple data records of different institutions. Furthermore, sensitive medical information is subject to the risk of a single point of failure and potential data abuse. On the MediBloc platform, hashes of medical information about patients are stored on the Qtum blockchain, while the encrypted data itself is both stored off-chain on personal devices and distributed via InterPlanetary File System (IPFS). The MediBloc application is using smart contracts based on the Ethereum Virtual Machine (EVM) allowing it to change between blockchains flexibly. Patients can disclose their encrypted medical information to selected agents such as healthcare providers and data researchers which eliminates the need to conduct medical examination (e.g. blood tests to determine blood type) multiple times. Additionally, medical researchers can purchase data from patients. Payments within the MediBloc ecosystem are made using Medi Token (MED) on the Qtum blockchain.<ref name=„whitepaper“/> However, they launched the ERC-20 MEDX Token running on the Ethereum blockchain to reach more potential users. For the future, MediBloc plans to build the platform on their own blockchain. Both tokens can then be converted into the cryptocurrency used for transactions on this newly created blockchain.<ref name=„mainnet“/> 
+
+
+==Collaborations==
+
+[https://www.hyumc.com/eng/main.do Hanyang University Medical Center]
+
+[http://www.oraclemedicalgroup.com/ Oracle]
+
+[https://www.khudh.or.kr/ KyungHee University Medical Center]
+
+[http://www.bestian.kr/ Bestian Foundation]
+
+[http://futureslab.kr/main2.html Future’s Lab]
+
+[https://www.hashed.com/ Hashed]
+
+[https://www.nucypher.com/ NuCypher]
+
+[http://www.syntekabio.com/ Sytekabio]
+
+[http://www.huray.net/ Huray]
+
+[https://www.coinplug.com/ Coinplug]
+
+[https://coinrail.co.kr/ Coinrail]
+
+[http://www.seumlaw.com/wp/?lang=en SEUM]
+
+[https://www.weltcorp.com/ WELT]
+
+[http://fineinsight.kr/ FineInsight]
+
+<ref name=„partners>https://medibloc.org/en/partners, accessed on 20.07.2018.</ref>
+
+
+==Location==
+
+N/A
+ 
+
+Coordinates: 
+
+Latitude: N/A
+
+Longitude: N/A
+
+ 
+
+Link: N/A
+
+
+==Team==
+
+Dr. Allen Wookyun Kho, Co-Founder & Business Development
+
+Dr. Eunsol Lee, Co-Founder & System Architect
+
+Chaeho Shin, CFA & Director of Operations
+
+Taejin Yoon, Business Development Manager
+
+Saehan Park, Full Stack Developer
+
+Minkyoo Cha, Full Stack Developer
+
+<ref name=„about“/>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Medi Token<ref name=„whitepaper“/> and MEDX Token<ref name=„etherscan“/>
+* Identification code: MED and MEDX<ref name=„faqairdrop“/>
+* Token Type: Utility/payment token (both)<ref name=„whitepaper“/><ref name=„mainnet“/>
+* Link: [https://coinmarketcap.com/de/currencies/medibloc/ CoinMarketCap (MED)] and [https://coinmarketcap.com/de/currencies/medx/ CoinMarketCap (MEDX)]
+
+
+==Funding==
+
+2017: MediBloc sold their Qtum-based Medi token in an ICO and raised about $30M in terms of market value on 18.12.2017.<ref name=„funding“/> There were two pre-sale rounds. In the first one, Investors were granted a 10% bonus while in the second pre-sale, they received a 5% bonus on the acquired tokens.<ref name=„presale“>https://medium.com/medibloc/pre-sale-participation-guideline-70b459ba5453, accessed on 20.07.2018.</ref> Medibloc was not able to sell all the created MED and burned the remaining tokens afterwards.<ref name=„funding“/>
+
+==Revenue Model==
+
+Commission and Trading<ref name=„whitepaper“/>
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://t.me/medibloc Telegram]
+
+[https://twitter.com/_MediBloc Twitter]
+
+[https://www.facebook.com/medibloc Facebook]
+
+[https://medium.com/@MediBloc Medium]
