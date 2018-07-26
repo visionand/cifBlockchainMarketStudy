@@ -1,0 +1,79 @@
+= Grid+ =
+
+*Company name: GridPlus Inc. and GridPlus Texas Inc.<ref name="State">https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx, accessed on 22.07.2018</ref>
+*Website: https://gridplus.io
+*Founded: 2017 <ref name="State"></ref>
+*Stage: Test<ref>https://blog.gridplus.io/grid-progress-report-6-14-2018-a5aa64a71251, accessed on 25.07.2018.</ref>
+*Team Size: 11<ref name="Website">https://gridplus.io, accessed on 22.07.2018</ref>
+*Sector: Utilities (55)
+*Funding: 44'337'235 USD<ref name="calculation"> Own calculation based on information found in "Funding"</ref>
+*Based on Blockchain: Ethereum (main net) <ref>https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd, accessed on 22.07.2018.</ref>
+*Customer Segment: B2C<ref name="Whitepaper">https://gridplus.io/assets/Gridwhitepaper.pdf, accessed on 22.07.2018</ref>
+*Open-Source: Yes<ref name="Whitepaper"></ref>
+
+
+==Short Description==
+Grid+ aims to act as an electricity retailer in deregulated markets, creating a dynamic market place 
+in which consumer and prosumer can trade electricity with Grid+, using the stable coin BOLT for their 
+payment. Through the combination of blockchain and IoT-devices Grid+ wants to benefit from cost 
+advantages over conventional energy retailers by automating the billing process and providing a 
+dynamic market place within its system. The company is developing a so-called Smart Agent, which 
+is equipped with its own private key and therefore can sign on-chain transactions independently. 
+Furthermore, Grid+ eliminates the counterparty risk by billing the energy consumed in near-real-time 
+and with a required deposit which also prevents interruptions in service if connectivity is lost. 
+To fully exploit the potential of its Smart Agent the company is planning to establish forecast based 
+day-ahead markets, create markets for demand response and by enabling the Smart Agent to control the 
+energy consumption of connected IoT-devices (e.g. an air-condition).
+In November 2017 Grid+ held an ICO for its GRID Token, which will be redeemable for 500 kWh at 
+wholesale electricity price on the Grid+ platform. After facing many regulatory obstructions since 
+its ICO Grid+ received their certificate as retail electric provider (REP) in the state of Texas in 
+June 2018<ref>http://interchange.puc.texas.gov/Documents/47947_25_984415.PDF, accessed on 25.07.2018.
+</ref> and therefore is preparing its alpha launch in the second half of 2018
+<ref>https://blog.gridplus.io/alphaprogram-9facd68c76a0</ref>.<ref name="Whitepaper"></ref>
+
+
+==Collaborations==
+Founded and held by [https://consensys.net/ ConsenSys]<ref name="Whitepaper"></ref>
+
+==Location==
+Address GridPlus Inc.: Delaware<ref name="State"></ref> (No detailed information available)
+
+Address GridPlus Texas Inc.: 
+100 Congress Avenue, Suite 2025, Austin, TX 78701<ref>https://www.puc.texas.gov/industry/electric/directories/rep/report_rep.aspx?ID=RESQL01DB1245829200001, accessed on 23.07.2018.</ref>
+
+Coordinates: 30.264222, -97.744853
+
+Link: [https://www.google.ch/maps/place/One+Congress+Plaza,+100+Congress+Ave+%232025,+Austin,+TX+78701,+USA/@30.2639807,-97.7470419,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b50629412b81:0xb4e5ccd4100bc105!8m2!3d30.2639807!4d-97.7448532 Google Maps]
+
+==Team==
+*Alex Miller, Co-founder and Chief Technology Officer
+*Karl Kreder, Co-founder and Chief Security Officer
+*Mark DAgostino, Co-founder and Chief Executive Officer
+*John Werner, CEO of GridPlus Texas
+
+<ref name="Website"></ref>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: ERC20 Token<ref name="Etherscan">https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd, accessed on 26.07.2018.</ref>
+*Identification code: GRID<ref name="Etherscan></ref>
+*Token Type: Discount Token
+*Link: [https://coinmarketcap.com/currencies/grid/ Coinmarketcap]
+
+==Funding==
+Grid+ conducted an ICO from 30.10.2017 to 12.11.2017 offered 90'000'000  of a total supply of 300'000'000 Grid tokens for sale. Of the residual tokens 120'000'000 were distributed to the founders and external owners of Grid+. 90'000'000 GRID token are held by Grid+ itself and will be used to incentivice participation in the network.<ref name="Whitepaper"></ref>
+During the pre and mainsale a total of 39'236'491 tokens were sold with a price of 0.0037 ETH per GRID (~1.13 USD on 12.11.2017<ref>https://www.finanzen.net/waehrungsrechner/ethereum_us-dollar, accessed on 22.07.2018.</ref> ).<ref>https://gridplus.io/token-sale#d, accessed on 22.07.2018.</ref> This is resulting in a total revenue of 44'337'235 USD by that time<ref name="calculation" />.
+
+==Revenue Model==
+License Fee/Comission
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://twitter.com/gridplus_energy?lang=en Twitter], [https://github.com/gridplus Github], [https://blog.gridplus.io/ Medium], [https://t.me/joinchat/GEb54Asz9AYq2cLZk6syHA Telegram]
