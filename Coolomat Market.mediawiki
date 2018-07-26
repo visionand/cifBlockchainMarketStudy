@@ -1,0 +1,62 @@
+= Coolomat Market =
+
+*Company Name: Coolomat Market d.o.o. <ref name="Termsofuse">https://tokens.coolomat-market.io/files/terms/TOU_CoolomatMarket_V2.2_final.pdf, accessed on 24.07.2018.</ref>
+*Website: https://www.coolomat-market.io/en
+*Founded: 2014<ref name="Whitpaper">https://www.coolomat-market.io/assets/whitepaper.pdf?id=8, accessed on 24.07.2018.</ref>
+*Stage: Live (see additional information)
+*Team Size: 15<ref name="Website">https://www.coolomat-market.io/en, accessed on 23.07.2018.</ref>
+*Sector: Consumer Staples (30)
+*Funding: N/A
+*Based on Blockchain: Ethereum (main net)<ref name="Whitepaper"/>
+*Customer Segment: B2C and B2B<ref name="Whitepaper"/>
+*Open-Source: Yes<ref name="Whitepaper"/>
+
+==Short Description==
+Coolomat Market (CM) provides a market place for online grocery shopping and thereby directly brings together farmers and producers with the consumers of grocery products. CM is able to skip the intermediary retailers (e.g. super markets) and thereby breaking their pricing power, by providing a click & collect system with so called Coolomat machines. These devices are tempered locker systems, to which producers deliver and from where the consumers can collect their orders after purchaising them on the market place provided by CM. With this system of distributed collecting points CM aims on tackling the last-mile delivery challenge for grocery products. CM is already running 30 Coolomat machines in Warshaw but now wants to integrate blockchain technology in its system by 2019. This would allow CM to provide transparency and traceability in the supply chain of its ecosystem and use their own ERC20 Token, CMK, for payment. CMK will be the only fee-free payment option on the platform, although other currencies will be accepted as well. The market place will be programmed as an open source project in cooperation with [https://www.nopcommerce.com/ nopCommerce]. Depending on the success of its ICO in August 2018, CM could establish their own fulfilment centers throughout Europe to organize some part of the delivery to the Coolomat machines by themselves. Besides the expansion in Europe future targets for new continents are Australia, Singapore and Canada or the US.<ref name="Whitepaper"/>
+
+==Collaborations==
+Coolomat Sp z.o.o.<ref name="Whitepaper"/>,
+[https://www.auchandirect.pl/auchan-warszawa/pl Auchan], [https://www.carrefour.pl/ Carrefour], [https://ranozebrano.pl Rano Zebrano] [http://www.frisco.pl Frisco], [http://www.piotripawel.pl Piotr i Pawel], [https://www.nopcommerce.com/ nopCommerce], LightBox.pl, FIT EAT, [https://suncontract.org/ SunContract], [http://www.spartan.si/ Spartan Solutions], [http://www.meta-group.com/Pages/default.aspx META Ventures], [https://siel.si/ SIEL], [https://www.red-orbit.com/ Red Orbit], [http://virtuapr.com/ virtua PR] <ref name="Whitepaper"/>[https://www.birdchain.io/ Birdchain]<ref>https://medium.com/@coolomatmarket/birdchain-coolomat-market-signs-partnership-dbfc9cd30aca, accessed on 23.07.2018.</ref>, 
+
+==Location==
+Address: Coolomat Market, Arja vas 102, Petrovce, Zalec, Slovenia Europe<ref name="Website"/>
+
+Coordinates: 46.265002, 15.184125
+
+Link: [https://www.google.ch/maps/place/Arja+vas+102,+3301+Petrov%C4%8De,+Slowenien/@46.2649721,15.1819575,17z/data=!3m1!4b1!4m5!3m4!1s0x47656f91b11e252b:0x53ca790faabce238!8m2!3d46.2649721!4d15.1841462 Google maps]
+
+==Team==
+Andrej Vidmar, CEO
+Marcin Warzocha, COO
+Jure Doler, CTO
+Gregor Pohajac, CIO
+<ref name="Whitepaper"/>
+
+==Key Indicators==
+*Clients: <number>
+*Business Volume: <number based on annual data>
+*Valuation: <number>
+*Revenue: <number based on annual data>
+*Tradeability: ERC20 Token<ref name="Whitepaper"/>
+*Identification code: CMK<ref name="Whitepaper"/>
+*Token Type: Utility/Payment Token<ref name="Whitepaper"/>
+*Link: N/A
+
+==Funding==
+Coolomat Sp. z o.o. was founded in 2014 and represents the first part of Coolomat Markets development. This first company received two funding rounds which helped it to develop and manufacture the Coolomat machines up to the second generation. The first investment was done by [http://www.fzkpt.pl Fundusz Zalazkowy KPT] from Poland in 2014. The second-round investment was received in 2016 from [http://www.meta-group.com Meta Ventures], which is a Swiss-Polish Cooperation Program with the goal to support small and medium enterprises.<ref name="Whitepaper">
+
+
+
+==Revenue Model==
+License Fee/Comission and Trading
+
+==Additional Information==
+Coolomat Market already has a functioning product in Poland with 30 Coolomates. Therefore, the status of the was considered "live" although the system currently provided does not use blockchain technology (which is planned to be used by Q1 2019).<ref name="Whitepaper"/>
+
+Coolomat Market d.o.o. will conduct an ICO in August 2018 with a softcap of 500'000 USD and a hardcap of 40million USD.<ref name="Whitepaper"/>
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/coolomatmarket/ Facebook], [https://twitter.com/coolomatmarket Twitter], [https://telegram.me/coolomatmarket Telegram],  [https://www.linkedin.com/company/coolomatmarket/ LinkedIn], [ Reddit], [https://medium.com/@coolomatmarket Medium], [https://www.youtube.com/channel/UCHQDvd2jTacd1MF_IfxZC9w YouTube], [https://bitcointalk.org/index.php?topic=3293141.0 Bitcointalk].
