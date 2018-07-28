@@ -1,0 +1,70 @@
+= WePower =
+
+*Company Name: WePower UAB<ref name="Webabout">https://wepower.network/about, accessed on 27.07.2018.</ref>
+*Website: https://wepower.network/
+*Founded: 2017<ref name="Whitepaper">https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view, Version 0.8, accessed on 28.07.2018.</ref>
+*Stage: Test<ref name="Whitepaper"/>
+*Team Size: 18<ref name="Website">https://wepower.network/, accessed on 27.07.2018.</ref>
+*Sector: Utilities (55) and Financials (40)
+*Funding: ~40'000'000 USD<ref name="ICObench">https://icobench.com/ico/wepower, accessed on 28.07.2019.</ref>
+*Based on Blockchain: Ethereum (main net)<ref name="Whitepaper"/>
+*Customer Segment: B2B and B2C<ref name="Whitepaper"/>
+*Open-Source: No<ref name="Whitepaper"/>
+
+==Short Description==
+WePower is developing a blockchain-based financing and trading platform for green energy, which aims on facilitating the investment in renewable energies. On the platform energy producers can tokenize and sell the energy they commit to produce on a certain time in the future (usually 4 to 6 months) to consumers and investors. This system enables producers to fund a part of the initial investment in a renewable power plant. The energy being sold is represented by a standardized energy token, which is worth 1kWh of energy and deployed as a smart contract containing the type of energy, a time stamp when the energy will be produced and a price tag. As an example, consider a renewable energy producer who is building a PV-plant worth 100 million EUR but lacking 20 million EUR of funds. On the WePower platform he can tokenize the projected production of energy worth 20 million EUR and sell it up front. He does this by running an auction with setting a minimum price (below the market price). These auctions open to WPR token holders first, giving them a head start of 48h over other WePower platform participants. The energy tokens bought can be used in three ways:  selling them on the platform before the energy is produced or, at the moment of timestamped production, consuming it or automatically selling it at the wholesale market price. Besides priority in the auction process, WPR token holders get 0.9% of the energy financed on the platform as a donation of the energy producers.<ref name="Whitepaper"/>
+
+==Collaborations==
+Founding member of [https://www.climatechaincoalition.io/ Climate Chain Coalition]<ref>https://medium.com/wepower/wepower-a-founding-member-of-the-climate-chain-coalition-7860d4f7717, accessed on 27.07.2018.</ref>
+
+[https://enmin.lrv.lt/en/ Ministry of Energy of the Republic of Lithuania], [https://www.elering.ee/en Elering], [http://www.conquista.solar/ Conquista Solar], [http://civitas.eu/projects Civitas projects], [https://www.novacorex.com/ Novacorex], [https://www.startupbootcamp.org/accelerator/energy-australia/ Energy Australia], [http://http//www.spotless.com Spotless], [https://www.220energia.ee/#/ 220 Energia]<ref name="Whitepaper"/>, [http://www.eleon.ee/ Eleon]<ref>https://medium.com/wepower/wepower-and-eleon-connect-wind-power-and-blockchain-52dbd09ad6df, accessed on 28.07.2018.</ref>, [https://stockholmgreenfin.tech/ Stockholm Green Digital Finance]<ref>https://medium.com/wepower/wepower-unites-the-efforts-with-stockholm-green-digital-finance-to-attract-capital-to-green-energy-f020fb48f66c, accessed on 28.07.2018.</ref>, [http://www.greenenesys.com/ Green Enesys]<ref>https://medium.com/wepower/wepower-announced-cooperation-with-green-enesys-a-renewable-energy-project-developer-with-f78cad8a2144, accessed on 28.07.2018.</ref>.
+
+==Location==
+Address: 
+
+Lithuania (HQ): WePower UAB, Antakalnio str. 17, LT-10312 Vilnius.
+
+Estonia: WePower Network OÜ, Harju maakond, Kesklinna linnaosa, Pärnu mnt 15, 10141, Tallinn.
+
+Australia: WeWork c/o WePower,401 Collins Street, Melbourne, 3000, VIC.
+
+Spain: WePower Network Spain S.L., Calle Covarrubias 3, 28010, Madrid.
+<ref name="Website"/>
+
+Coordinates: 54.697317, 25.309425 (Lithuania), 59.432387, 24.746064 (Estonia), -37.817287, 144.961240 (Australia), 40.428803, -3.697428 (Spain)
+
+Link: [https://www.google.ch/maps/search/WePower+UAB,+Antakalnio+str.+17,+LT-10312+Vilnius/@54.6972679,25.3072253,17z/data=!3m1!4b1 Google maps] (Lithuania)
+
+
+==Team==
+*Nikolaj Martyniuk, co-founder and CEO
+*Arturas Asakavicius, co-founder and COO
+*Kaspar Kaarlep, co-founder and CTO
+*Kristjan Kuhi, Chief Architect
+*Mantas Aleksiejevas, Chief Business Development *Officer
+*Gytis Labasauskas, CMO
+<ref name="Website"/>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: ERC20 Token<ref name="Whitepaper"/>
+*Identification code: WPR<ref>https://etherscan.io/token/0x4CF488387F035FF08c371515562CBa712f9015d4, accessed on 27.07.2018.</ref>
+*Token Type: Utility Token<ref>https://wepower.network/wpr-token, accessed on 27.07.2018.</ref>
+*Link: [https://coinmarketcap.com/currencies/wepower/ Coinmarketcap]
+
+==Funding==
+WePower held a first funding round with a pre-ICO from 22.09.2017 to 23.10.2017 and the ICO from 01.02.2018 to 23.02.2018 in which it was able to fundraise around 40'000'000 USD and thereby reaching its hardcap.The price per issued WPR Token was 0.1250. USD<ref name="ICObench"/> 
+
+==Revenue Model==
+License Fee/Comission<ref name="Whitepaper">
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/WePowerNetwork Facebook], [https://twitter.com/WePowerN Twitter], [https://t.me/WePowerNetwork Telegram], [https://www.linkedin.com/company/11205077/ LinkedIn], [https://medium.com/wepower Medium], [https://www.youtube.com/channel/UCsocTWqQzDvoLBf2sVj96lQ/featured YouTube], [https://github.com/WePowerNetwork Github], [https://open.kakao.com/o/gDW0hFC Kakoatalk].
