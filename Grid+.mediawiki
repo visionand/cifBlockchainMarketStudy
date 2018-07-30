@@ -33,12 +33,10 @@ June 2018<ref>http://interchange.puc.texas.gov/Documents/47947_25_984415.PDF, ac
 
 
 ==Collaborations==
-Founded and held by [https://consensys.net/ ConsenSys]<ref name="Whitepaper"></ref>
+Founded by [https://consensys.net/ ConsenSys]<ref name="Whitepaper"></ref> (owns equity in Grid+)<ref>Information received on request (27.07.2018.)</ref>
 
 ==Location==
-Address GridPlus Inc.: Delaware<ref name="State"></ref> (No detailed information available)
-
-Address GridPlus Texas Inc.: 
+Address GridPlus Inc. and GridPlus Texas Inc.: 
 100 Congress Avenue, Suite 2025, Austin, TX 78701<ref>https://www.puc.texas.gov/industry/electric/directories/rep/report_rep.aspx?ID=RESQL01DB1245829200001, accessed on 23.07.2018.</ref>
 
 Coordinates: 30.264222, -97.744853
@@ -60,7 +58,7 @@ Link: [https://www.google.ch/maps/place/One+Congress+Plaza,+100+Congress+Ave+%23
 *Revenue: N/A
 *Tradeability: ERC20 Token<ref name="Etherscan">https://etherscan.io/token/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd, accessed on 26.07.2018.</ref>
 *Identification code: GRID<ref name="Etherscan></ref>
-*Token Type: Discount Token
+*Token Type: Utility Token
 *Link: [https://coinmarketcap.com/currencies/grid/ Coinmarketcap]
 
 ==Funding==
