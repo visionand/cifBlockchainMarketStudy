@@ -42,14 +42,12 @@ Switzerland
 
 <ref name=„whitepaper“/>
 
- 
 
 Coordinates: 
 
 Latitude: 47.187037
 
 Longitude: 8.486815
-
 
 
 Link: [https://www.google.com/maps/place/Businesspark+Zug/@47.1870366,8.4846211,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaa7626a47221:0x9f79f2b0174c0d23!8m2!3d47.1870366!4d8.4868151 Google Maps]
@@ -91,7 +89,7 @@ SaaS/Licence fee<ref name=„whitepaper“/>
 
 ==Additional Information==
 
-Value-based healthcare refers to pricing of a product or service according to the value it delivers to the patient. In contrast to the traditional „fee-for-service“ approach, value based pricing is more accurately described as „fee-for-performance“. That is, the price rises as the product or service is more valuable to the patient and decreases otherwise. Therefore, manufacturers and healthcare providers are incentivized to offer high quality products and services leading to higher benefits for patients as well as manufacturers and healthcare providers. Current barriers to implement such innovative pricing solutions include the limited ability to track patient progress during treatment and time delays of reimbursement due to the associated complex information management.<ref name=„whitepaper“/>
+Value-based healthcare refers to pricing of a product or service according to the value it delivers to the patient. In contrast to the traditional „fee-for-service“ approach, value based pricing is more accurately described as „fee-for-performance“. That is, the price rises as the patient benefits more of a product or service and decreases otherwise. Therefore, manufacturers and healthcare providers are incentivized to offer high quality products and services leading to higher benefits for patients as well as manufacturers and healthcare providers. Current barriers to implement such innovative pricing solutions include the limited ability to track patient progress during treatment and time delays of reimbursement due to the associated complex information management.<ref name=„whitepaper“/>
 
 
 ==References==
