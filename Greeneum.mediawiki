@@ -1,0 +1,62 @@
+= Greeneum =
+
+*Company Name: Greeneum Net Israel Ltd. and Greeneum Smart Energy Platform Ltd.<ref>https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8, accessed on 30.07.2018.</ref> and GREENEUM NETWORK Ltd.<ref name="GreenPaper">https://drive.google.com/file/d/1Pn3Z8OU1TycbenX_7gTo7loywBq5MbNY/view, accessed on 30.07.2018.</ref>
+*Website: https://www.greeneum.net/greeneum-home/
+*Founded: 2016<ref>https://www.linkedin.com/company/18425849/, accessed on 30.07.2018.</ref>
+*Stage: Test<ref name="Whitepaper">https://www.greeneum.net/greeneum-whitepaper/, accessed on 30.07.2018.</ref> (See additional information)
+*Team Size: 12 (30.07.2018)<ref name="Whitepaper"/>
+*Sector: Utilities (55) and information technology (45)<ref name="Whitepaper"/>
+*Funding: N/A
+*Based on Blockchain: Ethereum (main net) and own multichain system<ref name="Whitepaper"/>
+*Customer Segment: B2B/B2C/C2C<ref name="Whitepaper"/>
+*Open-Source: No
+
+==Short Description==
+Greeneum is planning to provide a worldwide platform for energy trading as well as a market place for other products and technologies which support the transition to renewable energy generation and a greener world. The ecosystem consists of multiple blockchain layers to manage global and local levels of monetization, data and energy. To trade energy on the platform, an AI based algorithm automatically validates the energy generation and compensates the producer with a smart contract-based green certificate (GC) or a non-green certificate (NGC) according to the production technology. Thereby, one certificate represents 1 MWh of electricity. Simultaneously, Greeneum Carbon Credits (GCC) are issued as non-fungible ERC721 tokens and credited to the corresponding energy certificates. Both the energy certificates and the GCCs can be traded on the marketplace. To access said marketplace ERC20 GREEN Tokens are required, which are used to access a series of goods and services related to sustainability, ecology and renewable energy like consulting, technical devices (such as inverters, solar panels etc.) and sustainable products (e.g. organic and local products)<ref name="GreenPaper"/>. A key strength of Greeneum is the forecast of energy generation through AI and machine learning, which it sells as a service on its market place. The company claims to predict energy generation of wind and solar plants with an accuracy of 95% by taking the local climatological systems into account.<ref name="Whitepaper"/>
+
+==Collaborations==
+[http://d10e.biz/ D10E], [http://www.makovsky.com/ Makovsky], [https://wingsfoundation.ch/ WINGS], [https://www.ibm.com/ch-de/ IBM], [https://www.solarchange.co/ Solarchange], [http://coinagenda.com/ CoinAGENDA], [http://www.ldjcapital.com/ LDJ Capital], [https://etheralabs.io/ Etheralabs], [https://sunspec.org/ SunSpec Alliance], [http://www.gibraltarlawyers.com/ ISOLAS], [https://kora.network/ Kora], [https://www.fintech4good.co/ FinTech4Good], [https://www.bancor.network/ Bancor], [http://www.irena.org/ IRENA], [https://masschallenge.org/ MassChallenge], [https://www.micromoney.io/ Micromoney Intl.], [http://web.mit.edu/ MIT].<ref name="WebsiteTeam">https://www.greeneum.net/greeneum-team-overview/, accessed on 30.07.2018.</ref>
+
+==Location==
+Address: Shlomo Ibn Gabirol St 55, 6436118, Tel Aviv-Jaffa, Israel<ref>https://www.facebook.com/Greeneum/, accessed on 30.07.2018.</ref>
+
+Coordinates: 32.077814, 34.781158
+
+Link: [https://www.google.ch/maps/place/Shlomo+Ibn+Gabirol+St+55,+Tel+Aviv-Yafo,+Israel/@32.0777599,34.7789582,17z/data=!3m1!4b1!4m5!3m4!1s0x151d4b8447204c2f:0xe30f80113f760d63!8m2!3d32.0777599!4d34.7811469 Google maps]
+
+
+==Team==
+*Assaf Ben-Or, co-founder and CEO
+*Yau Ben-Or, co-founder
+*Elya Dolev, co-founder and CTO
+*Rodrigo Rapoport, COO
+*Guillermo Wajner, CMO
+<ref name="WebsiteTeam"/>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: ERC20 Token<ref name="GreenPaper"/>
+*Identification code: GREEN<ref name="GreenPaper"/>
+*Token Type: Utility Token<ref name="GreenPaper"/>
+*Link: Not yet issued
+
+
+==Funding==
+Greeneum will hold an ICO in 2018, where it will issue 1'000'000'000 GREEN tokens. However, the timing of the main sale was not communicated yet.<ref>https://www.greeneum.net/greeneum-frequently-asked-questions/, accessed on 31.07.2018.</ref>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee/Comission and Data<ref name="Whitepaper"/>
+
+==Additional Information==
+Greeneum has several other systems up its sleeve which aim on incentivizing green behaviour. One remarkable concept was labelled “NegaWatts” which is a rewarding system for every energy unit saved (negative energy usage).<ref name="Whitepaper"/>
+
+Greeneum already runs two pilots in a microgrid in Israel and in Cyprus, where they mainly use their AI and machine learning forecasting algorithms<ref name="Whitepaper"/>. However, because the Greeneum market place is not yet running and the ICO was not conducted, the project was considered to be in the "test" stage only.
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/Greeneum/ Facebook], [https://twitter.com/GreeneumNet Twitter], [https://t.me/GreeneumNetwork Telegram], [https://www.linkedin.com/company/18425849/ LinkedIn], [https://www.reddit.com/r/Greeneum/ Reddit], [https://medium.com/@Greeneum Medium], [https://github.com/Greeneum/GreeneumSolidity/blob/master/Greeneum.sol Github].
