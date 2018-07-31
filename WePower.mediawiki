@@ -56,7 +56,7 @@ Link: [https://www.google.ch/maps/search/WePower+UAB,+Antakalnio+str.+17,+LT-103
 *Link: [https://coinmarketcap.com/currencies/wepower/ Coinmarketcap]
 
 ==Funding==
-WePower held a first funding round with a pre-ICO from 22.09.2017 to 23.10.2017 and the ICO from 01.02.2018 to 23.02.2018 in which it was able to fundraise around 40'000'000 USD and thereby reaching its hardcap.The price per issued WPR Token was 0.1250. USD<ref name="ICObench"/> 
+WePower held a first funding round with a pre-ICO from 22.09.2017 to 23.10.2017 and the ICO from 01.02.2018 to 23.02.2018 in which it was able to fundraise around 40'000'000 USD and thereby reaching its hardcap. The price per issued WPR Token was 0.1250 USD<ref name="ICObench"/> 
 
 ==Revenue Model==
 License Fee/Comission<ref name="Whitepaper">
