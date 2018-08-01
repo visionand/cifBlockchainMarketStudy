@@ -1,0 +1,58 @@
+= SunContract =
+
+*Company Name: N/A 
+*Website: https://suncontract.org/
+*Founded: 2016<ref name="LinkedIn">https://www.linkedin.com/company/suncontract/, accessed on 01.08.2018.</ref>
+*Stage: Live <ref name="Medium1">https://medium.com/suncontract/https-suncontract-platform-officially-launched-decentralized-energy-trading-p2p-1ac0f5ef5027, accessed on 27.07.2018</ref>
+*Team Size: 14<ref name="Website">https://suncontract.org/tokensale/index.html, accessed on 23.07.2018.</ref> (23.07.2018)
+*Sector: Utilities (55)
+*Funding: 2'218'550 USD<ref name="Calculation"> Own calculation with data found under [https://github.com/cifunibas/cifBlockchainMarketStudy/new/Create-SunContract#funding Funding]</ref>
+*Based on Blockchain: Ethereum (main net)<ref name="Whitepaper">https://suncontract.org/tokensale/res/whitepaper.pdf, accessed on 01.08.2018.</ref>
+*Customer Segment: B2B/B2C/C2C<ref name="Whitepaper">https://suncontract.org/tokensale/res/whitepaper.pdf, accessed on 01.08.2018.</ref>
+*Open-Source: No
+
+==Short Description==
+SunContract is running a blockchain-based peer-to-peer trading platform for renewable solar power which is already live in Slovenia. The company enables trading through an energy pool, based on smart contracts, that brings together consumers, producers and prosumers of energy. To access the platform, customers have to register in an associated mobile app, escrow 2000 SNC tokens and go through an online KYC process. After changing the energy provider to SunContract they can start trading electricity on the platform using SNC tokens. Customers of SunContract can follow their energy consumption on an hourly  basis and are guaranteed by SunContract to have a lower energy bill than they used to have with their former provider.<ref>https://medium.com/suncontract/how-slovenians-are-saving-35-of-their-electricity-costs-3559bc693732, accessed on 01.08.2018.</ref>  On the current platform (stage 2) users can choose at what price they want to buy or sell, as well as the source of the electricity <ref name="Medium2">https://medium.com/suncontract/https-suncontract-platform-officially-launched-decentralized-energy-trading-p2p-1ac0f5ef5027, accessed on 01.08.2018.</ref> In July 2018, the Fiat Gateway was announced to be live, which allows users to deposit euros on the platform so they avoid the fluctuations of the SNC token. Nevertheless, transfers are always executed in SNC in order to benefit from the advantages of blockchain transactions.<ref>https://medium.com/suncontract/suncontract-fiat-gateway-is-live-e52be7e831e3, accessed on 01.08.2018.</ref> For the future SunContract plans to expand within the EU and to develop the markets in Dubai and China where the existing regulatory framework is favourable for SunContracts service. <ref>https://github.com/SunContract/wiki/wiki/FAQ, accessed on 01.08.2018.</ref> According to their Whitepaper, SunContract plans to include a flexibility market for demand response within it platform in a later stage.<ref name="Whitepaper"/>
+
+==Collaborations==
+SONCE energija d.o.o.: relation to be defined.
+
+[https://azure.microsoft.com/de-de/solutions/blockchain/ Microsoft]<ref>https://medium.com/suncontract/suncontract-partners-with-global-leader-microsoft-c2d503194a28, accessed on 23.07.2018.</ref>, [https://www.coolomat-market.io/en Coolomat Market]<ref>https://medium.com/suncontract/suncontract-and-coolomat-market-partnership-announcement-df405bb667f1, accessed on 23.07.2018.</ref>, [https://moneyrebel.io/ MoneyRebel]<ref>https://medium.com/suncontract/suncontract-partnership-announcement-a247e7e5f0ad, accessed on 23.07.2018.</ref>, [http://www.sonce.com/ SONCE New Energy], [https://tradershub.io/ Tradershub], [https://www.hive-project.net/ Hive Project], [https://kumuluz.com/ kumuluz], [https://ace.trade/ ACETrade]<ref name="Medium2"/>, Vaillant, Infrapaneli and Prava Klima, <ref>Information received on request, 23.07.2018</ref>
+
+==Location==
+Address: Ljubljana, Osrednjeslovenska 1000, si
+
+Coordinates: N/A
+
+Link: <Google maps/open maps>
+
+==Team==
+*Gregor Novak, Co-founder and CEO
+*Mojca Bajec, Co-founder and CFO
+*Martina Gabor, CIO
+*Winfred Mandela, CMO
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: ERC20 Token<ref name="Etherscan">https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404#tokenExchange, accessed on 01.08.2018.</ref>
+*Identification code: SNC<ref name="Etherscan"/>
+*Token Type: Utility/Payment Token
+*Link: [https://coinmarketcap.com/de/currencies/suncontract/ Coinmarketcap]
+
+
+==Funding==
+During the ICO from 28th of June 2017 to 1st of August 2017 SunContract was able to create 122'707'503 SNC<ref name = "icomarks">https://icomarks.com/ico/suncontract, accessed on 23.07.2018.</ref>. Of this total amount 98'166'002 were sold during the ICO and the residual 25% (24'541'501 SNC) were minted on top for the team.<ref name="GithubREADME">https://github.com/SunContract/SmartContracts/blob/master/README.md, accessed on 23.07.2018</ref> The ICO price was 0.0226 USD<ref>https://icobench.com/ico/suncontract, accessed on 23.07.2018.</ref> which lead to an amount of approx. 2'218'550 USD fundraised<ref name="Calculation"/>.
+
+==Revenue Model==
+Comission
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/suncontract.org/ Facebook], [https://twitter.com/sun_contract Twitter], [https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw Telegram], [https://suncontract.org/tokensale/wechat.html WeChat], [https://www.linkedin.com/company/suncontract/ LinkedIn], [https://www.reddit.com/r/suncontract/ Reddit], [https://medium.com/suncontract Medium], [https://github.com/SunContract/ Github], [https://bitcointalk.org/index.php?topic=1934763.0 Bitcointalk].
