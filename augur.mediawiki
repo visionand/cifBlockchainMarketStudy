@@ -1,0 +1,120 @@
+=Augur=
+
+* Company Name: Forecast Foundation OU<ref name=„legal“>https://www.augur.net/terms-of-service/, accessed on 26.07.2018.</ref>
+* Website: https://www.augur.net/
+* Founded: 2014<ref name=„founded“>https://www.investinblockchain.com/what-is-augur/, accessed on 26.07.2018.</ref>
+* Stage: Live<ref name=„website“>https://www.augur.net/, accessed on 26.07.2018.</ref>
+* Team Size: 20<ref name=„foundation“>https://www.augur.net/foundation/, accessed on 26.07.2018.</ref>
+* Sector: Financials (40)
+* Funding: $5.1M<ref name=„ico“>https://icowatchlist.com/ico/augur, accessed on 26.07.2018.</ref>
+* Based on Blockchain: Ethereum (main net)<ref name=„etherscan“>https://etherscan.io/address/0x1985365e9f78359a9B6AD760e32412f4a445E862, accesed on 26.07.2018.</ref>
+* Customer Segment: B2C<ref name=„whitepaper“>https://drive.google.com/viewerng/viewer?url=https://www.augur.net/whitepaper.pdf, accessed on 26.07.2018.</ref>
+* Open-Source: Yes<ref name=„faq“>https://www.augur.net/faq/, accessed on 26.07.2018.</ref>
+
+
+==Short Description==
+
+Augur is a protocol to create prediction markets on the Ethereum blockchain where users do not have to rely on a centralized entity that fulfills tasks like maintaining a ledger, determining the outcome of an event and allocating the respective payouts. It also works as a decentralized oracle platform allowing users to integrate real world information into the Ethereum blockchain themselves. The lifetime of a prediction market consists of four steps.<ref name=„whitepaper“/>  First, a user can create a market about any event he is interested in, including political forecasting, event hedging, weather prediction, company forecasting and more.<ref name=„website“/> Afterwards, shares are created for each valid outcome of the event, which can be bought by investors and traded subsequently on a secondary market. The resulting prices of the shares indicate the probability assigned to the various outcomes by the entirety of all users. After the event has occurred, real world outcomes must be migrated to the blockchain. Augur proposes a solution of a decentralized oracle where any user who owns REP tokens can act as a reporter of outcomes. They are incentivized to report only the truth by a reward and penalty system. As soon as consensus about the outcome is reached, users can send their winning shares to the market’s smart contract. They are then being paid out automatically by getting their own coins back and, in addition, receiving the coins paid by the users who have lost the bet.<ref name=„whitepaper“/>
+
+
+==Collaborations==
+
+Forecast Foundation OU (legal entity)
+
+[https://azure.microsoft.com/en-us/ Microsoft Azure]<ref name=„microsoft“>https://azure.microsoft.com/en-us/blog/azure-blockchain-update-6/, accessed on 26.07.2018.</ref>
+
+[https://www.panteracapital.com/ Pantera Capital]<ref name=„pantera“>https://medium.com/@AugurProject/joining-pantera-74f081b7185d, accessed on 26.07.2018.</ref>
+
+[https://www.ideo.com/ IDEO]<ref name=„ideo“>https://medium.com/startup-grind/augur-enters-design-partnership-with-ideo-begins-contract-auditing-22bde9827760, accessed on 26.07.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+Tornimäe tn 5
+
+10145 Tallinn linn
+
+Harju maakond
+
+Republic of Estonia
+
+<ref name=„legal“/>
+
+ 
+
+Coordinates: 
+
+Latitude: 59.433059
+
+Longitude: 24.761247
+
+ 
+
+Link: [https://www.google.com/maps/place/Tornim%C3%A4e+%C3%84rikeskus+O%C3%9C/@59.4326703,24.7589273,17.2z/data=!4m5!3m4!1s0x469294a081ef4a35:0xeaddb90c52cd97df!8m2!3d59.4327361!4d24.7606019 Google Maps]
+
+
+==Team==
+
+Jack Peterson, Co-Founder & Lead Developer
+
+Joseph Krug, Co-founder & Senior Developer
+
+Alex Chapman, Senior Back-End Developer
+
+Aaron Drake, Senior Back-End Developer
+
+Peter Hicks, Senior DevOps Engineer
+
+Matt Bullock, Senior Product Designer
+
+Tom Kysar, Head of Operation
+
+<ref name=„foundation“/>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Reputation Token<ref name=„whitepaper“/>
+* Identification code: REP<ref name=„whitepaper“/>
+* Token Type: Utility/Payment token<ref name=„whitepaper“/>
+* Link: [https://coinmarketcap.com/currencies/augur/ CoinMarketCap]
+
+
+==Funding==
+
+2015: Augur conducted an ICO issuing the Reputation token (REP). Hereby, Augur raised 18’056 BTC and 1’176’816 ETH worth $5.1M at that time. In total, 11’000’000 REP tokens were for sale whereof 8’800’000 have been sold.<ref name=„ico2“>https://icobench.com/ico/augur, accessed on 26.07.2018.</ref>
+
+==Revenue Model==
+
+Nonprofit<ref name=„foundation“/>
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/augurproject Twitter]
+
+[https://www.facebook.com/augurproject/ Facebook]
+
+[https://www.instagram.com/augurproject/ Instagram]
+
+[https://medium.com/@AugurProject Medium]
+
+[https://www.reddit.com/r/Augur/ Augur]
+
+[https://github.com/AugurProject/ GitHub]
