@@ -1,0 +1,59 @@
+= Forctis =
+
+*Company Name: Forctis AG<ref name="Privacy">https://www.forctis.io/privacy-policy, accessed on 03.08.2018.</ref>
+*Website: https://www.forctis.io/home
+*Founded: 2017<ref name="Handelsregister">https://sz.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-410.610.981#, accessed on 06.08.2018.</ref>
+*Stage: Concept<ref name="InfoPack">https://www.forctis.io/resources, accessed on 06.08.2018.</ref>
+*Team Size: N/A
+*Sector: Financials (40)
+*Funding: N/A
+*Based on Blockchain: Own blockchain<ref name="InfoPack"/>
+*Customer Segment: B2B/B2C/C2C
+*Open-Source: N/A
+
+==Short Description==
+Forctis
+Forctis is currently developing a new blockchain protocol which aims to bring the benefits of digital technology to every corner of the world, fighting the financial exclusion of 1.4 billion people in low and middle-income countries. The company wants to achieve this by facilitating the documentation of property rights through their Asset Representation System (ARES). The basis of Forctis’ system is the ARES-token which acts as monetary and/or legal representation of assets. It has a versatile structure and can incorporate multiple assets and asset classes (e.g. Ether and Bitcoin within the asset class of cryptocurrencies next to houses in real estate).  Each ARES-token is built by a combination of these assets and asset classes and is thereby unique in its structure. In its most elementary form, every ARES-token consists at least of one asset, the GenS stable coin. The short-term price stability of the GenS-coin is ensured by a machine learning algorithm, which reacts to (on-chain) market signals and uses market models to hold the price within a monitoring band based on the fundamentals. Forctis is also developing a new blockchain architecture, which is made up of modular and configurable components, on which the ARES-token can exchange information. The architecture of the blockchain is explained more thoroughly in their [https://www.forctis.io/resources InfoPack]. Forctis will hold a funding round for equity in Forctis AG by October 2018 and launch its platform until June 2019.<ref name="InfoPack"/>
+
+==Collaborations==
+N/A
+
+==Location==
+Address: Forctis AG, c/o S&K Partners AG, Samstagernstrasse 55, 8832 Wollerau, Switzerland<ref name="Handelsregister"/>
+
+Coordinates: 47.189658, 8.706327
+
+Link: [https://www.google.ch/maps/place/Samstagernstrasse+55,+8832+Wollerau/@47.1896631,8.7041379,17z/data=!3m1!4b1!4m5!3m4!1s0x479ab22264170309:0x2afac4e768f441e2!8m2!3d47.1896631!4d8.7063266 Google maps]
+
+==Team==
+*Eduardo Slazar, CEO
+*Marc Degen, N/A
+*Isabelle Ganz, N/A
+*Marc Bettinger, N/A
+<ref>https://www.forctis.io/board-of-directors, accessed on 04.08.2018.</ref>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: Equity shares to be issued in October.<ref name="InfoPack"/>
+*Identification code: N/A
+*Token Type: N/A
+*Link: N/A
+
+
+==Funding==
+In September 2018 Forctis will hold a funding round for equity shares in Forctis AG.<ref name="InfoPack"/>
+
+==Revenue Model==
+N/A
+
+==Additional Information==
+Forctis developed a locally optimized version of random gossiping which is faster than vanilla random gossiping according to in-vitro simulation by Forctis.<ref name="InfoPack"/>
+
+==References==
+<references/>
+
+==Additional Links==
+[https://twitter.com/forctis_io Twitter], [https://t.me/forctis_io Telegram], [https://www.linkedin.com/company/forctis-io/ LinkedIn], [https://medium.com/@forctis.io Medium].
