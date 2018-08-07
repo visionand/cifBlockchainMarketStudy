@@ -1,0 +1,109 @@
+=MaidSafe=
+
+* Company Name: MaidSafe.net Limited <ref name="contact">https://maidsafe.net/contact, accessed on 02.08.2018.</ref>
+* Website: https://www.maidsafe.net/, https://safenetwork.tech/
+* Founded: 2006<ref name="about">https://maidsafe.net/about_us, accessed on 02.08.2018.</ref>
+* Stage: Live (SAFE browser), Concept (SAFE Network)<ref name="faq">https://safenetwork.tech/faq/, accessed on 02.08.2018.</ref>
+* Team Size: 14 (February 2006)<ref name="history">https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md, accessed on 04.08.2018.</ref>, 22 (23.04.2018), 31 (02.08.2018)<ref name="about"/>
+* Sector: Information Technology (45)
+* Funding: $7M<ref name="funding">https://www.forbes.com/sites/kashmirhill/2014/06/03/mastercoin-maidsafe-crowdsale/, accessed on 02.08.2018.</ref>
+* Based on Blockchain: Bitcoin (issuance of proxy token) and own Data Chains (in the future)<ref name="faq"/>
+* Customer Segment: B2C<ref name="faq"/>
+* Open-Source: Yes<ref name="faq"/>
+
+
+==Short Description==
+
+MaidSAFE is a Scotland-based company that develops the SAFE Network, a decentralized, open-source and autonomous data network.<ref name="primer">https://safenetworkprimer.com/, accessed on 06.08.2018.</ref> Its purpose is to rebuild the internet in a secure way by eliminating middlemen like data centers and other third parties.<ref name="faq"/> Therefore, users providing computing resources (so-called vaults) such as hard drive space, CPU, bandwidth, uptime and more are connected to each other forming a vault network where data can be stored and transmitted.<ref name="whitepaper">http://docs.maidsafe.net/Whitepapers/pdf/TheSafeNetwork.pdf, accessed on 06.08.2018.</ref> Before data is uploaded, it is split into chunks, encrypted and then multiple copies are allocated among vaults. Proof of Resource processes allow users to audit if vaults store data chunks safely and whether they are retrievable. In order to reach consensus within the system, MaidSAFE developed the Byzantine Fault Tolerant PARSEC consensus algorithm. Unlike most other projects in the realm of cryptocurrencies, MaidSAFE does not build its system on a blockchain. Instead, they developed so-called Data Chains where data identifiers such as hashes, names and the type of data are stored in blocks. This allows nodes to have a provable collective record and history of data in the network. In 2014, MaidSAFE released MaidSafeCoin as a proxy token on the Bitcoin blockchain using the Omni Layer Protocol. Once the SAFE Network is launched, MaidSafeCoins can be swapped at a 1:1 basis for Safecoins, the main net's native token. Safecoins will serve to reward and incentivize users, vaults and developers but also to purchase several network services.<ref name="faq"/>
+
+
+==Collaborations==
+
+N/A
+
+
+==Location==
+
+Address: 
+
+MaidSafe.net Limited
+
+6 Forbes Drive
+
+Ayr
+
+Scotland
+
+<ref name="contact">https://maidsafe.net/contact, accessed on 06.08.2018.</ref>
+ 
+
+Coordinates: 
+
+Latitude: 55.481223
+
+Longitude: -4.605468
+
+ 
+
+Link: [https://www.google.com/maps/place/MaidSafe/@55.4810467,-4.6087609,495m/data=!3m2!1e3!4b1!4m5!3m4!1s0x4889d19859546c0f:0x8d053fd88e589089!8m2!3d55.4810467!4d-4.6065731?hl=en Google Maps]
+
+
+==Team==
+
+David Irvine, Co-Founder and CEO
+
+Nick Lambert, COO
+
+<ref name="crunchbase">https://www.crunchbase.com/organization/maidsafe/current_employees/current_employees_image_list, accessed on 04.08.2018.</ref>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A  
+* Tradability: MaidSafeCoin<ref name="faq"/>
+* Identification code: MAID<ref name="coinmarketcap">https://coinmarketcap.com/currencies/maidsafecoin/, accessed on 06.08.2018.</ref>
+* Token Type: Utility/Payment token<ref name="faq"/>
+* Link: [https://coinmarketcap.com/currencies/maidsafecoin/ CoinMarketCap]
+
+
+==Funding==
+
+2014: MaidSafe started one of the first ICOs and successfully raised Bitcoins worth $7M at the time.<ref name="funding"/>
+
+==Revenue Model==
+
+Commission and Trading<ref name="whitepaper1">https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md, accessed on 04.08.2018.</ref>
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://slack.safenetwork.org/ Slack]
+
+[https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw YouTube]
+
+[https://www.reddit.com/r/safenetwork/ Reddit]
+
+[https://twitter.com/maidsafe Twitter]
+
+[https://t.me/safenetwork Telegram]
+
+[https://www.facebook.com/GetMaidSafe/ Facebook]
+
+[https://medium.com/safenetwork Medium]
+
+
+
+
+
