@@ -1,0 +1,62 @@
+= Fuel Games =
+
+*Company Name: Fuel Games Pty Ltd<ref name="WebsiteFuel">https://www.fuelgames.io/, accessed on 11.08.2018.</ref>
+*Website: https://www.fuelgames.io/
+*Founded: 2018<ref>http://www.abr.business.gov.au/ABN/View?abn=89626193351, accessed on 11.08.2018.</ref>
+*Stage: Live<ref name="GodsUnchained">https://godsunchained.com/, accessed on 11.08.2018.</ref><ref name="Etherbots">https://etherbots.io/, accessed on 11.08.2018.</ref>
+*Team Size: 24<ref>https://godsunchained.com/about-us, accessed on 11.08.2018.</ref>
+*Sector: Consumer Discretionary (25)
+*Funding: N/A
+*Based on Blockchain: Ethereum Main Network<ref name="Hackernoon">https://hackernoon.com/ethereum-is-the-future-of-gaming-and-wed-like-to-prove-it-78f93add39dc, accessed on 11.08.2018.</ref><ref name="Etherbots"/>
+*Customer Segment: B2C<ref name="GodsUnchained"/><ref name="Etherbots"/>
+*Open-Source: Yes (Etherbots)<ref>https://github.com/EtherBots, accessed on 11.08.2018.</ref> and No (Gods Unchained)<ref name="GodsUnchained"/>
+
+==Short Description==
+Fuel Games (FG) is the creator of the games [https://etherbots.io/ Etherbots] and [https://godsunchained.com/ Gods Unchained], which are both based on the Ethereum Main Network. Etherbots was first developed and allows users to create their own unique robots by combining four different parts (forge, weapon, shield and turret) and let them battle against the robots of other users.<ref name="Etherbots"/> Both the player and the parts of his robots accumulate experience during the battles and thereby increase in their levels. <ref name="HackerEtherbots">https://hackernoon.com/etherbots-io-launch-decentralized-robot-wars-on-the-blockchain-34b35ea8423c, accessed on 11.08.2018.</ref> The parts of the robots can be traded on an open marketplace and are representing ERC721 tokens (non-fungible tokens). The second game, Gods Unchained, is a competitive trading card game. Players try to reduce their opponent’s life to zero in turn-based 1vs1 battles by playing with their compiled decks of cards. The cards differ in their scarcity, with the scarce ones representing ERC721 tokens as well.<ref name="GodsUnchained"/> Unlike in Etherbots, the gameplay of Gods Unchained is managed by an off-chain gaming infrastructure platform called Apollo and the "ainsible" state channels. Only the trading of the cards is done via Ethereum transactions, which allows to run the game as seamlessly as its centrally organized competitors. By using Ethereum and the ERC721 token standard in both its games, FG gives its users actual ownership over there in-game property and makes nerfing or trade-blocking of their cards/components impossible.<ref name="Hackernoon"/> FG already announced a third game, Etherbots 2: World Arena, which is coming soon.<ref name="WebsiteFuel"/>
+
+==Collaborations==
+Investors: [https://www.continue.capital/ Continue Capital], [https://ventures.coinbase.com/ Coinbase], [http://nirvana.capital/ Nirvana Capital], [http://www.sora.vc/ Sora Ventures].<ref name="WebsiteFuel"/><ref name="WebsiteFuel"/>
+
+Partners:
+[https://metamask.io/ Metamask],[https://opskins.com/ Opskins], [https://rarebits.io/Rare Bits], [https://opensea.io/ OpenSea].<ref name="GodsUnchained"/>
+
+==Location==
+Address: Sydney, Surry Hills New South Wales 2010, Australien.<ref name="WebsiteFuel"/>
+
+Coordinates: -33.882454, 151.214552
+
+Link: [https://www.google.ch/maps/place/33%C2%B052'56.8%22S+151%C2%B012'52.4%22E/@-33.882454,151.213414,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d-33.8824536!4d151.2145518 Google maps]
+
+==Team==
+*James Ferguson, co-Founder
+*Robbie Ferguson, co-Founder
+<ref>https://www.fuelbros.co/team, accessed on 11.08.2018.</ref>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: N/A
+*Identification code: N/A
+*Token Type: N/A
+*Link: N/A
+
+==Funding==
+Besides the four investors of Fuel Games (see Collaborations), the company funded itself with successful presales of components and cards used in its games.<ref name="WebsiteFuel"/>
+
+==Revenue Model==
+Sales<ref name="GodsUnchained"/><ref name="Etherbots"/>
+
+==Additional Information==
+[https://www.fuelbros.co/contact-us Fuel Bros Pty Ltd] has created Etherbots and was already founded before Fuel Games Pty Ltd (25.01.2018)<ref>http://www.abr.business.gov.au/ABN/View?abn=24624045754, accessed on 11.08.2018.</ref>. Fuel Bros is located at Tower Three, International Towers, 300 Barangaroo Avenue, Barangaroo, New South Wales 2000, Australia.
+
+==References==
+<references/>
+
+==Additional Links==
+===Gods Unchained===
+[https://www.facebook.com/godsunchained/ Facebook], [https://twitter.com/godsunchained Twitter], [https://discordapp.com/invite/Rccxz8V Discord], [https://www.linkedin.com/company/fuelgames/ LinkedIn], [https://reddit.com/r/godsunchained Reddit], [https://hackernoon.com/@fuelgames Medium], [https://bitcointalk.org/index.php?topic=4638524.0 Bitcointalk].
+
+===Etherbots===
+[https://www.facebook.com/Etherbots/ Facebook], [https://twitter.com/EtherBots Twitter], [https://discordapp.com/invite/jbuYx9w Discord], [https://www.linkedin.com/company/fuelgames/ LinkedIn], [https://www.reddit.com/r/etherbots/ Reddit], [https://hackernoon.com/@fuelgames Medium], [https://github.com/EtherBots Github].
