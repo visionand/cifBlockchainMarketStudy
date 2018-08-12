@@ -1,0 +1,55 @@
+= EtherInc =
+
+*Company Name: EtherInc.<ref name="Website">https://einc.io/, accessed on 12.08.2018.</ref>
+*Website: https://einc.io/
+*Founded: 2017<ref name="Linkedin">https://www.linkedin.com/company/ethereum-einc/?originalSubdomain=de, accessed on 12.08.2018.</ref>
+*Stage: Live<ref name="Whitepaper">https://cdn.einc.io/assets/files/einc_whitepaper.pdf, accessed on 08.08.2018.</ref>
+*Team Size: 8 (08.08.2018)<ref name="Team">https://einc.io/#team, accesed on 08.08.2018.</ref>
+*Sector: Industrials (20)
+*Funding: 9'210'000 USD<ref name="Medium">https://medium.com/einc/etherinc-coin-sale-successfully-concluded-aa18f4d13875, accessed on 12.08.2018.</ref>
+*Based on Blockchain: EtherInc Blockchain (own)<ref name="Whitepaper"/>
+*Customer Segment: B2B/B2C<ref name="Whitepaper"/>
+*Open-Source: Yes<ref>https://github.com/etherinc/go-etherinc, accessed on 12.08.2018.</ref>
+
+==Short Description==
+EtherInc (short: eInc) gives teams from all over the world the possibility to coordinate their work in decentralized democratic organizations (i.e. DAOs). Members of these DAOs can chose from two types of proposals to change their organizations. Voting based proposals can be executed by voting only, whereby a quorum has to be reached. The voting power for each member is defined by his role in the organization, with 1 (CEO) being the most powerful. New proposals can be added by members up to grade 1000 and include topics like “Issue Shares”, “Fire CEO” or “Change Legal name”. The second kind of proposals are grade based proposals, which are used to conduct changes in the member list of the organization (e.g. adding members or changing their role). These proposals do not require voting, but members can only commit changes for members with a lower grade than their own. The eInc DAOs are deployed as smart contracts on the eInc blockchain, a fork from the Ethereum main network. Although eInc included some changes in their fork (reducing block time from 15s to 6s and defining a date for the latest block reward), their blockchain is compatible with any Ethereum dApp. The native coin on the eInc blockchain is called ETI, which can be used to pay for transaction fees, pay salaries or run eInc dApps. These eInc dApps are going to be offered in a market place and support the core DAOs with further functions. For 2019 eInc wants to establish a legal status for its DAOs by partnering with countries.<ref name="Whitepaper"/>
+
+==Collaborations==
+[https://emanate.live/ Emanate], [https://www.velix.id/ Velix.ID], [https://codepanel.io/ Codepanel], [http://tokensuite.io/ Tokensuite], [https://twitter.com/teamcharity_io #Teamcharity].<ref name="Website">https://einc.io/, accessed on 08.08.2018.</ref>
+
+==Location==
+Address: Melbourne, Victoria 3000, Australia.<ref name="Linkedin"/>
+
+Coordinates: -37.812388, 144.962097
+
+Link: [https://www.google.ch/maps/place/Melbourne+Victoria+3000,+Australien/@-37.8129688,144.9428909,13.81z/data=!4m5!3m4!1s0x6ad642b8c21cb29b:0x1c045678462e3510!8m2!3d-37.8152065!4d144.963937 Google maps]
+
+==Team==
+*Tarun Malik, CEO
+*Suryansh Kumar, CTO
+*Anant Mendiratta, CMO
+<ref name="Team"/>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: Token
+*Identification code: ETI
+*Token Type: Utility/Payment token
+*Link: N/A
+
+==Funding==
+EtherInc had an ICO from 15.7.2018 to 25.7.2018 with a price of 0.1 USD per ETI coin.<ref>https://icobench.com/ico/etherinc, accessed on 12.08.2018.</ref> The company was able to raise 9'210'000 USD by selling approx. 45% of the coins available for sale.<ref name="Medium"/>
+
+==Revenue Model==
+N/A
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/eincofficial/ Facebook], [https://twitter.com/eIncHQ Twitter], [https://t.me/eincHQ Telegram], [https://www.youtube.com/channel/UCuXo10jvemdXWeROA1lc9Uw YouTube], [https://www.linkedin.com/company/ethereum-einc/ LinkedIn], [https://www.reddit.com/r/eincofficial/ Reddit], [https://medium.com/einc Medium], [https://github.com/etherinc/ Github], [https://bitcointalk.org/index.php?topic=3084491 Bitcointalk].
