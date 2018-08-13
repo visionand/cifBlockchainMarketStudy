@@ -1,55 +1,55 @@
-= <Project Name> =
+= < Project Name > =
 
-<pre>
-  Company name: <Name of the organization according to commercial registry>
-  Website: <official weblink>
-  Founded: <year>
-  Stage: <Concept/Test/Live>
-  Team Size: <Number>
-  Sector: <Sector according classifications of S&P>
-  Funding: <Number or empty if N/A>
-  Based on Blockchain: <Blockchain>
-  Customer Segment: <B2B or B2C>
-  Open-Source: <Yes/No>
-</pre>
+*Company name: < Name of the organization according to commercial registry >
+*Website: < Official weblink >
+*Founded: < Year >
+*Stage: < Concept/Test/Live >
+*Team Size: < Number and Date>
+*Sector: < Sector according classifications of S&P >
+*Funding: < Number or empty if N/A >
+*Based on Blockchain: < Blockchain >
+*Customer Segment: < B2B or B2C >
+*Open-Source: < Yes/No >
 
 ==Short Description==
-<Description max. 1200 characters including spaces>
+< Description max. 1500 characters including spaces >
 
 ==Collaborations==
-</first informations about the holding company and its function for the project afterwards other collaborations>
+Holding Company: < Informations about the holding company and its function for the project >
+
+Sponsors: < External sponsors of the project >
+
+Partners: < Partners of the project >
 
 ==Location==
-<pre>
-Address: <text>
-Coordinates: <longitudes and latitudes>
-Link: <Google maps/open maps>
-</pre>
+Address: < Text >
+
+Coordinates: < Longitudes and latitudes >
+
+Link: < Google maps/open maps >
 
 ==Team==
-< firstName> < lastName >, < position >
+< FirstName > < LastName >, < Position >
 
 ==Key Indicators==
-<pre>
-
-Clients: <number>
-Business Volume: <number based on annual data>
-Valuation: <number>
-Revenue: <number based on annual data>
-Tradeability: <Token/Stock Exchange/Certificates>
-Identification code: <ISIN/token abbreviation>
-Token: <Utility or payment token/ Security-like token>
-Link: <Bloomberg/coinmarketcap>
-</pre>
+*Clients: < Number >
+*Business Volume: < Number based on annual data >
+*Valuation: < Number >
+*Revenue: < Number based on annual data >
+*Tradeability: < Token/Stock Exchange/Certificates >
+*Identification code: < ISIN/token abbreviation >
+*Token: < Utility or payment token/ Security-like token >
+*Token Type: < Utility or Payment Token/Security like >
+*Link: < Bloomberg/coinmarketcap >
 
 ==Funding==
-<Brief explanation of the type of financing, Pre-ICO and ICO prices, current prices, how many tokens are issued, funding per round/stage>
+< Brief explanation of the type of financing, Pre-ICO and ICO prices, current prices, how many tokens are issued, funding per round/stage >
 
 ==Revenue Model==
-<Software as a Service (SaaS) and License Fee/Comission and Trading/Interest/Advertising/Data/Non-Profit>
+< Software as a Service (SaaS) and License Fee/Comission and Trading/Interest/Advertising/Data/Non-Profit >
 
 ==Additional Informations==
-<Only valuable and necessary Informations>
+< Only valuable and necessary Informations >
 
 ==References==
 <ref>Testing the references, mediawiki format, center for innovative finance, universitaet basel, 2018.</ref>
@@ -65,4 +65,4 @@ Link: <Bloomberg/coinmarketcap>
 <references/>
 
 ==Additional Links==
-<Website & Social Media & Github>
+< Social Media, Github, Medium, Bitcointalk >
