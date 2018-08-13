@@ -1,18 +1,19 @@
-= Aragon One AG =
+= Aragon =
 
+* Company Name: Aragon One AG
 * Website: https://aragon.one
-* Founded: 2017<ref>crunchable overview aragon, https://www.crunchbase.com/organization/aragon-2, access 04/12/18.</ref>
-* Stage: Proof-of-Concept <ref>The merkle: What is Aragon?, https://themerkle.com/what-is-aragon/, access 04/12/18.</ref>		
-* Team Size: 13 <ref>aragon core team, https://blog.aragon.one/about, access 04/12/18.</ref>
+* Founded: 2017<ref name="crunchbase">https://www.crunchbase.com/organization/aragon-2, access 04/12/18.</ref>
+* Stage: Proof-of-Concept <ref>https://themerkle.com/what-is-aragon/, access 04/12/18.</ref>		
+* Team Size: 13 <ref name="aragon">https://blog.aragon.one/about, access 04/12/18.</ref>
 * Sector: Information Technology (45)
-* Funding: 25 Milions <ref>crunchable overview aragon, https://www.crunchbase.com/organization/aragon-2, access 04/12/18.</ref>
+* Funding: $25m <ref name="crunchbase"/>
 * Based on Blockchain: Ethereum Testnet Rinkeby <ref>https://blog.aragon.one/aragon-core-v0-5-the-architect-release-327c7163b89c, access 04/12/18.</ref>	
-* Customer Segment: B2B <ref>https://bravenewcoin.com/assets/Whitepapers/Aragon-Whitepaper.pdf, Aragon Whitepaper, access 04/12/18.18.</ref>
-* Open-Source: Yes <ref>https://coincentral.com/aragon-ant-beginners-guide/, access 04/12/18.</ref>
+* Customer Segment: B2B <ref name="braven">https://bravenewcoin.com/assets/Whitepapers/Aragon-Whitepaper.pdf, Aragon Whitepaper, access 04/12/18.18.</ref>
+* Open-Source: Yes <ref name="coincentral">https://coincentral.com/aragon-ant-beginners-guide/, access 04/12/18.</ref>
 
 
 ==Short Description==
-The Aragon project provides a framework that allows anyone to create and manage decentralized organizations. It is build on the Ethereum Blockchain and currently running on Rinkeby testnet. The project's goal is to bring transparency and independent governance to organization management. The functional scope includes token creation and management, voting rights, fundraising as well as identity and permission management. Many of these features are provided out-of-the-box. To address the diverse needs of different organizations, Aragon has a modular architecture. Additional functionalities can be added on top when needed. The project has its own token (ANT) and uses the foundation model. <ref>https://coincentral.com/aragon-ant-beginners-guide/</ref> Aragon will eventually use its framework to create a DAO with the goal to represent a digital jurisdiction with a very basic constitution. Voting rights will be distributed among the ANT token holders. New laws can be added and rectified by the network. The organization will accumulate capital collected through fees (taxes). These fees will primarily be used to provide services such as AragonDev, the decentralized court system and contract upgradeability service for all Aragon core contracts.<ref>https://blog.aragon.one/introducing-the-aragon-network-20b998e2caba, access 04/19/18.</ref> <ref>https://bravenewcoin.com/assets/Whitepapers/Aragon-Whitepaper.pdf, access 06/29/18.</ref> 
+The Aragon project provides a framework that allows anyone to create and manage decentralized organizations. It is build on the Ethereum Blockchain and currently running on Rinkeby testnet. The project's goal is to bring transparency and independent governance to organization management. The functional scope includes token creation and management, voting rights, fundraising as well as identity and permission management. Many of these features are provided out-of-the-box. To address the diverse needs of different organizations, Aragon has a modular architecture. Additional functionalities can be added on top when needed. The project has its own token (ANT) and uses the foundation model. <ref name="coincentral"/> Aragon will eventually use its framework to create a DAO with the goal to represent a digital jurisdiction with a very basic constitution. Voting rights will be distributed among the ANT token holders. New laws can be added and rectified by the network. The organization will accumulate capital collected through fees (taxes). These fees will primarily be used to provide services such as AragonDev, the decentralized court system and contract upgradeability service for all Aragon core contracts.<ref name="blog">https://blog.aragon.one/introducing-the-aragon-network-20b998e2caba, access 04/19/18.</ref> <ref name="braven"/> 
 
 ==Collaborations==
 * Bancor, <ref> https://www.ethnews.com/aragon-partners-with-bancor-to-offer-liquidity-to-community-members, access 05/23/18. </ref> 
@@ -39,7 +40,7 @@ Coordinates:
 * Tatu, Kärki, communications lead
 * Luke, Duncan, research lead
 * John, Light, community lead
-* Jouni, Helminen, design lead<ref>https://aragon.one/about, access 04/19/18. </ref> 
+* Jouni, Helminen, design lead<ref name="aragon"/> 
 
 ==Key Indicators==
 
@@ -54,10 +55,10 @@ Coordinates:
 
 
 ==Funding==
-The Aragon ICO took place on the 17th May 2017. In 26 Minutes 275`000 ether were raised at an exchange rate of 120 ANT for 1 ETH. The pre-sale conditions were 20% discount on this public price but connected to a 6 month vesting schedule with a 3 month cliff. Initial buyers were allowed to contribute to the upper limit of $10`000 in ether. Only institutional buyers (CoinFund, ICONOMI and ShapeShift) were allowed to exceed this upper bound with $40`000 in ether. For liquidity purposes ShapeShift was also allowed to buy another specific portion of tokens that were not discounted and subject to vesting in the height of $20`000. The total Pre-Sale was realized to finance the development and the public sale. A total of almost 726 ether of capital was generated due the Pre-ICO.<ref>https://blog.aragon.one/pre-sale-transparency-report-333e310304c</ref> The total supply which will be constant until the Aragon Network will be deployed is 39`609`523 ANT. <ref>https://blog.aragon.one/the-aragon-token-sale-the-numbers-12d03c8b97d3, access 04/19/18.</ref>
+The Aragon ICO took place on the 17th May 2017. In 26 Minutes 275`000 ether were raised at an exchange rate of 120 ANT for 1 ETH. The pre-sale conditions were 20% discount on this public price but connected to a 6 month vesting schedule with a 3 month cliff. Initial buyers were allowed to contribute to the upper limit of $10`000 in ether. Only institutional buyers (CoinFund, ICONOMI and ShapeShift) were allowed to exceed this upper bound with $40`000 in ether. For liquidity purposes ShapeShift was also allowed to buy another specific portion of tokens that were not discounted and subject to vesting in the height of $20`000. The total Pre-Sale was realized to finance the development and the public sale. A total of almost 726 Ether of capital was generated during the Pre-ICO.<ref>https://blog.aragon.one/pre-sale-transparency-report-333e310304c</ref> The total supply which will be constant until the Aragon Network will be deployed is 39`609`523 ANT. <ref>https://blog.aragon.one/the-aragon-token-sale-the-numbers-12d03c8b97d3, access 04/19/18.</ref>
 
 ==Revenue Model==
-Software as a Service (SaaS) and License Fee<ref>https://blog.aragon.one/introducing-the-aragon-network-20b998e2caba, access 04/19/18. </ref> 
+Software as a Service (SaaS) and License Fee <ref name="blog"/>
 
 ==Additional Informations==
 
