@@ -1,0 +1,63 @@
+= Shift Cryptosecurity =
+
+*Company Name: Shift Devices AG<ref name="Website">https://shiftcrypto.ch/, accessed on 14.08.2018.</ref>
+*Website: https://shiftcrypto.ch/
+*Founded: 2015<ref name="AboutUs">https://shiftcrypto.ch/team, accessed on 14.08.2018.</ref>
+*Stage: Live<ref name="Website"/>
+*Team Size: >20<ref name="AboutUs"/>
+*Sector: Information Technology (45)
+*Funding: N/A
+*Based on Blockchain: N/A
+*Customer Segment: B2B/B2C
+*Open-Source: Yes<ref name="Github">https://github.com/digitalbitbox, accessed on 14.08.2018.</ref>
+
+==Short Description==
+Shift Cryptosecurity developed a hardware wallet, called BitBox, which can be used to store and transfer cryptocurrencies. Having the appearance and size of an USB stick, BitBox signs transactions without the private keys ever leaving the device (“cold storage”). This is achieved by cryptographically combining a personal password with a seed, that is randomly created inside the BitBox, resulting in the private key of the wallet. A touch sensitive LED light on the BitBox together with the desktop app (OSX, Linux and Windows) enable the system to issue transactions. To do so, the user has to log in to the desktop app with his password. After setting the transaction information, the transfer has to be confirmed by touching the LED sensor on the Bitbox to prevent key logging attacks. For additional security, there is a micro SD slot in the Bitbox which allows to make offline back-ups of the seed and store them in a safe place. Furthermore, there is a second factor authentication function which requires you to confirm the transaction on a second device as well. To prevent being personally forced to enter your password, there is a “plausible deniability” option included, which allows to implement a second password which opens a new (hidden) wallet that looks like the original one. So far BitBox supports Bitcoin, both major Ethereum networks (ETH and ETC), ERC20 tokens, Litecoin and Viacoin, with more coins being added continuously by Shift Cryptosecurity.<ref>https://shiftcrypto.ch/faq, accessed on 14.08.2018.</ref><ref>https://digitalbitbox.com/download/documents/BitboxUserGuideV1.pdf, accessed on 14.08.2018.</ref><ref> https://medium.com/shiftcrypto/the-bitbox-hardware-wallet-just-got-a-lot-more-powerful-54c88bdef21, accessed on 15.08.2018.</ref>
+
+==Collaborations==
+Shift Cryptosecurity was founded as a spinoff of the [https://www.ethz.ch/en.html ETH Zürich national university].<ref name="AboutUs"/>
+
+Partners: [https://www.bitcoinassociation.ch/members-1 Bitcoin Association Switzerland], [https://www.pwc.ch/en.html PWC Switzerland], [https://validitylabs.org/ Validity Labs], [https://www.f10.ch/ F10 FinTech].<ref name="Website"/>
+
+==Location==
+Address: Shift Devices AG, Zürich, Switzeland.<ref name="Website"/>
+
+Legal address: Shift Devices AG, Hofstrasse 41, 4127 Birsfelden, Switzerland.<ref>https://bl.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-149.201.586&amt=BL&loeschung=, accessed on 14.08.2018.</ref>
+
+Coordinates: (Zürich)
+*longitudes: 8.546596
+*latitudes: 47.376077
+
+Link: [https://www.google.ch/maps/search/shift+Devices+AG,+Z%C3%BCrich+8001,+Switzerland/@47.3758206,8.5439793,17.25z Google maps]
+
+==Team==
+*PH.D, Douglas Bakkum, co-Founder & Inventor
+*Jonas Schnelli, co-Founder & Developer
+*Dario Duran, Operations & Business development
+*Arnold Sternberg, Finance & Strategy
+*Marko Bencun, Software Architect
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: Shift Devices AG is privately held.<ref name="AboutUs"/>
+*Identification code: N/A
+*Token Type: N/A
+*Link: N/A
+
+
+==Funding==
+Shift Devices AG is a privately held company which was founded as a spinoff of the ETH Zürich national university.<ref name="AboutUs"/>
+
+==Revenue Model==
+Physical Sales<ref name="Website"/>
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/Shiftcrypto/ Facebook], [https://twitter.com/shiftcryptohq?lang=en Twitter], [https://www.youtube.com/channel/UCBEYTMaU5UVd6RWLI_2tzzA YouTube], [https://www.linkedin.com/company/shift-cryptosecurity/?originalSubdomain=ch LinkedIn], [https://medium.com/shiftcrypto Medium], [https://github.com/digitalbitbox Github].
