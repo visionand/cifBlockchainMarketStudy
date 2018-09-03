@@ -1,0 +1,111 @@
+=Paragon=
+
+* Company Name: Paragoncoin Ltd (Gibraltar), ParagonCoin, Inc. (Delaware, USA)<ref name="name">https://paragoncoin.com/PARAGONCOIN_Risk_Factors.pdf, accessed on 08.08.2018.</ref>
+* Website: https://paragoncoin.com/login
+* Founded: 2017<ref name="linkedin">https://www.linkedin.com/company/paragoncoin/, accessed on 08.08.2018.</ref>
+* Stage: Test (Proof of Concept)<ref name="demo">https://paragoncoin.com/development-demo, accessed on 08.08.2018.</ref>
+* Team Size: 23<ref name="website">https://paragoncoin.com/login, accessed on 08.08.2018.</ref>
+* Sector: Industrials (20), Financials (40), Real Estate (60) 
+* Funding: N/A
+* Based on Blockchain: Ethereum (main net)<ref name="etherscan">https://etherscan.io/token/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D, accessed on 08.08.2018.</ref> and Ethereum Rinkeby Test Network (Supply Tracking Demo)<ref name="demogithub">https://github.com/paragon-coin/supply-tracking-demo, accessed on 08.08.2018.</ref>
+* Customer Segment: B2B/B2C<ref name="whitepaper">https://paragoncoin.com/whitepaper.pdf, accessed on 08.08.2018.</ref>
+* Open-Source: Yes<ref name="whitepaper"/>
+
+==Short Description==
+
+Paragon is a company whose purpose is to leverage blockchain technology and smart contracts to overcome several issues currently hindering the legalization process of marijuana. Moreover, they are dedicated to foster startups in the cannabis industry by providing work spaces (ParagonSpace) and building a global network of like-minded individuals. Paragon emphasizes the need for ParagonSpace because of the legal limbo in the industry which makes it hard for businesses to find office premises. In turn, blockchain technology helps to build trust between several parties involved in the life cycle of the product by providing an immutable ledger. Smart contracts on the Ethereum blockchain offer numerous services such as letting apps interact with information stored on the blockchain, allowing anonymous patient identification and facilitating worldwide peer-to-peer transactions of like-minded people. Practical use cases include supply chain transparency, tracking of purchase orders, linking serial numbers to physical goods or assigning and verifying certification of the product's properties (e.g. production standards or content of THC or CBD respectively). Paragon furthermore launched the ERC-20 token ParagonCoin on the Ethereum blockchain to enable businesses and consumers to exchange funds in a quick and verifiable way. The token can also be used for transactions in ParagonSpace ranging from renting the premises, paying for drinks and food to opening doors by scanning a QR code.<ref name="whitepaper"/>
+
+
+==Collaborations==
+
+Holding Company: Paragon Ltd, Paragan, Inc.
+
+Sponsors: N/A
+
+Partners: [https://chronobank.io/ Chrono Bank], [https://www.stocks.exchange/ Stocks Exchange], [http://clarity.pr/ Clarity], [http://cannabrand.co/ Canna Brand], [https://www.melrosepr.com/ Melrose], [http://icopromo.com/ ICO Promo], [https://icobox.io/ ICO Box], [http://jyccfund.com/ JYCC Fund], [https://www.vzfirm.com/ Velton Zegelman], [https://www.iota.org/ IOTA], [https://wearearthur.com/ We Are Arthur]<ref name="whitepaper"/>
+
+
+==Location==
+
+Address: Headquarter based in Los Angeles (no further details available)
+
+ 
+
+Coordinates:
+
+Latitude: N/A
+
+Longitude: N/A
+
+ 
+
+Link: N/A
+
+
+==Team==
+
+Jessica VerSteeg, Chief Executive Officer
+
+Egor Lavrov, Chief Creative Officer
+
+Julian Zegelman, Chief Legal Officer
+
+Giovanti Humphries, Chief Financial Officer
+
+Gareth Rhodes, Chief Business Officer EMEA
+
+David Kalustov, VP of Business Development
+
+Shannon Bigornia, Director of Marketing & Partnerships
+
+Vadym Kurylovich, Chief Technology Officer
+
+<ref name="website"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Paragon token<ref name="coinmarketcap">https://coinmarketcap.com/de/currencies/paragon/, accessed on 08.08.2018.</ref>
+* Identification code: PRG<ref name="coinmarketcap"/>
+* Token Type: Utility/Payment token<ref name="whitepaper"/>
+* Link: [https://coinmarketcap.com/de/currencies/paragon/ CoinMarketCap]
+
+
+==Funding==
+
+N/A
+
+==Revenue Model==
+
+N/A
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.facebook.com/paragoncoin/ Facebook]
+
+[https://twitter.com/paragoncoin Twitter]
+
+[https://www.instagram.com/paragoncoin/ Instagram]
+
+[https://www.instagram.com/paragoncoin/ LinkedIn]
+
+[https://github.com/paragon-coin GitHub]
+
+[https://www.reddit.com/r/ParagonCoin/ Reddit]
+
