@@ -1,0 +1,89 @@
+=Polkadot=
+
+* Company Name: Web 3.0 Technologies Foundation<ref name="impressum">https://polkadot.network/impressum, accessed on 03.09.2018.</ref>
+* Website: https://polkadot.network/
+* Founded: 2017<ref name="handelsregister">https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-322.596.347, accessed on 03.09.2018.</ref>
+* Stage: Test (Proof of Concept)<ref name="website">https://polkadot.network/, accessed on 03.09.2018.</ref>
+* Team Size: 30 (20.09.2017)<ref name="lightpaper">https://polkadot.network/Polkadot-lightpaper.pdf, accessed on 03.09.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $140M<ref name="icodrops">https://icodrops.com/polkadot/, accessed on 03.09.2018.</ref>
+* Based on Blockchain: Relay Chain (own)<ref name="website"/> 
+* Customer Segment: B2C/B2B<ref name="whitepaper">https://polkadot.network/PolkaDotPaper.pdf, accessed on 03.09.2018.</ref>
+* Open-Source: Yes<ref name="whitepaper"/>
+
+==Short Description==
+
+Polkadots main targets are to solve problems of interoperability between existing blockchains, to make the network scalable and to address security issues by implementing a concept they call "Shared Security".<ref name="lightpaper"/> The backbone of the Polkadot network is the so-called Relay Chain, which is responsible to coordinate consensus and to transmit transactions among chains. Bridges link existing blockchains with any consensus algorithm to the underlying Relay Chain and thereby ensure that they become interoperable.<ref name="website"/> The last layer of Polkadot are Parachains, which are blockchains that are able to participate in the Polkadot network and process transactions in a parallelized way.<ref name="lightpaper"/> The Parachains' block headers are stored in the Relay Chains' blocks thus avoiding double-spending.<ref name="whitepaper"/> There is no limit to adding new Parachains to the network and connecting existing blockchain. To ensure security in the network, Polkadot is working on a solution that leverages collective security resources to secure all Parachains at once. The implementation of Parachains in combination with the aforementioned mechanisms enables Polkadot to be scalable and secure at the same time. There will be a DOT token released in the Genesis block that is expected to be created in fall of 2019.<ref name="lightpaper"/> The tokens' purpose will be to assign governance control to holders of DOTs and to allow consensus to be found by the implementation of some kind of Proof-of-Stake (PoS) scheme. In addition, DOTs enable adding new parachains to the network.<ref name="faq">https://polkadot.network/faq, accessed on 03.09.2018.</ref><ref name="whitepaper"/>
+
+
+==Collaborations==
+
+Holding Company: Web 3.0 Technologies Foundation
+
+Sponsors: N/A
+
+Partners: [https://z.cash/ Zcash], [https://soramitsu.co.jp/en/ Soramitsu], [https://colony.io/ Colony], [https://omisego.network/ OmiseGO], [https://symbiont.io/ Symbiont], [https://gridsingularity.com/ Grid Singularity], [https://wavesplatform.com/ Waves], [https://melonport.com/ Melonport], [https://gnosis.pm/ Gnosis], [https://www.blockexmarkets.com/ BlockExMarkets], [https://www.bigchaindb.com/ BigchainDB], [https://slock.it/landing.html Slock.it]<ref name="lightpaper"/><ref name="website"/>
+
+
+==Location==
+
+Address:
+
+Web 3.0 Technologies Foundation
+
+Baarerstrasse 135
+
+6300 Zug
+
+Switzerland
+<ref name="impressum"/>
+ 
+Coordinates: 
+
+Latitude: 47.181317 
+
+Longitude: 8.518914
+ 
+Link: [https://www.google.com/maps/place/Baarerstrasse+135,+6300+Zug/@47.1813171,8.5167197,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaa4532b3ede5:0x646dd0e7e7028861!8m2!3d47.1813171!4d8.5189137 Google Maps]
+
+
+==Team==
+
+Gavin Wood, CEO & Founder
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: DOT token<ref name="faq"/>
+* Identification code: DOT<ref name="faq"/>
+* Token Type: Utility/Payment token<ref name="faq"/>
+* Link: N/A
+
+
+==Funding==
+
+2017: Polkadot raised over 429'000 ETHs in a private and a public sale worth more than $140M at that time. ICO participants are compensated for their contributions as soon as the genesis block is launched and the DOT tokens are created.<ref name="fundraising1">https://techcrunch.com/2017/10/17/polkadot-passes-the-140m-mark-for-its-fund-raise-to-link-private-and-public-blockchains/, accessed on 06.09.2018.</ref><ref name="fundraising2">https://blog.cyber.fund/polkadot-ico-report-b76fbd0b52a2, accessed on 06.09.2018.</ref> However, due to an accident in the code library for the Parity wallet, $98M worth of Ether deposited in a multisig wallet have been frozen and could not be accessed.<ref name="fundraising1"/> Nevertheless, Polkadot stated to continue their work since not all of the funds have been affected by the incident.<ref name="fundraising3">https://medium.com/web3foundation/web-3-multi-sig-wallet-update-245d30df0fb3, accessed on 06.09.2018.</ref> 
+
+==Revenue Model==
+
+Nonprofit<ref name="impressum"/>
+
+==Additional Information==
+
+
+==References==
+<references/>
+==Additional Links==
+[https://twitter.com/polkadotnetwork Twitter]
+
+[https://www.facebook.com/polkadotnetwork Facebook]
+
+[https://riot.im/app/#/room/#polkadot-watercooler:matrix.org Riot]
+
+[https://medium.com/polkadot-network Medium]
+
+[https://github.com/w3f/Web3-wiki/wiki/Polkadot GitHub]
