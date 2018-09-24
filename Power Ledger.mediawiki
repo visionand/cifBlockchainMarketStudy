@@ -48,7 +48,7 @@ Link: [https://www.google.com/maps/place/Power+Ledger/@-31.9530099,115.8519621,1
 
 ==Funding==
 Power Ledger succesfully raised A$17million (~13.21 million USD as per 6th of October 2017) during the Pre-ICO at the beginning of September 2017. 
-In the following Main Sale, the company raised another A$ 17million 
+In the following main sale, the company raised another A$ 17million 
 (A$6million in Bitcoin, A$ 10.7million in Ether and A$ 0.4million in Litecoin).<ref name="Medium1"/> 
 The price per POWR token was 0.0838 USD during the Pre-Sale.<ref name="ICOdrop">https://icodrops.com/powerledger/, accessed on 21.07.2018.</ref> 
 There were a total of 1'000'000'000 POWR token issued, whereof 350'000 were sold publicly during the ICO. 250'000 POWR were created to be used in the bounty campain and in a "growth pool" for future platform hosts. Power Ledger keeps 250'000 POWR in escrow for two years. Thereafter they can be used for additional funding rounds.<ref>https://tge.powerledger.io/media/Power-Ledger-TGE-Token-Paper.pdf, accessed on 21.07.2018.</ref>
@@ -66,4 +66,4 @@ Software as a Service (SaaS) and License Fee/Comission and Trading
 <references/>
 
 ==Additional Links==
-[https://www.facebook.com/powerledger Facebook], [https://twitter.com/powerledger_io?lang=de Twitter] [https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA Telegram], [https://medium.com/power-ledger Medium], [https://www.reddit.com/r/PowerLedger/ Reddit]
+[https://www.facebook.com/powerledger Facebook], [https://twitter.com/powerledger_io?lang=de Twitter], [https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA Telegram], [https://medium.com/power-ledger Medium], [https://www.reddit.com/r/PowerLedger/ Reddit]
