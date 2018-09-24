@@ -1,0 +1,106 @@
+=WAX=
+
+* Company Name: Exposition Park Holdings<ref name="terms">https://wax.io/tos/, accessed on 18.09.2018.</ref>
+* Website: https://wax.io/
+* Founded: 2017<ref name="opskins">https://opskins.com/?loc=about, accessed on 18.09.2018.</ref>
+* Stage: Live<ref name="opskins"/>
+* Team Size: N/A
+* Sector: Information Technology (45)
+* Funding: $55M<ref name="coincentral">https://coincentral.com/wax-token-analysis/, accessed on 18.09.2018.</ref>
+* Based on Blockchain: WAX Blockchain (own)<ref name="whitepaper">https://wax.io/documents/WAX_White_Paper.pdf?1535049764419, accessed on 18.09.2018.</ref>
+* Customer Segment: B2C<ref name="whitepaper"/>
+* Open-Source: No<ref name="request">Information received on request, 18.09.2018.</ref>
+
+
+==Short Description==
+
+Worldwide Asset eXchange (WAX) is a project initiated by OPSkins, a centralized online marketplace and trading platform for video gamers and digital item traders.<ref name="opskins"/> The project's purpose is to decentralize said platform and to enable users to buy and sell digital assets in a peer-to-peer manner leveraging blockchain technology.<ref name="website">https://wax.io/, accessed on 18.09.2018.</ref> Thus, several problems currently hindering market growth such as high fees due to cross-border transactions or the risk of items being stolen by untrustworthy agents can be overcome. WAX builds its own blockchain, which is secured by a Delegated Proof-of-Stake (DPOS) consensus algorithm. There are four key actors in the WAX ecosystem – Users, Guilds, Transfer Agents and Contracts. Users are able to create and sign transactions with their key pair. Guilds are nodes elected by users to create blocks and thereby process transactions. Furthermore, there are Transfer Agents who conduct the in-game transfer of items by acquiring the asset from the seller, verifying its authenticity, handing it over to the buyer and confirming the transaction on the blockchain. Finally, contract addresses consist of code and can be executed by sending a transaction to them. In the future, it might be possible to transfer the digital goods directly if game publishers allow WAX to tokenize these virtual assets. To incentivize sellers to deliver the item as agreed beforehand, a reputation score is implemented helping to create trust between the interacting parties.<ref name="whitepaper"/> 
+
+
+==Collaborations==
+
+Holding Company: Exposition Park Holdings<ref name="terms"/>
+
+WAX is a project initiated by the founders of [https://opskins.com/ OPSkins]<ref name="website">https://wax.io/</ref>
+
+
+Sponsors: N/A
+
+Partners: [https://kyber.network/ Kyber], [https://www.robotcache.com/ Robot Cache], [https://www.bancor.network/ Bancor], [https://nexo.io/ Nexo], [https://jaxx.io/ Jaxx], [https://saltlending.com/ Salt],<ref name="website"/> [https://etherbots.io/ Etherbots], [https://fishbank.io Fishbank],[https://cryptobots.me/ CryptoBots], [https://decentraland.org/ Decentraland], Pandarium, [https://www.etheremon.com/ Ethermon]<ref name="partners">https://medium.com/wax-io/worldwide-asset-exchange-development-update-wax-platform-base-technology-selection-and-more-7f280b90a371, accessed on 18.09.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+4th Street
+
+Santa Monica, USA<ref name="craft">https://craft.co/opskins, accessed on 18.09.2018.</ref><ref name="careers">https://wax.io/careers/, accessed on 18.09.2018.</ref>
+
+ 
+Coordinates: 
+
+Latitude: 34.015205
+
+Longitude: -118.493744
+
+ 
+
+Link: [https://www.google.com/maps/place/4th+St,+Santa+Monica,+CA,+USA/@34.0152051,-118.4959381,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2a4d1cf92a5d5:0x5ff47a082343c74c!8m2!3d34.0152051!4d-118.4937441 Google Maps]
+
+
+==Team==
+
+
+William Quigley CEO WAX & Co-Founder
+
+John Brechisci Jr., Lead Designer &  Co-Founder
+
+Jonathan Yantis, COO Co-Founder 
+
+Malcolm CasSelle, President WAX<ref name="website"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: WAX Token<ref name="coinmarketcap">https://coinmarketcap.com/currencies/wax/, accessed on 18.09.2018.</ref>
+* Identification code: WAX<ref name="coinmarketcap"/>
+* Token Type: Utility/Payment token<ref name="website"/>
+* Link: [https://coinmarketcap.com/currencies/wax/ CoinMarketCap]
+
+
+==Funding==
+
+2017: WAX completed an ICO in November where they raised 20'000 ETHs worth $9.6M at that time. However, in the aforegoing pre-sale, another 140'000 ETHs (~ $45.5M) had already been raised which lead to a total fundraising of approximately $55.1M.
+
+==Revenue Model==
+
+N/A
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links=
+
+[https://www.facebook.com/WAX.io.Community/ Facebook]
+
+[https://twitter.com/wax_io Twitter]
+
+[https://medium.com/wax-io Medium]
+
+[https://github.com/waxio GitHub]
+
+[https://www.reddit.com/r/WAX_io/ Reddit]
