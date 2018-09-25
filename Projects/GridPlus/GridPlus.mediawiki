@@ -68,7 +68,7 @@ Grid+ conducted an ICO from 30.10.2017 to 12.11.2017 offered 90'000'000  of a to
 During the pre and mainsale a total of 39'236'491 tokens were sold at a price of 0.0037 ETH per GRID (~1.13 USD on 12.11.2017<ref>https://www.finanzen.net/waehrungsrechner/ethereum_us-dollar, accessed on 22.07.2018.</ref> ).<ref>https://gridplus.io/token-sale#d, accessed on 22.07.2018.</ref> This is resulting in a total revenue of 44'337'235 USD by that time<ref name="calculation"/>.
 
 ==Revenue Model==
-Comission/Trading and sales (of their Smart Agent)<ref name="Whitepaper"/>
+Comission/Trading and product sales (of their Smart Agent)<ref name="Whitepaper"/>
 
 ==Additional Information==
 
