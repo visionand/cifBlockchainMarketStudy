@@ -1,0 +1,112 @@
+=SALT=
+
+* Company Name: Salt Lending Holdings, Inc<ref name="website">https://saltlending.com/, accessed on 24.09.2018.</ref>
+* Website: https://saltlending.com/
+* Founded: 2016<ref name="whitepaper">https://membership.saltlending.com/files/Abstract_101217.pdf, accessed on 24.09.2018.</ref>
+* Stage: Live<ref name="website"/>
+* Team Size: N/A
+* Sector: Financials (40)
+* Funding: $48.5M<ref name="icodrops">https://icodrops.com/salt/, accessed on 24.09.2018.</ref>
+* Based on Blockchain: Ethereum (main net)<ref name="whitepaper"/><ref name="etherscan">https://etherscan.io/token/0x4156D3342D5c385a87D264F90653733592000581, accessed on 25.09.2018.</ref>
+* Customer Segment: B2B/B2C<ref name="whitepaper"/>
+* Open-Source: No<ref name="whitepaper"/>
+
+
+==Short Description==
+
+SALT Lending offers a membership-based platform for crypto-backed loans where lenders and borrowers can be connected to each other. This allows a user to keep holding his crypto asset while at the same time being able to unlock its value. To do so, coins must be deposited into a multi-signature smart contract on its native blockchain. Hereby, the SALT Oracle monitors transactions between the parties and price development of the assets. Besides, it is responsible for storing the collateral and sending alerts in case of significant price changes. As a precaution, loans are overcollateralized, meaning that in order to access a loan in the amount of P, crypto assets worth more than P must be deposited as a collateral. The ration between the loan and the value of the stored coins is called loan-to-value-ratio (LVR) and must be met at any point of time. That is, if the collateral's value depreciates the LVR rises, which in turn requires the borrower to either deposit more assets or repay parts of the loan. If the borrower fails to take one of these measures, the SALT Oracle may initiate a partial liquidation of the collateral. In turn, if the borrower repays parts of the loan, the LRV decreases and improves, ceteris paribus, the lenders' risk profile. Users are granted access to the platform after they have successfully passed Anti-Money-Laundering (AML) and Know Your Customer (KYC) screening and purchased Salt Membership Units (SALT), an ERC-20 token on the Ethereum blockchain.<ref name="whitepaper"/>
+
+
+==Collaborations==
+
+Holding Company: SALT Lending Holdings, Inc.<ref name="faqcompany">https://saltlending.zendesk.com/hc/en-us/articles/115003449353-What-is-SALT-Lending-s-corporate-mailing-address-, accessed on 24.09.2018.</ref>
+
+Sponsors: N/A
+
+Partners: [https://loci.io/ Loci]<ref name="loci">https://medium.com/@john_Loci/loci-partners-with-salt-lending-d82d1617f1b, accessed on 25.09.2018.</ref>, [https://wax.io/ WAX]<ref name="wax">https://wax.io/, accessed on 25.09.2018.</ref>, [https://www.sbmgroup.mu/ State Bank of Mauritius]<ref name="mauritius">https://cryptovest.com/news/salt-lending-and-mauritius-state-bank-partner-on-blockchain-backed-cash-loans/, accessed on 25.09.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+SALT Lending Holdings, Inc.
+
+PO Box 8350
+
+Denver, Colorado 80201
+
+(This is the mailing address – Their office location is not provided)
+
+<ref name="faqcompany"/>
+
+ 
+
+Coordinates: 
+
+Latitude: 39.75
+
+Longitude: -104.99
+
+ 
+
+Link: [https://www.google.com/maps/place/Denver,+Colorado+80201,+USA/@39.75,-104.9921887,17z/data=!3m1!4b1!4m5!3m4!1s0x876c78d9989e1daf:0xaaa86b1dcfe9c214!8m2!3d39.75!4d-104.99 Google Maps]
+
+
+==Team==
+
+Shawn Owen, CEO
+
+Benjamin Yablon, Vice President & Director of Global Strategy
+
+Bill Sinclair, Chief Technology Officer
+
+Phillip Cowan, Chief Technology Officer
+
+Christopher Price, Chief Innovation Officer
+<ref name="crunchbase">https://www.crunchbase.com/organization/salt-lending/current_employees/current_employees_image_list, accessed on 24.09.2018.</ref>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Salt Membership Unit<ref name="memberships">https://membership.saltlending.com/files/Salt_Membership_Agreement.pdf, accessed on 24.09.2018.</ref>
+* Identification code: SALT<ref name="memberships"/>
+* Token Type: Utility/Payment token<ref name="whitepaper"/>
+* Link: [https://coinmarketcap.com/currencies/salt/ CoinMarketCap]
+
+
+==Funding==
+
+2017: SALT Lending raised over $1M in a seed capital funding round.<ref name="whitepaper"/> In addition, since the launch of the platform, SALT sells its Salt Membership Units and raised a total amount of funds worth $48.5M according to icodrops.com.<ref name="icodrops"/><ref name="steemit">https://steemit.com/ico/@iandos/salt-s-membership-sale, accessed on 24.09.2018.</ref>
+
+==Revenue Model==
+
+SaaS/License fee<ref name="whitepaper"/>
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[http://facebook.com/SALTLENDING/ Facebook]
+
+[http://twitter.com/SALTLending Twitter]
+
+[https://www.reddit.com/r/SALTLending/ Reddit]
+
+[https://blog.saltlending.com/ Medium]
+
+[https://t.me/SALTlendingannouncements Telegram]
