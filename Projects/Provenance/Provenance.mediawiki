@@ -1,0 +1,56 @@
+= Provenance =
+
+*Company Name: Project Provenance Ltd.<ref name="About">https://www.provenance.org/about, accessed on 23.09.2018.</ref>
+*Website: https://www.provenance.org/
+*Founded: 2013<ref>https://beta.companieshouse.gov.uk/company/08622563, accessed on 23.09.2018.</ref>
+*Stage: Live<ref name="About"/>
+*Team Size: 19<ref name="About"/>
+*Sector: Industrials (20)
+*Funding: 800'000 USD<ref name="Medium">https://www.provenance.org/news/us/fundraise_2017, accessed on 02.10.2018.</ref>
+*Based on Blockchain: N/A
+*Customer Segment: B2B/B2C
+*Open-Source: N/A
+
+==Short Description==
+Provenance is based in London and created a platform which aims on making supply chains more transparent and increasing the trust in certifications by using blockchain technology. The system consists of multiple roles and actors. Registrars bring trust into the system by verifying the real-world identity of participants of the network and linking them with their identities on the blockchain. Standards organizations define the rules and requirements of the certification schemes (e.g. fairtrade, organic etc.) which the producers and manufacturer have to fulfil in order to be certified. The certification process is done by certifiers and auditors which inspect both producers and manufacturers and verify the compliance with the certification standards. Registered and certified producers and manufacturers are then able to log their individual products on the blockchain. This is done by giving each product or product bundle a unique code (i.e. serial numbers or bar codes) and creating an on-chain counterpart of this product. Additionally, manufacturers have to reference the corresponding amount of inputs for the products (e.g. a clothing manufacturer certified for using organic cotton has to reference enough certified organic cotton for his output volume). In the end, consumers can retrace the full chain of custody using the unique code on the product itself, with all certificates being cryptographically signed be the certifiers. This allows a more informed consumption choice.<ref>https://www.provenance.org/whitepaper, accessed on 02.10.2018.</ref>
+
+==Collaborations==
+[https://www.unilever.com/sustainable-living/values-and-values/ Unilever], [https://www.sainsburys.co.uk/ Sainsbury's], [https://www.sappi.com/ Sappi], [https://www.barclays.co.uk/ Barclays], [http://www.bnpparibas.ch/en/ BNP Paribas], [https://www.sc.com/en/ Standard Chartered], [http://halotrade.io/ Halotrade], [https://focafet.org/ FOCAFET Foundation], Landmapp, [https://www.gov.uk/government/organisations/department-for-international-development Department for International Development], [https://www.coop.co.uk/ Co-op], [http://www.sourcemap.com/ Sourcemap]<ref>https://www.sustainablebrands.com/news_and_views/supply_chain/sustainable_brands/provenance_partners_unilever_sainsbury%E2%80%99s_banks_aid_sm, accessed on 02.10.2018.</ref>, [https://www.isealalliance.org/ ISEAL] <ref>https://www.provenance.org/news/technology/blockchain-faqs-certifiers-auditors-assurance-organisations, accessed on 02.10.2018.</ref>.
+
+==Location==
+Address: Project Provenance Ltd, 71 Fanshaw St, London, N1 6LA, UK.<ref name="About"/>
+
+Coordinates: 
+*longitudes: -0.080419
+*latitudes: 51.529757
+
+Link: [https://www.google.co.uk/maps/place/Project+Provenance+Ltd/@51.529725,-0.0826217,17z/data=!3m1!4b1!4m5!3m4!1s0x48761afeee11d293:0xc3ca7d44e71d2c29!8m2!3d51.529725!4d-0.080433 Google maps]
+
+==Team==
+*Jessi Baker, CEO and founder
+*Ian Kynnersley, CTO<ref name="Medium"/>
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: 
+*Identification code: N/A
+*Token Type: N/A
+*Link: N/A
+
+
+==Funding==
+In 2017 Provenance was able to raise 800'000 USD from [https://humanityunited.org/ Humanity United].<ref name="About"/>
+
+==Revenue Model==
+N/A
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/ProjectProvenance Facebook], [https://twitter.com/ProvenanceHQ Twitter], [https://www.linkedin.com/company/project-provenance/ LinkedIn], [https://www.instagram.com/provenanceHQ/ Instagram], [https://www.pinterest.ch/provenanceHQ/ Pinterest], [https://github.com/ProjectProvenance Github].
