@@ -1,0 +1,100 @@
+=Oraclize=
+
+* Company Name: Oraclize Limited<ref name="website">http://www.oraclize.it/, accessed on 01.10.2018.</ref>
+* Website: http://www.oraclize.it/
+* Founded: 2015<ref name="funding">https://blog.digitalidentity.tech/oraclize-closes-an-investment-from-digital-identity-124c4c180abb, accessed on 01.10.2018.</ref>
+* Stage: Live<ref name="dapps">http://dapps.oraclize.it/, accessed on 01.10.2018.</ref>
+* Team Size: N/A
+* Sector: Information Technology (45)
+* Funding: €0.5M<ref name="funding"/>
+* Based on Blockchain: N/A
+* Customer Segment: B2B/B2C<ref name="documentation">http://docs.oraclize.it/, accessed on 01.10.2018.</ref>
+* Open-Source: Yes (partially)<ref name="devcenter">https://dev.oraclize.it/, accessed on 01.10.2018.</ref>
+
+
+==Short Description==
+
+Oraclize is a trustless yet centralized oracle service aiming to provide smart contracts and blockchain applications on several platforms with real life data. By October 2018, the service is connected to the blockchains Ethereum, Rootstock, R3 Corda, Hyperledger Fabric and EOS. Oraclize sees considerable inefficiencies when it comes to decentralized oracles because data inputs must be provided by a great number of untrusted parties. In addition, standards for data format must be defined. For this reason, the start-up developed a solution where users do not have to trust the centralized oracle due to the presence of so-called authenticity proofs submitted by Oraclize along with data. These proofs guarantee the integrity of the data provided. Several data source types are supported such as URLs, WolframAlpha, IPFS, random bytes (running on Ledger Nano S.) or arbitrary computation. For different types of data sources, other kinds of authenticity proofs are suitable. That is, so-called TLSNotary and Android Proofs are applicable to data sources such as URLs and computation while Ledger Proofs which are based on hardware cryptocurrency wallets are only suited for random bytes data sources. Since proofs can be very large files and therefore potentially cause high EVM execution costs when submitted directly, they are stored on IPFS and only a pointer to file is delivered instead.<ref name="documentation"/>
+
+==Collaborations==
+
+Holding Company: Oraclize Limited<ref name="website"/>
+
+Sponsors: [http://digitalidentity.tech/ Digital Identity]<ref name="funding"/>
+
+Partners: [https://eidoo.io/ Eidoo]<ref name="partner">https://blog.oraclize.it/the-strategic-alliance-between-oraclize-and-eidoo-7ed0671ef8c5, accessed on 01.10.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+Vintage House 
+
+37 Albert Embankment 
+
+Lambeth SE1 7TL 
+
+London
+<ref name="location">https://stackoverflow.com/jobs/companies/oraclize, accessed on 01.10.2018.</ref>
+
+ 
+
+Coordinates: 
+
+Latitude: 51.48963
+
+Longitude: -0.1226
+
+ 
+
+Link: [https://www.google.com/maps/search/Vintage+House,+37+Albert+Embankment,+Lambeth,+SE1+7TL,+London/@51.4899111,-0.1248921,17z/data=!3m1!4b1 Google Maps]
+
+
+==Team==
+
+Thomas Bertani, CEO<ref name="funding"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: N/A
+* Identification code: N/A
+* Token Type: N/A
+* Link: N/A
+
+
+==Funding==
+
+2017: Oraclized received €500'000 in a seed round from Digital Identity SA.<ref name="funding"/>
+
+
+==Revenue Model==
+
+Commission/Trading<ref name="documentation"/>
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/OraclizeIT Twitter]
+
+[https://www.linkedin.com/company/oraclize-srl LinkedIn]
+
+[https://github.com/oraclize GitHub]
+
+[https://medium.com/@oraclize Medium]
+
