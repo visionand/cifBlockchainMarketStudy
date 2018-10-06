@@ -1,0 +1,63 @@
+= MetaMask =
+
+*Company Name: ConsenSys AG<ref>https://metamask.io/privacy.html, accessed on 06.10.2018.</ref><ref>https://www.moneyhouse.ch/de/company/consensys-ag-19691748291/management, accessed on 06.10.2018.</ref>
+*Website: http://metamask.io
+*Founded: 2016<ref>https://www.reddit.com/r/ethereum/comments/4svuqp/metamask_public_developer_beta_begins_our/, accessed on 06.10.2018.</ref>
+*Stage: Live<ref name="Website">https://metamask.io/, accessed on 04.10.2018.</ref>
+*Team Size: N/A (built by 7 persons)<ref name="Website"/>
+*Sector: Information Technology (45)
+*Funding: N/A
+*Based on Blockchain: Ethereum
+*Customer Segment: B2C
+*Open-Source: Yes<ref name="Github">https://github.com/MetaMask, accessed on 04.10.2018.</ref>
+
+==Short Description==
+MetaMask is one of the most used online wallets for Ethereum and ERC-20 tokens and has the goal to “make Ethereum as easy to use for as many people as possible”<ref name="Website"/>. The wallet is available as an extension for the users’ web browser (Google Chrome, Firefox and Brave) and uses a mnemonic seed phrase to create the private keys. The seed phrase is saved with password protection within the browser (hot wallet) and is therefore not under the control of MetaMask. The private keys are created from the seed in a hierarchical deterministic (HD)<ref> https://github.com/MetaMask/KeyringController/blob/master/index.js, accessed on 06.10.2018.</ref> way within the application or can be imported by the user. For the more security-concerned user, MetaMask allows to use your own full node, however, centralized validation is the default option.<ref> https://www.abitgreedy.com/metamask/, accessed on 06.10.2018.</ref> This means, that users usually are connected to the Ethereum blockchain through a central node, run by MetaMask, without having to download the full blockchain by themselves. One of the key strengths of MetaMask is its high interactivity and compatibility with many decentralized applications (dApps) like [https://www.cryptokitties.co/ Cryptokitties], [https://etherbots.io/ Etherbots] and many more. Those dApps can only be accessed by logging into your MetaMask account, whereby the wallet is communicating with the website and unlocking it in the background. Thanks to this capability, MetaMask is functioning as the key to many current applications based on blockchain technology.   
+
+==Collaborations==
+Founded and held by [https://new.consensys.net/ ConsenSys]
+
+Supported by [https://www.ethereum.org/devgrants Ethereum DevGrants]<ref name="Website"/>
+
+==Location==
+Address: ConsenSys SF, 500 Sansome Street, San Francisco, California.<ref>https://www.linkedin.com/company/metamask/, accessed on 03.10.2018.</ref>
+
+Coordinates: 
+*longitudes: -122.401158
+*latitudes: 37.795210
+
+Link: [https://www.google.ch/maps/place/500+Sansome+St,+San+Francisco,+CA+94111,+USA/@37.7952115,-122.4017009,19z/data=!3m1!4b1!4m5!3m4!1s0x8085806026e3cae3:0xb6a729b7583de943!8m2!3d37.7952104!4d-122.4011537 Google maps]
+
+==Team==
+*Aaron Davi
+*Dan Finlay
+*Thomas Huang
+*Frankie Pangilinan
+*Kevin Serrano
+*James Moreau
+*Christian Jeria
+<ref name="Website"/>
+
+==Key Indicators==
+*Clients: 1.058.259 on Google Chrome (04.10.2018)<ref>https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn, accessed on 04.10.2018.</ref>
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: N/A
+*Identification code: N/A
+*Token Type: N/A
+*Link: N/A
+
+==Funding==
+N/A
+
+==Revenue Model==
+N/A
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/MetaMask-786733141493344/ Facebook], [https://twitter.com/metamask_io Twitter], [https://www.linkedin.com/company/metamask/ LinkedIn], [https://www.reddit.com/r/Metamask/ Reddit], [https://medium.com/metamask Medium], [https://github.com/MetaMask/metamask-extension Github].
