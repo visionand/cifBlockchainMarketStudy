@@ -1,0 +1,113 @@
+=dock.io=
+
+* Company Name: Dock Systems, Inc<ref name="privacy">https://help.dock.io/legal-and-privacy/privacy-policy, accessed on 08.10.2018.</ref>
+* Website: https://dock.io/
+* Founded: 2017<ref name="tokensale">https://dock.io/token-sale, accessed on 08.10.2018.</ref>
+* Stage: Live<ref name="website">https://dock.io/, accessed on 08.10.2018.</ref>
+* Team Size: 18<ref name="about">https://dock.io/about, accessed on 08.10.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $20M<ref name="tokensale"/>
+* Based on Blockchain: Ethereum (main net)<ref name="whitepaper">https://dock.io/whitepaper, accessed on 08.10.2018.</ref>
+* Customer Segment: B2C/B2C<ref name="whitepaper"/>
+* Open-Source: Yes<ref name="whitepaper"/>
+
+
+==Short Description==
+
+Among today's business-related network platforms such as LinkedIn, Upwork and others, each enterprise is hoarding valuable data of clients and not disclosing it to its competitors. Dock.io is building a protocol that fosters the exchange of data between platforms by giving users back control over their personal information. Users control signed and verified data and can choose to both share and hide the information on participating applications that rely on the Dock protocol. Data providers can request to push data to a users' profile, however, data is not submitted to the blockchain but rather sent to the users directly. Only hash values of data are stored on-chain. Personal data is exchanged using IPFS and IPLD specification. It is expected that users disclose certain private and unencrypted information freely to the public. Thus, accounts can vouch on-chain data of other users with their signature (e.g. a university vouching for the validity of a student's degree) and data receivers can verify the data's integrity quickly. Finally, a public domain name registry developed by dock.io will match domain names with Ethereum addresses, which makes the system user-friendlier. If an application wants to consume data it must pay in order to get access. Tokens are introduced into the ecosystem not only as a medium of exchange but also to incentivize user behavior in favor of the public and to give token holders the ability to vote on issues concerning the protocol.<ref name="whitepaper"/>
+
+
+==Collaborations==
+
+Holding Company: Dock Systems, Inc<ref name="privacy"/>
+
+Investors: [https://www.passportcapital.com/ Passport Capital], [https://www.digitalassetfund.com/ Digital Asset Fund], [http://www.digitalcurrencyholdings.com/ DCH], [http://connect.capital/ Connect Capital], [http://1kx.network/ 1kx], [https://alphabit.fund/ Alphabit], [http://liquid2.vc/ Liquid 2 Ventures], [http://blockwater.io/ Blockwater Capital], [https://www.blocktech.capital/ Blocktech Capital]<ref name="about"/>
+
+Partners: [https://breezy.hr/ Breezy HR], [https://www.investfeed.com/home investFeed], [https://indorse.io/ Indorse], [https://fundrequest.io/ FundRequest]<ref name="blogpartners">https://medium.com/dock/partners/home, accessed on 08.10.2018.</ref>
+
+
+==Location==
+
+Address: Office Locations in 8 countries. No addresses available.
+
+ 
+
+Coordinates: N/A
+
+Latitude: N/A
+
+Longitude: N/A
+
+ 
+
+Link: N/A
+
+
+==Team==
+
+Nick Macario, Co-Founder & CEO
+
+Elina Cadouri, Co-Founder & COO 
+
+Avneet Singh, CTO
+
+Evgeniy Zabolotniy, Lead Blockchain Engineer
+
+Todd Scheuring, Head of Design
+
+Jeffry Harrison, Director of Partnerships
+
+Sergey Ermakovich, Lead Frontend Developer
+
+<ref name="about"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Dock Token<ref name="tokensale"/>
+* Identification code: DOCK<ref name="tokensale"/>
+* Token Type: Utility/payment token<ref name="whitepaper"/>
+* Link: [https://coinmarketcap.com/currencies/dock/ CoinMarketCap]
+
+
+==Funding==
+
+2018: Dock.io raised a total amount equal to $20M in a token sale which was divided into a private presale where they collected $12M and a public sale with a fundraising of $8M. Both rounds have been sold out before the sales were closed.<ref name="tokensale"/>
+
+==Revenue Model==
+
+N/A
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.facebook.com/getdock/ Facebook]
+
+[https://twitter.com/getdock Twitter]
+
+[https://www.linkedin.com/company/getdock/ LinkedIn]
+
+[https://github.com/getdock GitHub]
+
+[https://medium.com/dock Medium]
+
+
+
+
+
+
