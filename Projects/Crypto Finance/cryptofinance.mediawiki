@@ -1,0 +1,151 @@
+=Crypto Finance=
+
+* Company Name: Crypto Finance AG, Crypto Fund AG, Crypto Broker AG and Crypto Storage AG<ref name="website">https://www.cryptofinance.ch/en, accessed on 13.10.2018.</ref>
+* Website: https://www.cryptofinance.ch/en
+* Founded: 2017<ref name="about">https://www.cryptofinance.ch/en/about-us/, accessed on 13.10.2018.</ref>
+* Stage: Live<ref name="website"/>
+* Team Size: 34<ref name="team">https://www.cryptofinance.ch/en/team/, accessed on 13.10.2018.</ref>
+* Sector: Financials (40)
+* Funding: CHF 16M (~€13.8M)<ref name="funding">https://www.cryptofinance.ch/en/crypto-finance-schweizer-fintech-schliesst-finanzierungsrunde-ab/, accessed on 13.10.2018.</ref>
+* Based on Blockchain: N/A
+* Customer Segment: B2B/B2C<ref name="website"/>
+* Open-Source: No
+
+
+==Short Description==
+
+Crypto Finance AG is a holding company under which the three companies Crypto Fund AG, Crypto Broker AG and Crypto Storage AG are subsumed. These companies are responsible for different services related to granting investors access to crypto currency markets.<ref name="about"/> Crypto Fund AG enables investors to diversify their portfolio by supplementing it with crypto assets. This subsidiary assumes the asset management in the ecosystem of Crypto Finance AG.<ref name="fundag">https://www.cryptofinance.ch/en/asset-management/, accessed on 13.10.2018.</ref> As of October 2018, Crypto Fund AG is authorized by the Swiss Financial Market Supervisory Authority FINMA with a license as an asset manager.<ref name="finma">https://www.cryptofinance.ch/en/swiss-financial-authority-finma-grants-its-first-authorisation-to-a-crypto-company/, accessed on 13.10.2018.</ref> In addition to that, Crypto Broker AG fulfills tasks such as executing orders and functions as an intermediary to qualified and institutional investors. Algorithms split up orders to find the best trading opportunities automatically. After acquiring the assets, clients can choose to either store the assets with Crypto Broker AG or to deposit them in their own wallet. A variety of cryptocurrencies are supported for trading and storage, however, there are some exceptions due to KYC and AML regulations. <ref name="brokerag">https://www.cryptofinance.ch/en/brokerage/, accessed on 13.10.2018.</ref> Finally, Crypto Storage AG offers private solutions related to storage and management of private keys.<ref name="website"/> Keys are thereby both physically and digitally secured. Nevertheless, individual and role-based access control allows clients to access their keys, sign transactions and enables the implementation of flexible multi-signature schemes.<ref name="storageag">https://www.cryptofinance.ch/en/storage/, accessed on 13.10.2018.</ref>
+
+
+
+==Collaborations==
+
+Holding Companies: Crypto Finance AG, Crypto Fund AG, Crypto Broker AG and Crypto Storage AG<ref name="website"/>
+
+Investors: Rainer-Marc Frey, Philipp Cottier<ref name="funding"/>
+
+Partners: N/A
+
+
+==Location==
+
+Addresses:
+
+Crypto Finance AG
+
+Bahnhofplatz 
+
+6300 Zug
+
+Switzerland<ref name="website"/>
+
+ 
+
+Crypto Fund AG/Crypto Broker Ag/Crypto Storage AG
+
+Genferstrasse 35
+
+8002 Zürich
+
+Switzerland<ref name="locattion">https://www.cryptofinance.ch/en/contact/, accessed on 13.10.2018.</ref>
+ 
+
+Coordinates: 
+
+Latitude: 47.366082
+
+Longitude: 8.533203
+
+ 
+
+Link: [https://www.google.com/maps/place/Genferstrasse+35,+8002+Z%C3%BCrich/@47.3660821,8.5310087,17z/data=!3m1!4b1!4m5!3m4!1s0x479009f8b88ac073:0x732e4bfd0b7ed868!8m2!3d47.3660821!4d8.5332027 Google Maps]
+
+
+==Team==
+
+Crypto Finance AG:
+
+Raymond J. Baer, Board Member 
+
+Marc P. Bernegger, Board Member 
+
+Jan Brzezek, CEO & Founder
+
+Dr. Philipp Cottier, Board Member
+
+Pascal Forster, Board Member 
+
+Dr. Tobias Reichmuth, Chairman & Co-Founder
+
+ 
+
+Crypto Fund AG:
+
+Jan Brzezek, CEO & Founder
+
+Mathias Maurer, Member of the Executive Committee and COO
+
+ 
+
+Crypto Fund AG:
+
+Stijn Vander Straeten, CEO
+
+Dr. Lewin Boehnke, CTO
+
+ 
+
+Crypto Broker AG:
+
+Daniel Dettwiler, Head Platform Management
+
+Jean-Michel Krauskopf, Head of Compliance & Risk
+
+Robin Lemann, Member of the Executive Committee and Head of Sales
+
+Simon Tobler, Member of the Executive Committee and Head of Trading
+
+<ref name="team"/>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: N/A
+* Identification code: N/A
+* Token Type: N/A
+* Link: N/A
+
+
+==Funding==
+
+2017: Crypto Finance completed a financing round raising CHF 16M (approximately €13.8M) from private investors. 
+
+
+==Revenue Model==
+
+Commission/Trading
+
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.facebook.com/CryptoFinanceAG Facebook]
+
+[https://twitter.com/cryptofinanceag Twitter]
+
+[https://www.linkedin.com/company/cryptofinanceag/ LinkedIn]
+
