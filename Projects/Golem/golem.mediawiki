@@ -1,0 +1,103 @@
+=Golem=
+
+* Company Name: Golem Factory GmbH<ref name="website">https://golem.network/, accessed on 09.10.2018.</ref>
+* Website: https://golem.network/
+* Founded: 2016<ref name="linkedin">https://www.linkedin.com/company/golem-factory/, accessed on 09.10.2018.</ref>
+* Stage: Live<ref name="stage">https://blog.golemproject.net/so-were-live-on-the-ethereum-mainnet-now-what-a4265813ca44, accessed on 09.10.2018.</ref>
+* Team Size: 33<ref name="team">httpss://golem.network/team/, accessed on 09.10.2018.</ref>
+* Sector: Information Technology (45)
+* Funding: $8.6M<ref name="funding">https://www.forbes.com/sites/rogeraitken/2016/11/12/fintech-golems-airbnb-for-computing-crowdsale-scores-8-6m-in-minutes/#59c52f5a3583, accessed on 09.10.2018.</ref>
+* Based on Blockchain: Ethereum (main net)<ref name="whitepaper">https://golem.network/crowdfunding/Golemwhitepaper.pdf, accessed on 09.10.2018.</ref><ref name="etherscan">https://etherscan.io/token/0xa74476443119A942dE498590Fe1f2454d7D4aC0d, accessed on 09.10.2018.</ref>
+* Customer Segment: B2B/B2C<ref name="whitepaper"/>
+* Open-Source: Yes <ref name="whitepaper"/>
+
+
+==Short Description==
+
+Golem is a start-up that wants to create what they call a "decentralized supercomputer". This means that everybody should be able to rent computing power from users who provide computing resources on a decentralized marketplace running on Ethereum. According to the start-up, the market will be almost competitive due to nearly perfect information, which results in low prices for computing services. The Golem ecosystem consists of three types of agents: providers offering computing power, requestors who submit tasks to be computed and software developers. One initial use case will be CGI rendering, however, software developers will be incentivized to deploy further applications. Accordingly, the backbone of the system will be the Application Registry along with a Transaction Framework. The former is a smart contract on the Ethereum blockchain to which applications can be published. However, there are users (validators) who can either certify the submitted codes as trustworthy or mark them as malicious. In addition to that, a reputation system helps incentivize the node's good behavior. On the other hand, the Transaction Framework regulates the requirements that need to be met in order to implement a transaction model associated with an application on the platform. This includes for instance use of open source and/or deterministic environment (e.g. EVM) and use of Golem Network Tokens (GNTs) for payments. The system also allows the creation of more sophisticated transaction models.<ref name="whitepaper"/> 
+
+
+==Collaborations==
+
+Holding Company: Golem Factory GmbH<ref name="website"/>
+
+Sponsors: N/A
+
+Partners: [https://friendup.cloud/ Friend]<ref name="parner1">https://blog.golemproject.net/friend-software-corporation-and-the-golem-project-to-partner-3ab795456999, accessed on 09.10.2018.</ref>
+
+
+==Location==
+
+Address: Office location in Warsaw, Poland. No addresses available.
+
+ 
+
+Coordinates: 
+
+Latitude: N/A
+
+Longitude: N/A
+
+ 
+
+Link: N/A
+
+
+==Team==
+
+Julian Zawistowski, CEO & Founder
+
+Piotr Janiuk, CTO & Co-Founder
+
+Andrzej Regulski, COO & Co-Founder
+
+Aleksandra Skrzypczak, Lead Software Engineer & Co-Founder
+
+<ref name="team"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Golem Network Token<ref name="whitepaper"/>
+* Identification code: GNT<ref name="whitepaper"/>
+* Token Type: Utility/Payment token<ref name="whitepaper"/>
+* Link: [https://coinmarketcap.com/currencies/golem-network-tokens/ CoinMarketCap]
+
+
+==Funding==
+
+2016: Golem collected 820'000 ETHs equal to the amount of approximately $8.6M at that time thereby reaching their hard cap. The sale was open to the public.<ref name="crowdfunding">https://golem.network/crowdfunding/, accessed on 09.10.2018.</ref>
+
+==Revenue Model==
+
+N/A
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://www.facebook.com/golemproject/ Facebook]
+
+[https://twitter.com/golemproject?lang=de Twitter]
+
+[https://www.linkedin.com/company/golem-factory/ LinkedIn]
+
+[https://github.com/golemfactory GitHub]
+
+[https://www.reddit.com/r/GolemProject/ Reddit]
+
+[https://medium.com/@golemproject Medium]
