@@ -1,32 +1,32 @@
 =VETRI=
 
-* Company Name: Procivis AG<ref name=„website“>https://vetri.global/, accessed on 07.08.2018.</ref>
+* Company Name: Procivis AG<ref name="website">https://vetri.global/, accessed on 07.08.2018.</ref>
 * Website: https://vetri.global/
-* Founded: 2016 <ref name=„website“/>
-* Stage: Concept<ref name=„whitepaper“>https://vetri.global/static/WP-VETRI.pdf, accessed on 07.08.2018.</ref>
-* Team Size: 10 (17.03.2018), 23 (05.05.2018), 30 (07.08.2018)<ref name=„whitepaper“/>
+* Founded: 2016 <ref name="website"/>
+* Stage: Concept<ref name="whitepaper">https://vetri.global/static/WP-VETRI.pdf, accessed on 07.08.2018.</ref>
+* Team Size: 10 (17.03.2018), 23 (05.05.2018), 30 (07.08.2018)<ref name="whitepaper"/>
 * Sector: Information Technology (45)
-* Funding: $10.73M<ref name=„website“/>
-* Based on Blockchain: Ethereum (main net)<ref name="etherscan">https://etherscan.io/token/0x922ac473a3cc241fd3a0049ed14536452d58d73c,</ref><ref name=”technical whitepaper”>https://github.com/valid-global/white-paper/blob/master/white-paper.md, accessed on 07.08.2018.</ref>
-* Customer Segment: B2C/B2B <ref name=„whitepaper“/>
+* Funding: $10.73M<ref name="website"/>
+* Based on Blockchain: Ethereum (main net)<ref name="etherscan">https://etherscan.io/token/0x922ac473a3cc241fd3a0049ed14536452d58d73c, accessed on 07.08.2018.</ref><ref name="technical whitepaper">https://github.com/valid-global/white-paper/blob/master/white-paper.md, accessed on 07.08.2018.</ref>
+* Customer Segment: B2C/B2B <ref name="whitepaper"/>
 * Open-Source: Yes<ref name="request">Information received on request (06.08.2018).</ref>
 
 
 ==Short Description==
 
-VETRI is a project initiated by the Swiss company Procivis AG. The idea behind the project is to enable individuals to fully control their personal data in the internet by creating a digital identity owned by the user and stored on the users device. VETRI consists of two different components – the user interface where private information is managed (VETRI Wallet) and the web application where the anonymized information can be shared and exchanged for funds (VETRI marketplace). Private data (e.g. age) will be stored locally on the users device only. A signed hash of the data will be publicly available on the blockchain to enable people to verify the integrity of the users digital identity. By providing a signed hash of the users private data, a data buyer can verify the users claims about his/her identity by comparing the users signed hash to the corresponding hash stored on the Ethereum blockchain. In March 2018, VETRI successfully completed a token sale and raised about $11 million. The VLD token (VLD) will later be used for transactions in the VETRI ecosystem such as data purchases and payment for several services.<ref name=„whitepaper“/><ref name=”technical whitepaper”/><ref name=”blog1”>https://medium.com/vetri/announcement-valid-completes-token-sale-raises-equivalent-of-usd-10-73-million-2d360717f838, accessed on 08.06.2018.</ref>
+VETRI is a project initiated by the Swiss company Procivis AG. The idea behind the project is to enable individuals to fully control their personal data in the internet by creating a digital identity owned by the user and stored on the users device. VETRI consists of two different components – the user interface where private information is managed (VETRI Wallet) and the web application where the anonymized information can be shared and exchanged for funds (VETRI marketplace). Private data (e.g. age) will be stored locally on the users device only. A signed hash of the data will be publicly available on the blockchain to enable people to verify the integrity of the users digital identity. By providing a signed hash of the users private data, a data buyer can verify the users claims about his/her identity by comparing the users signed hash to the corresponding hash stored on the Ethereum blockchain. In March 2018, VETRI successfully completed a token sale and raised about $11 million. The VLD token (VLD) will later be used for transactions in the VETRI ecosystem such as data purchases and payment for several services.<ref name="whitepaper"/><ref name="technical whitepaper"/><ref name="blog1">https://medium.com/vetri/announcement-valid-completes-token-sale-raises-equivalent-of-usd-10-73-million-2d360717f838, accessed on 08.06.2018.</ref>
 
 ==Collaborations==
 
 [https://procivis.ch/ Procivis AG] (legal entity)
 
-[https://www.froriep.com/en/ Froriep]<ref name=„whitepaper“/>
+[https://www.froriep.com/en/ Froriep]<ref name="whitepaper"/>
 
 [https://creativedock.com/ Creative Dock]<ref name="request"/>
 
-[https://www.lykke.com/company Lykke]<ref name=„whitepaper“/>
+[https://www.lykke.com/company Lykke]<ref name="whitepaper"/>
 
-[https://www.queo.de/ch/startseite queo]<ref name=„whitepaper“/>
+[https://www.queo.de/ch/startseite queo]<ref name="whitepaper"/>
 
 
 
@@ -73,7 +73,7 @@ Giorgio Zinetti, CTO
 
 Adithya Pradeep Kumar, Business Development
 
-<ref name=„whitepaper“/>
+<ref name="whitepaper"/>
 
 
 ==Key Indicators==
@@ -82,15 +82,15 @@ Adithya Pradeep Kumar, Business Development
 * Business Volume: N/A
 * Valuation: N/A
 * Revenue: N/A
-* Tradability: VLD token<ref name=„whitepaper“/>
-* Identification code: VLD<ref name=„whitepaper“/>
-* Token Type: Utility/Payment Token<ref name=„whitepaper“/>
+* Tradability: VLD token<ref name="whitepaper"/>
+* Identification code: VLD<ref name="whitepaper"/>
+* Token Type: Utility/Payment Token<ref name="whitepaper"/>
 * Link: [https://icodrops.com/valid/ ICO Drops]
 
 
 ==Funding==
 
-2018: Token sale with a total fundraising of $10.73M.<ref name=„website“/>
+2018: Token sale with a total fundraising of $10.73M.<ref name="website"/>
 
 
 ==Revenue Model==
