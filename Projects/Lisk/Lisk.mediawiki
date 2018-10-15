@@ -1,0 +1,93 @@
+= Lisk =
+
+* Company Name: Lisk Foundation <ref> https://lisk.io/terms-conditions, access 08/08/18.</ref>
+* Website: https://lisk.io
+* Founded: 2016 <ref>https://lisk.io/lisk-foundation, access 08/08/18.</ref>
+* Stage: Live <ref>https://www.investinblockchain.com/lisk-news-roundup-june/, access 08/08/18.</ref>
+* Team: 51 <ref name="Team">https://lisk.io/team, access 13/08/18.</ref>
+* Sector: Information Technology (45)
+* Funding: $9.76m <ref name="BCfoc">https://bcfocus.com/cryptocurrency-analysis/everything-you-must-know-about-lisk-lsk-a-beginners-guide/18438/, access 08/09/18.</ref> (4`009 BTC and 80`742`575 XCR (Crypti)) <ref name="Funding">https://blog.lisk.io/the-lisk-ico-has-now-ended-with-a-total-of-14-009-btc-and-80-million-xcr-exchanged-93d6ce84d8fb, access 08/08/18.</ref>
+* Based on Blockchain: Lisk (main chain) <ref>https://explorer.lisk.io, access 08/08/18.</ref>
+* Customer Segment: B2B, C2C or B2C is possible <ref>https://unhashed.com/cryptocurrency-coin-guides/what-is-lisk-lsk/, access 15/10/18.</ref>
+* Open-Source: Yes
+
+
+==Short Description==
+
+Lisk is a decentralized platform that allows for the development and distribution of JavaScript based dApps. It offers an ecosystem written entirely in Node.js that gives third-party developers the flexibility to customize all the modules needed to develop dApps. In their ecosystem these modules consists basically of the consensus algorithm, a sidechain and the applications front and backend (user interface and application logic). Lisk provides a modular framework application called Software Development Kit (SDK) which simplifies the creation of a sidechain and the development of a dApp on it. The consensus algorithm of every new sidechain is by default Delegated Proof of Stake (DPoS) as in the main chain of Lisk. In DPoS Systems witnesses are selected according to votes of the users. These votes are weighted according to size of each voter`s stake. Witnesses who earned the most votes receive the right to validate transactions and are further responsible for the rewarded block creation process. Apart from the consensus algorithm every sidechain is a fully customisable blockchain with a new generated token of value or otherwise backed by the original LSK tokens. However, the application can connect into the existing ecosystem of Lisk by utilizing the LSK token, leveraging other blockchain applications and starting with an existing user base. All Lisk blockchain services are plugged into the Lisk mainchain and ecosystem. Once such a service exists every other blockchain application developer can leverage it therefore. <ref>https://blog.lisk.io/what-is-lisk-and-what-it-isnt-e7b6b6188211, access 08/13/18.</ref><ref>https://hackernoon.com/what-is-delegated-proof-of-stake-897a2f0558f9, access 08/13/18.</ref><ref name="BCfoc"/>
+
+
+==Collaborations==
+* ShapeShift
+* Chain of Things
+* Microsoft Azure
+* Transform.PR
+* lightcurve GmbH
+* SocketCluster
+* Expand Online <ref>https://blog.lisk.io/tagged/partnerships, access 08/13/18.</ref>
+* London blockchain Labs <ref>https://bcfocus.com/news/lisk-lsk-announces-partnership-with-london-blockchain-labs/17221/, access 08/13/18.</ref>
+
+
+==Location==
+
+
+Address headquarters:
+* Gubelstrasse 11
+* 6300 Zug
+* Switzerland <ref>https://www.zefix.ch/de/search/entity/list/firm/1284928?name=Lisk&searchType=exact, access 08/13/18.</ref> <ref>https://lisk.io/press-media, access 08/13/18.</ref>
+
+Coordinates:
+* Longitude: 47.1740
+* Latitude: 8.5156
+* Link: [https://www.google.ch/maps/place/Gubelstrasse+11,+6300+Zug/@47.1740772,8.5156441,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaa59cc61121f:0xf9c08bb4945c13c8!8m2!3d47.1740736!4d8.5178328 Google Maps]
+
+
+
+==Team==
+* Mark Kordek. President & CEO
+* Oliver Beddows, Vice President & CTO
+* Pascal Schmid, Board Member
+* Lothar Skorupka, Finacial Analyst
+* Angela van den Eijnden, Office Manager
+* Thomas Schouten, Marketing Lead
+* Jan Hackfeld, Cryptographer
+* Juan Gonzales, DevOps Engineer <ref name="Team"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: LSK
+* Token Type: usage/utility token <ref>https://blockchainhub.net/blog/blog/token-valuation-lisk/, access 08/13/18.</ref>
+* Link: [https://coinmarketcap.com/de/currencies/lisk/ CoinMarketCap]
+
+==Funding==
+
+On 21st March 2016 the 4 week lasting Lisk ICO has ended. During the ICO, Lisk has raised approximately 14`009 BTC and 80,742,575 Crypti. <ref name="Funding"/> The initial ICO price was $0.0747. Lisk lunched a total of 100m LSK tokens, of which 85m were available for ICO participants. The other 15% were distributed among the team, partners and advisors. The bounty program consisted of 4 stages, starting from 15% discount. For each week that passed during the ICO the discount decreased by 5%. <ref>https://blog.lisk.io/lisk-ico-terms-part-i-2e7d01955e4d, access 08/13/18.</ref>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee <ref>https://github.com/slasheks/lisk-whitepaper/blob/development/LiskWhitepaper.md, access 08/13/18.</ref>
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://github.com/LiskHQ GitHub]
+* [https://blog.lisk.io/?gi=7339e6f19d16 Medium]
+* [https://twitter.com/LiskHQ Twitter]
+* [https://www.reddit.com/r/Lisk reddit]
+* [https://gitter.im/LiskHQ/lisk Gitter]
+* [https://www.facebook.com/LiskHQ Facebook]
+* [https://www.instagram.com/liskhq/ Instragram]
+* [https://www.youtube.com/channel/UCuqpGfg_bOQ8Ja4pj811PWg/featured Youtube]
+* [https://lisk.chat/home LiskChat]
+* [https://t.me/Lisk_HQ Telegram]
+* [https://www.linkedin.com/company/lisk/ LinkedIn]
