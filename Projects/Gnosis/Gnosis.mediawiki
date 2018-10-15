@@ -1,0 +1,75 @@
+= Gnosis =
+
+* Company Name: Gnosis Ltd.
+* Website: https://gnosis.pm/
+* Founded: 2015<ref>https://www.crunchbase.com/organization/gnosis, access 09/24/18.</ref>
+* Stage: Live <ref name="Whity">https://gnosis.pm/assets/pdf/gnosis-whitepaper.pdf, access 09/24/18.</ref>
+* Team Size: 36 <ref name="GNO"> https://gnosis.pm/, access 09/24/18.</ref> 
+* Sector: Information Technology (45)
+* Funding: $12.5M (250`000 ETH) <ref name=”ICO”>https://en.bitcoinwiki.org/wiki/Gnosis, access 10/15/18.</ref>
+* Based on Blockchain: Ethereum main chain <ref name="Whity"/>
+* Customer Segment: B2B <ref>https://www.reddit.com/r/ethtrader/comments/66a40l/we_are_the_gnosis_team_ask_us_anything/, access 10/15/18.</ref>
+* Open-Source: Yes <ref>https://github.com/gnosis, access 10/15/18.</ref>
+
+==Short Description==
+Gnosis` main project is a prediction market platform implemented on the Ethereum blockchain. Prediction markets aggregate information about future events in different area of topics out of every individual user’s predictions. The future- oriented questions are confronted with a predefined spectrum of answers. This idea is based on the phenomenon called “wisdom of the crowd”, according to which a collective prediction of a group is more likely to be applicable than that of an individual. If a user registers an event question on the prediction market as well as the corresponding answers options, all other users in the market can trade tokens that represent the outcome of that certain event. With time passing by and additional information some outcomes may be more likely to happen thus their related token value increases. Once the event occurs the tokens representing the correct outcome receive full value while the rest of the tokens become worthless. To bet on different outcomes in Gnosis` prediction markets user can use OWL tokens, that are generated out of staked GNO tokens. The Value of 1 OWL is equal to USD 1$. Further, OWL tokens are used to pay fees which are collected by a non-accessible smart contract. This burning and staking mechanism intends to limit the GNO supply and so increasing its value. The management interface serves as a graphical interface for users and enables the creation, trading and maintenance of prediction markets in a structured manner. <ref name="Whity"/> <ref>https://coincentral.com/gnosis-gno-beginners-guide/, access 10/15/18.</ref>
+
+==Collaborations==
+* [https://about.bancor.network Bancor] <ref> https://www.cryptoninjas.net/2017/06/12/gnosis-bancor-partner-first-ever-token-changer-gnobnt/, access 10/15/18.</ref>
+* [https://daostack.io DAOstack] <ref> https://cryptobriefing.com/daostack-ico-review-gen-token-analysis/, access 10/15/18.</ref>
+* [https://propy.com Propy] <ref>https://mhpmag.com/2018/02/propy-partners-gnosis-predict-real-estate-prices//, access 10/15/18.</ref>
+
+==Location==
+
+Address:
+
+* World Trade Center
+* 6, Bayside Rd.
+* GX11 1AA, Gibraltar
+
+Coordinates:
+
+* Longitude: 36.148782
+* Latitude: 5.35354
+* Link: [https://www.google.ch/maps/place/World+Trade+Center+Gibraltar/@36.148782,-5.3535426,17z/data=!4m8!1m2!2m1!1sworld+trade+center+6+gibraltar!3m4!1s0xd0cc080af9e4975:0x22a7ec3a0d24f331!8m2!3d36.1487732!4d-5.3515371 Google Maps]
+
+==Team==
+* Martin Köppelmann, Co-Founder & CEO
+* Stefan George, Co-Founder & CTO
+* Dr. Friederike Ernst, COO
+* Adolfo Panizo, Frontend Developer
+* Angel Rodriguez, Fullstack Engineer
+* Anne George, Regional Manager Asia/Pacific
+* Benjamin Smith, Mathematican & Developer
+* Dominik Teiml, Smart Contract Developer
+* John Park, Community Manager
+* Julian Garcia, Designer
+* Kei Kreutler, Strategy Director <ref name="GNO"/>
+
+==Key Indicators==
+* Clients: N/A
+* Business Volume: N/A
+* Valuation:N/A
+* Revenue: N/A
+* Tradeability: Utility
+* Identification code: GNO
+* Link: [https://coinmarketcap.com/de/currencies/gnosis-gno/ CoinMarketCap]
+
+==Funding==
+Gnosis created a mechanism for their ICO quite similar to a Dutch auction process. The token sale took place on 24th of April 2017 and ended within 10 minutes. A total supply of 10M GNO token was created at that time. Further GNO will not be mined. The hard cap was predefined at 12.5M $ in Ether. The conversion rate at the beginning of the ICO was set at 0.6 ETH for 1 GNO (around 30$ at that time). Due to the Dutch auction, however, this turnover rate became lower and lower (not in a linear manner) in the course of the token sales until the hard cap of 12.5 m $ was reached. According to the team this mechanism was introduced to prevent an excessive hype at the start of the ICO. The final price of one GNO was 0.597ETH. 762 investors participated at Gnosis` ICO. <ref name=”ICO”/> <ref>https://www.forbes.com/sites/rogeraitken/2017/04/24/gnosis-prediction-market-scores-12-5m-in-record-breaking-crypto-auction/#2a67cf83e87d, access 10/15/18.</ref>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee <ref>https://bitsonline.com/interview-anna-george-gnosis/, access 15/10/18.</ref>
+
+==Additional Informations== 
+
+==References== 
+<references/>
+
+==Additional Links==
+* [https://twitter.com/gnosisPM Twitter]
+* [https://www.facebook.com/Gnosis.pm/ Facebook]
+* [https://www.reddit.com/r/gnosisPM/ reddit]
+* [https://blog.gnosis.pm Medium]
+* [https://github.com/gnosis GitHub]
+* [https://slack.gnosis.pm Slack]
