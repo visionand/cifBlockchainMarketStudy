@@ -1,0 +1,102 @@
+= EOS.IO =
+
+* Company Name: Block.one LLC
+* Website: https://eos.io
+* Founded: 2017 <ref>https://github.com/EOSIO/Documentation/blob/master/Roadmap.md, access 08/15/18.</ref>
+* Stage: Live <ref>https://www.coindesk.com/the-eos-blockchain-is-now-live/, access 08/15/18.</ref>
+* Team: 80 <ref>https://www.linkedin.com/company/block-one-official/, access 08/15/18.</ref>
+* Sector: Information Technology (45)
+* Funding: $4 bln <ref>https://cointelegraph.com/news/eos-about-to-secure-a-record-4-bln-in-year-long-ico, access 08/15/18.</ref> 
+* Based on Blockchain: EOS (main chain) <ref>https://eostracker.io, access 08/15/18.</ref>
+* Customer Segment: mainly B2B (B2C possible as well) <ref>https://ambcrypto.com/eos-50k-transactions-per-second-says-novogratz/, access 10/15/18.</ref>
+* Open-Source: Yes <ref>https://coinswitch.co/info/eos/what-is-eos, access 08/15/18.</ref>
+
+
+==Short Description==
+EOS.IO is a blockchain based software architecture designed for deploying and developing decentralized smart contract applications. The protocol intends to solve the issues of pioneering blockchains, namely scalability issues and leaping transaction costs. The scalability issue is claimed by the consensus algorithm of Delegated Proof of Stake (DPoS), invented by the CTO Daniel Larimer, that enables the EOS blockchain to compute way more transactions per second (Tps) than e.g. the Ethereum blockchain can handle. The DPoS of EOS relies on 21 block producers chosen through a continuous approval voting system in which anyone who owns EOS tokens can participate. Another approach of the EOS.IO protocol is the ownership model, according to which developers will not only rent the platform's computing power, but will own it in proportion to their stake. Every new account is given a minimal amount of EOS power (in form of bandwidth and storage) in their wallet to enable them having access to sufficient bandwidth to use the platform effectively. So end-users are able to use the network with absolutely no transaction costs while they have to pay an initial fee to set up a new account. Developers instead need to buy RAM for storing data on the EOS blockchain, while the price of RAM is driven by supply & demand of the network, which also led to speculative trading and huge price impacts for DApp developers. <ref name="bg">https://blockgeeks.com/guides/eos-blockchain/, access 08/17/18.</ref><ref name="quora">,https://www.quora.com/What-is-EOS-cryptocurrency access 08/17/18.</ref><ref>, access 08/17/18.</ref><ref>,https://steemit.com/eos/@cryptofreedom/a-smart-contract-platform-without-transaction-costs-or-the-need-for-gas-will-finally-make-dapp-development-practical-an access 08/17/18.</ref><ref>, https://coin-hero.de/eos-blockproduzenten-stimmen-fuer-upgrade-der-ram-ressourcen/access 08/17/18.</ref> 
+
+
+
+==Collaborations==
+* WAX <ref>https://www.cryptorecorder.com/2018/04/22/eos-eos-gets-another-listing-along-with-announcing-a-new-partnership/, access 08/17/18.</ref>
+* Havven <ref>https://www.ccn.com/interview-blockchain-startup-havven-brings-eos-its-first-stablecoin/, access 08/17/18.</ref>
+* SVK Crypto <ref>https://ethereumworldnews.com/block-one-launches-eosio-signs-50-million-jv-partnership-with-svk-crypto/, access 08/17/18.</ref>
+* Virginia Tech’s College of Engineering  <ref>https://block.one/news/block-one-vt-commitment/, access 08/17/18.</ref>
+* Galaxy Digital <ref>https://globenewswire.com/news-release/2018/01/23/1299333/0/en/Block-one-and-Mike-Novogratz-s-Galaxy-Digital-Announce-Joint-Venture-for-New-325-Million-EOS-IO-Fund.html, access 08/17/18.</ref>
+
+
+==Location==
+
+
+Address headquarters:
+* George Town 
+* Grand Cayman Islands
+* Grand Cayman Islands KY1, ky <ref>https://www.linkedin.com/company/block-one-official/, access 08/15/18.</ref>
+
+Coordinates:
+* Longitude: N/A
+* Latitude: N/A
+* Link: N/A
+
+
+
+==Team==
+* Daniel Larimer, CTO <ref>https://www.linkedin.com/in/daniel-larimer-0a367089/ ,access 08/15/18.</ref>
+* Brendan Blumen, CEO & Founder <ref>https://www.linkedin.com/in/brendanblumer/, access 08/15/18.</ref>
+* Andrew Bliss, CFO <ref>https://www.linkedin.com/in/andrewcbliss/, access 08/15/18.</ref>
+* Jay Chang, Product Communications <ref>https://www.linkedin.com/in/jaydchang/ ,access 08/15/18.</ref>
+* Lee Schneider, General Counsel <ref>https://www.linkedin.com/in/leeaschneider/?locale=de_DE ,access 08/15/18.</ref>
+* Brian Mehler, Venture Capital<ref>https://www.linkedin.com/in/brianmehler/ ,access 08/15/18.</ref>
+* Serg Metelin, Head of Developer Relations<ref>https://www.linkedin.com/in/sergmetelin/ ,access 08/15/18.</ref>
+* Elaine Ng, Creative Director<ref>https://www.linkedin.com/in/thisiselainengdotcom/ ,access 08/15/18.</ref>
+* John MacMenamin, Director of User Experience<ref>https://www.linkedin.com/in/johnmacmenamin/ ,access 08/15/18.</ref>
+
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: EOS
+* Token Type: usage/utility token <ref>https://coinswitch.co/info/eos/what-is-eos, access 08/16/18.</ref>
+* Link: [https://coinmarketcap.com/de/currencies/eos/ CoinMarketCap]
+
+==Funding==
+The ICO for the EOS.IO protocol EOS token took place as an ERC20 token on the Ethereum blockchain and was an almost one-year token distribution process that began on 26 June 2017 and ended on 3 July 2018. Block.one subdivided the ICO into several smaller distributions, each with a fixed hard cap and a fixed time window. During the first 5-day period 200m EOS tokens were distributed. 700m EOS token, 70% of the total supply, were split into 350 divisions of 2 million token each and sold in 23 hours periods. The remaining 100 million EOS tokens stay in the ownership of block.one, more precisely in an escrow account to aligne the interest of the company behind the protocol with the interests of the network. The Ether/EOS-conversion rate was a mathematical function depending on 
+* a= Total ETH contributed by one single authorized purchaser during the period,
+* b= Total number of EOS Tokens available for distribution in the period,
+* c= Total ETH contributed by all authorized purchasers during the period.
+
+The effectively amount of EOS tokens received can be expressed in an equation: EOS received = a*(b/c)
+
+In the end users that participated in the EOS Ethereum-based token sale needed to participate in a token swap that converted the ERC20 token into EOS.IO tokens. <ref>https://cointelegraph.com/news/moment-of-truth-for-eos-whats-next-for-4-bln-eosio-following-launch-of-v10, access 08/16/18.</ref><ref name="bg"/><ref>https://www.btc-echo.de/eos-block-produzenten-und-eingefrorene-accounts/, access 08/16/18.</ref>
+
+
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee <ref>https://github.com/slasheks/lisk-whitepaper/blob/development/LiskWhitepaper.md, access 08/13/18.</ref>
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+eos.io:
+
+* [https://github.com/eosio GitHub]
+* [https://medium.com/eosio Medium]
+* [https://twitter.com/eos_io Twitter]
+* [https://www.reddit.com/r/eos reddit]
+* [https://www.facebook.com/eosblockchain Facebook]
+* [https://www.youtube.com/channel/UCbc7vIgwb-sPSckU0FbWmRg Youtube]
+
+block.one:
+
+* [https://medium.com/block-one Medium]
+* [https://www.linkedin.com/company/block-one-official/ LinkedIn Block.One]
