@@ -1,0 +1,91 @@
+= Ethereum Swarm =
+
+* Company Name: Swarm
+* Website: https://swarm-gateways.net/bzz:/theswarm.eth/#
+* Founded: 2014 <ref>https://gist.github.com/zelig/53983dc1ca5db10b7449003eded8fa9f, access 10/16/18.</ref>
+* Stage: (3rd) Proof-of-Concept <ref>https://blog.ethereum.org/2018/06/21/announcing-swarm-proof-of-concept-release-3/, access 08/21/18.</ref>
+* Team: 10 (core team) <ref name="guide">https://swarm-guide.readthedocs.io/en/latest/introduction.html, access 08/21/18.</ref>
+* Sector: Information Technology (45)
+* Funding: Swarm is funded by the Ethereum Foundation and industry sponsors. <ref name="guide"/>
+* Based on Blockchain: Swarm testnet <ref>https://github.com/ethersphere/swarm-guide/blob/master/contents/introduction.rst, access 09/17/18.</ref>
+* Customer Segment: B2C
+* Open-Source: Yes
+
+
+==Short Description==
+
+One of Ethereum's primary goals is to ultimately function as a decentralized world computer. Developers also speak of a decentralized Internet, the so-called web 3.0, in which the end user has full data sovereignty and no intermediate platform need to be used. Swarm is an important part of this vision. While Ethereum is responsible for the decentralized logic of Apps, Swarm can be considered as the decentralized hard disk of Ethereum. So basically Swarm is a peer to peer data storage system that allows distributed and encrypted storage of users data, since it is too expensive to store all data on a blockchain. Swarm enables data to be referenced on a blockchain, but stored elsewhere. For that purpose a file sharing network was developed. The core storage component is analogous to traditional DHTs. In the Swarm storage network data is cut into chunks which get propagated through the nodes via the so called synching process. Lastly the chunks of data are stored at nodes whose address is closest to the chunk hash which allows for fast recovery. To participate in the network every nodes needs to register via a security deposit to a specific smart contract (Swear Contract). Registered nodes can sell promissory notes guaranteeing long-term data availability, which would be exchanged for receipts. If an user with a receipt find that their data is no longer available, the user can trigger an on-chain litigation process that may cause the faulty storer to loose his security deposit (Swindle). <ref>https://swarm-gateways.net/bzz:/theswarm.eth/ethersphere/orange-papers/1/sw^3.pdf, access 09/12/18.</ref><ref>http://ethdocs.org/en/latest/contracts-and-transactions/web3-base-layer-services.html , access 09/12/18.</ref><ref>https://www.coindesk.com/ethereums-holy-trinity-takes-shape-swarm-testnet-arrives/ , access 09/12/18.</ref><ref name="guide"/>
+
+==Collaborations==
+* Status.im
+* livepeer
+* JAAK
+* Datafund
+* mainframe
+* Wolk
+* RIAT
+* cofound.it
+* ICONOMI
+* Infura
+* epiclabs
+* Asseth <ref name="guide"/>
+
+
+==Location==
+
+Since Swarm is a part of the Ethereum foundation, it is appropriate to mention the foundations`s address for this project.
+
+Address headquarters:
+* Zeughausgasse 7a
+* 6300 Zug
+* Switzerland <ref>https://www.zefix.ch/de/search/entity/list/firm/1188682?name=Ethereum&searchType=undefined, access 09/17/18.</ref>
+
+Coordinates:
+* Longitude: 47.16714
+* Latitude: 8.51614
+* Link: [https://www.google.com/maps/place/Zeughausgasse+7,+6300+Zug/@47.1671414,8.5139528,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaaf751ac1181:0x3cf95a8ac87cb978!8m2!3d47.1671414!4d8.5161468 Google Maps]
+
+
+
+==Team==
+* Vitkor Trón, Swarm Team Lead
+* Daniel A. Nagy, Senior Swarm Developer <ref>https://ethereumfoundation.org/devcon3/speakers/daniel-nagy/, access 09/12/18.</ref>
+* Aron Fischer, Swarm team R&D <ref>https://ethereumfoundation.org/devcon3/speakers/aron-fischer/, access 09/12/18.</ref>
+* Louis Holbrook, Developer for jaak.io. Louis is the main developer of the PSS protocols built on top of Swarm. <ref>https://ethereumfoundation.org/devcon3/speakers/louis-holbrook/, access 09/12/18.</ref>
+* Lewis Marshall, Ethereum core developer <ref>https://blog.mainframe.com/our-presentation-at-devcon3-2dc3ea2ca8f8, access 09/12/18.</ref>
+* Fabio Barone, Swarm Developer <ref>https://ethereumfoundation.org/devcon3/speakers/fabio-barone/, access 09/12/18.</ref>
+* Anton Evangelatov, Software Engineer <ref>https://www.linkedin.com/in/antonevangelatov/, access 09/12/18.</ref>
+* Janoš Guljaš, Web application development <ref>https://www.linkedin.com/in/janosguljas/?originalSubdomain=rs, access 09/12/18.</ref>
+* Balint Gabor, Software engineer <ref>https://www.linkedin.com/in/balintgabor/?originalSubdomain=hu, access 09/12/18.</ref>
+* Elad Nachmias <ref>https://swarm-guide.readthedocs.io/en/latest/introduction.html#the-core-team, access 09/12/18.</ref>
+
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: N/A
+* Identification code: N/A
+* Token Type: N/A
+* Link: N/A
+
+==Funding==
+
+==Revenue Model==
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://github.com/ethersphere/go-ethereum/issues Issues GitHub]
+* [https://github.com/ethereum/go-ethereum Source Code]
+* [https://twitter.com/ethswarm Twitter]
+* [https://swarm-guide.readthedocs.io/en/latest/ Documentation]
+
