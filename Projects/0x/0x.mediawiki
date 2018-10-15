@@ -1,0 +1,88 @@
+= 0x =
+
+* Company Name: ZeroEx International 
+* Website: https://0xproject.com
+* Founded: 2016<ref>https://blockonomi.com/0x-guide/, access 09/17/18.</ref>
+* Stage: Live <ref>https://medium.com/@LordOfTheChain/the-0x-project-zrx-overview-abac2874e7c5, access 09/17/18.</ref><ref name="etherscan">https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498, access 09/17/18.</ref>
+* Team: 26 <ref name="team">https://0xproject.com/about, access 09/17/18.</ref>
+* Sector: Industrials (20)
+* Funding: $24M <ref name="drops">https://icodrops.com/0x/, access 09/17/18.</ref>
+* Based on Blockchain: Ethereum main chain <ref>https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498 access 09/17/18.</ref>
+* Customer Segment: B2B <ref>https://www.reddit.com/r/0xProject/comments/7eg0ne/why_zrx_still_02_my_5/, access 10/15/18.</ref> 
+* Open-Source: Yes
+
+
+==Short Description==
+
+
+0x is an open protocol for decentralized exchange based on the Ethereum blockchain. In the crypto ecosystem, exchanges act as portals between the Fiat and the crypto world as well as they allow trading of cryptos in exchange for other cryptos. Problematic about the offered services is that exchanges often act in centralized manner, which exposes users to a potential higher risk of vulnerability and mismanagement. The 0x protocol is based on public accessible smart contracts, which allow users to maintain full ownership over their digital funds. Further 0x can be used as a Plug-In dApp for other projects. Since transactions triggered by Smart Contracts always produce GAS fees in Ethereum, 0x deployed an order process that allows users to place their trade orders off-chain. Relayers - entities that host and maintain an order book - facilitate trading by broadcasting all the off-chain orders of the 0x network to the rest of the network and therefore matching buyer and seller. Once a transaction is successfully transmitted, the relayer receives a fee in ZRK tokens while the transfer of value is submitted to the Ethereum blockchain. Next to this broadcast order there is also the possibility to trade as market maker (seller) directly with another party via messaging systems such as Reddit, Whatsapp, Email etc. Therefore the order consists of data packages that are cryptographically secured by an ECDSA signature. Only the taker (buyer) can trigger the transfer of the funds. This kind of order is called Point-to-Point Order. <ref>https://0xproject.com/pdfs/0x_white_paper.pdf, access 09/17/18.</ref><ref>https://blockgeeks.com/guides/0x-project/, access 09/17/18.</ref><ref>https://www.investinblockchain.com/what-is-0x-protocol-zrx/, access 09/17/18.</ref>
+
+
+
+==Collaborations==
+
+* [https://aragon.org Aragon] <ref>https://blog.aragon.org/aragon-partners-with-0x-3c8d0c9dcd84/, access 09/18/18.</ref>
+* [https://www.ethfinex.com ETHfinex] <ref>https://twitter.com/0xproject/status/892882869340602369?lang=de, access 09/18/18.</ref>
+* [https://district0x.io District0x]
+* [https://melonport.com Melonport]
+* [https://www.bitfinex.com Bitfinex]
+* [https://www.anxintl.com/2 ANX International] <ref>https://crushcrypto.com/analysis-of-0x/ ,access 09/18/18.</ref>
+
+
+==Location==
+
+* San Francisco, CA <ref>https://twitter.com/0xproject, access 09/18/18.</ref>
+
+Coordinates: N/A
+
+
+
+==Team==
+* Will Warren, Co-Founder & CEO
+* Amir Bandeali, Co-Founder & CTO
+* Fabio Berger​, Senior Engineer
+* Alex Xu, Director of Operations
+* Brandon Millman, Senior Engineer
+* Tom Schmidt, Product Manager
+* Jacob Evans, Ecosystem Engineer
+* Zack Skelly, Lead Recruiter
+* Chris Kalani, Director of Design
+* Clay Robbins, Business Development Lead <ref name="team"/>
+
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradeability: Token
+* Identification code: ZRX
+* Token Type: Utility/Payment token <ref name="drops"/>
+* Link: [https://coinmarketcap.com/currencies/0x/ CoinMarketCap]
+
+==Funding==
+The ZRX token sale started on August 15 in 2017. After 24 hours and 10 minutes 50% of the total 1 billion ZRX token supply were sold for a total of 24M $. The other 50% weren't available for the public token sale. More than 13000 Ethereum addresses participated in the ICO. <ref>https://blog.0xproject.com/analyzing-the-zrx-token-sale-a94b8642c78e, access 15/10/18.</ref> The ICO token price of 1 ZRX was USD 0.048$.<ref name="drops"/>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+==Additional Informations==
+
+==References==
+
+<references/>
+
+==Additional Links==
+
+* [https://github.com/0xProject GitHub]
+* [https://blog.0xproject.com/latest Medium]
+* [https://twitter.com/0xproject Twitter]
+* [https://www.linkedin.com/company/0x/ LinkedIn]
+* [https://www.reddit.com/r/0xproject reddit]
+* [https://chat.0xproject.com/home Rocket.chat]
+* [https://forum.0xproject.com Forum]
+
+
+
+
