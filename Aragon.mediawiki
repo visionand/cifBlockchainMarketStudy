@@ -44,7 +44,7 @@ Coordinates:
 
 ==Key Indicators==
 
-* Clients: Aragon Core and Aragon Network are not live at the moment so no project can be powered by Aragon by this time. 7 projects have publicly announced to be interested in using Aragon in the future. <ref> ,access 05/23/18.</ref>
+* Clients: Aragon Core and Aragon Network are not live at the moment so no project can be powered by Aragon by this time. 7 projects have publicly announced to be interested in using Aragon in the future. <ref>https://wiki.aragon.org/projects/ ,access 05/23/18.</ref>
 * Business Volume: N/A
 * Valuation: 64`702`132 USD <ref>market cap according [https://coinmarketcap.com/currencies/aragon/ CoinMarketCap], access 04/11/18.</ref>
 * Revenue: N/A
