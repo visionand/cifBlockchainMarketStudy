@@ -1,4 +1,4 @@
-=dock.io=
+=Dock=
 
 * Company Name: Dock Systems, Inc<ref name="privacy">https://help.dock.io/legal-and-privacy/privacy-policy, accessed on 08.10.2018.</ref>
 * Website: https://dock.io/
@@ -14,7 +14,7 @@
 
 ==Short Description==
 
-Among today's business-related network platforms such as LinkedIn, Upwork and others, each enterprise is hoarding valuable data of clients and not disclosing it to its competitors. Dock.io is building a protocol that fosters the exchange of data between platforms by giving users back control over their personal information. Users control signed and verified data and can choose to both share and hide the information on participating applications that rely on the Dock protocol. Data providers can request to push data to a users' profile, however, data is not submitted to the blockchain but rather sent to the users directly. Only hash values of data are stored on-chain. Personal data is exchanged using IPFS and IPLD specification. It is expected that users disclose certain private and unencrypted information freely to the public. Thus, accounts can vouch on-chain data of other users with their signature (e.g. a university vouching for the validity of a student's degree) and data receivers can verify the data's integrity quickly. Finally, a public domain name registry developed by dock.io will match domain names with Ethereum addresses, which makes the system user-friendlier. If an application wants to consume data it must pay in order to get access. Tokens are introduced into the ecosystem not only as a medium of exchange but also to incentivize user behavior in favor of the public and to give token holders the ability to vote on issues concerning the protocol.<ref name="whitepaper"/>
+Among today's business-related network platforms such as LinkedIn, Upwork and others, each enterprise is hoarding valuable data of clients and not disclosing it to its competitors. Dock is building a protocol that fosters the exchange of data between platforms by giving users back control over their personal information. Users control signed and verified data and can choose to both share and hide the information on participating applications that rely on the Dock protocol. Data providers can request to push data to a users' profile, however, data is not submitted to the blockchain but rather sent to the users directly. Only hash values of data are stored on-chain. Personal data is exchanged using IPFS and IPLD specification. It is expected that users disclose certain private and unencrypted information freely to the public. Thus, accounts can vouch on-chain data of other users with their signature (e.g. a university vouching for the validity of a student's degree) and data receivers can verify the data's integrity quickly. If an application wants to consume data it must pay in order to get access. Tokens are introduced into the ecosystem not only as a medium of exchange but also to incentivize user behavior in favor of the public and to give token holders the ability to vote on issues concerning the protocol.<ref name="whitepaper"/>
 
 
 ==Collaborations==
@@ -28,19 +28,29 @@ Partners: [https://breezy.hr/ Breezy HR], [https://www.investfeed.com/home inves
 
 ==Location==
 
-Address: Office Locations in 8 countries. No addresses available.
+Address: 
+
+149 New Montgomery Street 
+
+San Francisco 
+
+California 94105
+
+USA
+
+<ref name="request">Information received on request (16.10.2018).</ref>
 
  
 
-Coordinates: N/A
+Coordinates: 
 
-Latitude: N/A
+Latitude: 37.786939
 
-Longitude: N/A
+Longitude: -122.399605
 
  
 
-Link: N/A
+Link: [https://www.google.com/maps/place/149+New+Montgomery+St,+San+Francisco,+CA+94105,+USA/@37.7869394,-122.4017989,17z/data=!3m1!4b1!4m5!3m4!1s0x8085807d3bca399f:0xa2e9ae47c48d4f93!8m2!3d37.7869394!4d-122.3996049 Google Maps]
 
 
 ==Team==
@@ -76,7 +86,7 @@ Sergey Ermakovich, Lead Frontend Developer
 
 ==Funding==
 
-2018: Dock.io raised a total amount equal to $20M in a token sale which was divided into a private presale where they collected $12M and a public sale with a fundraising of $8M. Both rounds have been sold out before the sales were closed.<ref name="tokensale"/>
+2018: Dock raised a total amount equal to $20M in a token sale which was divided into a private presale where they collected $12M and a public sale with a fundraising of $8M. Both rounds have been sold out before the sales were closed.<ref name="tokensale"/>
 
 ==Revenue Model==
 
