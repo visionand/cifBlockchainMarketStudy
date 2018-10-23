@@ -49,7 +49,7 @@ Coordinates:
 * Valuation: 64`702`132 USD <ref>market cap according [https://coinmarketcap.com/currencies/aragon/ CoinMarketCap], access 04/11/18.</ref>
 * Revenue: N/A
 * Tradeability: Token
-* Token Type: 
+* Token Type: Utility/Payment token <ref>https://blockonomi.com/aragon-guide/, access 10/23/18.<ref/>
 * Identification code: ANT
 * Link: [https://coinmarketcap.com/currencies/aragon/ CoinMarketCap]
 
