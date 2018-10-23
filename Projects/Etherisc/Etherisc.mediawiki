@@ -1,0 +1,81 @@
+= Etherisc =
+
+
+* Website: https://etherisc.com
+* Founded: 2016 <ref>https://www.crunchbase.com/organization/etherisc, access 05/02/18..</ref>
+* Stage: Concept & Proof-of-Concept (Currently 25 products in various stages of development even with temporary live versions in case of a flight app) <ref>https://medium.com/@pmonien/etherisc-ico-review-decentralized-insurance-5562835e414b, access 05/02/18. </ref>	
+* Team Size: 22 <ref>https://etherisc.com/#downloads, access 05/02/18.</ref>
+* Sector: Financials (40)
+* Funding: Token Sale: 25 JUN – 25 JUL 2018 <ref> https://icodrops.com/etherisc/, access 05/23/18.</ref>	
+* Based on Blockchain: Ethereum main chain <ref> https://etherscan.io/token/0x9b0f6a5a667cb92af0cd15dbe90e764e32f69e77, access 06/29/18.</ref>
+* Customer Segment: B2C
+* Open-Source: Yes
+
+
+==Short Description==
+Etherisc aims to built a blockchain-based platform for decentralized insurance applications. They started mainly with paramteric insurance projects, as these are particularly well suited for implementation via smart contracts. However, Etherisc's product range includes concepts with applications other than parametric insurance, such as social insurance or insurance for token economics. <ref>https://etherisc.com, access 07/02/18</ref>  With its first prototype, a Flight Delay DApp, the functionality of decentralized parametric insurance products can be easily explained. As passenger one may have the incentive to insure yourself against flight delays. In order to meet this need decentrally, it is possible to pay premiums to a smart contract via the graphical user interface of the etherisc platform. In this way, our specific Smart Contract receives premiums from various users who wish to hedge the risk of flight delays. Through the collection of the premiums the contract bundles this risk. If an insurant suffers a delay, the contract triggers an automatic payment in favour of this user, financed by the premium pool of the contract. In order to secure correct payment, the contract constantly receives updated data from an oracle that monitors flight schedules. To cover the risk of a  black swan event in which flight disruption would last several days investors can buy tokenized risk pools and reinsure the associated risk e.g. the flight delay risk pool as in the example. This insurance model can reduce the administrative burdens on the insurance sector and open up new markets that were previously unattractive for existing insurance companies, e.g. for microinsurances or markets with low market volumes.<ref> https://www.cash.ch/news/top-news/insurtech-blockchain-kann-die-versicherungen-bis-zehnmal-guenstiger-machen-1112579, 2018</ref> <ref>https://blog.etherisc.com/introduction-to-risk-pool-tokens-on-the-etherisc-protocol-1744de67a57e, access 05/06/18.</ref> 
+
+
+
+==Collaborations==
+* MME
+* Ernst & Young
+* inacta
+* Lakeside Partners
+* cofound.it
+* Altoros 
+* Wachsmann
+* KR1
+* Bochsler Finance
+* BitY
+* Captain Frank <ref name="Team"> https://etherisc.com/#team, access 07/02/18.</ref>
+
+==Location== 
+
+Address: 
+* Gotthardstrasse 26
+* 6300 Zug
+* Switzerland <ref>https://www.zefix.ch/de/search/entity/list/firm/1332441? ,access 05/23/18.</ref> <ref>http://www.netzwoche.ch/news/2017-08-31/etherisc-zuegelt-an-den-zugersee ,access 05/23/18.</ref>
+Coordinates: 
+* Longitudes: 47.17293
+* Latitude: 8.50983
+* Link: [https://www.google.com/maps/place/Gotthardstrasse+26,+6300+Zug/@47.1729342,8.5098385,17z/data=!3m1!4b1!4m5!3m4!1s0x479aaa5f4c168d1f:0xfea13b935696ac81!8m2!3d47.1729342!4d8.5120272 Google Maps]
+
+
+==Team==
+* Christoph Mussenbrock, Co-Founder, protocol & architecture
+* Stephan Karpischek, Co-Founder, ecosystem & community
+* Felizitas Mussenbrock-Strauß, CFO & Human Resources
+* Elena Travkina, director of engineering <ref name="Team"/>
+
+==Key Indicators==
+
+* Clients: <number>
+* Business Volume: <number based on annual data>
+* Valuation: 
+* Revenue: <number based on annual data>
+* Tradeability: Token
+* Identification code: DIP
+* Token Type: Utility and payment token <ref> Whitepaper Etherisc, page 8, access 05/24/18 </ref>
+* Link: N/A
+
+
+==Funding==
+Etherisc`s ICO or as they prefer to call it "Token Generating Event" took place in summer 2018, more precisely from 25 June to 23 July. The total offer of DIP tokens is 100 million, whereby only 30% was predifined for sale. However, neraly 45.5M DIP tokens were distributed to 280 contributers in 41 different countries. The price of 1 DIP was 0.1$. 60% of the participants agreed to lock up their tokens for 1 year to benefit from 25% discount on the price. <ref>https://crushcrypto.com/etherisc-ico-review/, access 10/23/18.</ref> <ref>https://blog.etherisc.com/etherisc-dip-token-generating-event-is-finished-summary-and-next-steps-2bd0bdda3686, access 10/23/18.</ref>
+
+==Revenue Model==
+Software as a Service (SaaS) and License Fee
+
+
+==Additional Informations==
+Etherisc's business activities run under the decentralized insurance foundation.
+
+==References==
+
+<references/>
+
+==Additional Links==
+* [https://twitter.com/etherisc?lang=en Twitter]
+* [https://github.com/etherisc GitHub]
+* [https://www.linkedin.com/company/etherisc Linkedin]
+* [https://www.facebook.com/etherisc/ Facebook]
