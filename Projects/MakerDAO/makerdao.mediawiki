@@ -1,0 +1,132 @@
+=Maker=
+
+* Company Name: Stablecoin Liquidity Services LLC<ref name="privacy">https://makerdao.com/privacy, accessed on 15.10.2018.</ref>
+* Website: https://makerdao.com/
+* Founded: 2014<ref name="founded">https://medium.com/makerdao/dai-is-now-live-ad87e34fc826, accessed on 15.10.2018.</ref><ref name="linkedin">https://www.linkedin.com/company/makerdao/, accessed on 15.10.2018.</ref>
+* Stage: Live<ref name="founded"/>
+* Team Size: 60<ref name="team">https://makerdao.com/team, accessed on 15.10.2018.</ref>
+* Sector: Financials (40)
+* Funding: $27M<ref name="round2">https://medium.com/makerdao/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393, accessed on 15.10.2018.</ref><ref name="round1">https://medium.com/makerdao/maker-sells-12m-of-mkr-to-partners-led-by-andreessen-horowitz-and-polychain-capital-68b2b26548, accessed on 15.10.2018</ref>
+* Based on Blockchain: Ethereum (main net)<ref name="founded"/>
+* Customer Segment: B2C/B2B<ref name="stablefund">https://stable.fund/, accessed on 15.10.2018.</ref>
+* Open-Source: Yes<ref name="opensource">https://medium.com/makerdao/the-code-is-ready-2aee2aa62e73, accessed on 15.10.2018.</ref>
+
+
+==Short Description==
+
+Maker introduced the Dai Stablecoin System consisting of a DAO and various actors on the Ethereum blockchain. Their goal is to create an on-chain asset-backed and collateralized coin that is pegged to the USD. In order to achieve this, a user can create a smart contract called Collateralized Debt Position (CDP) that has to be funded with any kind of collateral the user wants to deposit. As soon as the CDP is collateralized, the respective amount (lower than the collateral's value) of Dai is sent to the user. There are several price stability mechanisms that ensure the 1:1 convertibility to USDs. The Target Rate Feedback Mechanism (TRFM) for instance is an incentive mechanism for users to either hold or to borrow Dai, which influences the price development and restores the peg to the USD. In addition, a sensitivity parameter determines to which extent the Target Rate adjusts to market price deviations. There are several key actors playing a crucial role in the ecosystem. The centerpiece are MKR voters holding MKR tokens who are empowered to govern the system. They can submit proposals to modify governance variables, determine the sensitivity parameter, set risk parameters that for example define collateral-to-debt ratio and more. Other actors include trusted Oracles, which are chosen by MKR voters, providing off-chain price information. Ultimately, Keepers are profit-oriented agents who trade Dais around the Market price and thereby contribute to a stable 1:1 USD peg.<ref name="whitepaper">https://makerdao.com/whitepaper/, accessed on 23.10.2018.</ref>
+
+
+==Collaborations==
+
+Holding Company: Stablecoin Liquidity Services LLC<ref name="privacy"/>
+
+Investors: [https://a16z.com/ Andreessen Horowitz], [https://polychain.capital/ Polychain Capital]<ref name="round1"/><ref name="round2"/>
+
+Partners: [https://omisego.network/ OmiseGO], [https://dether.io/ Dether], [https://request.network/ Request Network], [https://tradeshift.com/ Tradeshift], [https://www.sendwyre.com/ Wyre]<ref name="partners">https://medium.com/makerdao/tagged/partnerships, accessed on 22.10.2018.</ref>
+
+
+==Location==
+
+Address: 
+
+110 Cooper St
+
+Santa Cruz
+
+California 95060
+
+USA
+
+<ref name="linkedin"/>
+
+ 
+
+Coordinates: 
+
+Latitude: 36.974874
+
+Longitude: -122.025985
+
+ 
+
+Link: [https://www.google.com/maps/place/110+Cooper+St,+Santa+Cruz,+CA+95060,+USA/@36.9748738,-122.0281794,17z/data=!3m1!4b1!4m5!3m4!1s0x808e40261034e2b9:0xc5f6ba077cf327d4!8m2!3d36.9748738!4d-122.0259854 Google Maps]
+
+
+==Team==
+
+Rune Christensen, CEO
+
+Andy Milenius, CTO
+
+Steven Becker, President & COO
+
+Soren Peter Nielsen, Head of Product
+
+Greg Diprisco, Head of Business Development
+
+Bartek Kiepuszewski, Head of Product - Oasis
+
+Lev Livnev, Economic Research Lead
+
+Wouter Kampmann, Head of Engineering
+
+Coulter Mulligan, Head of Marketing
+
+Henry Doe, Head of UX
+
+Paweł Grajewski, Head of Keepers
+
+Mariano Conti, Head of Oracles
+
+Mike Porcaro, Head of Communications
+
+<ref name="team"/>
+
+==Key Indicators==
+
+* Clients: N/A
+* Business Volume: N/A
+* Valuation: N/A
+* Revenue: N/A
+* Tradability: Dai and Maker<ref name="whitepaper"/>
+* Identification code: DAI and MKR<ref name="whitepaper"/>
+* Token Type: Payment/utility token<ref name="whitepaper"/>
+* Link: [https://coinmarketcap.com/currencies/dai/ CoinMarketCap Dai], [https://coinmarketcap.com/currencies/maker/ CoinMarketCap Maker]
+
+
+==Funding==
+
+2017: Maker raised $12M by selling MKR to partners including Andreessen Horowitz, Polychain Capital and more.<ref name="round1"/>
+
+2018: In a second round, Maker sold another $15M worth of MKR (equal to 6% of the total MKR token supply) to the investment fund a16z crypto, Andreessen Horotwitz' newly created crypto fund.<ref name="round2"/>
+
+==Revenue Model==
+
+N/A
+
+
+==Additional Information==
+
+
+
+
+==References==
+
+<references/>
+
+
+
+==Additional Links==
+
+[https://twitter.com/MakerDAO Twitter]
+
+[https://www.reddit.com/r/MakerDAO/ Reddit]
+
+[https://t.me/MakerdaoMKR Telegram]
+
+[https://chat.makerdao.com/ Chat]
+
+[https://medium.com/makerdao/ Medium]
+
+[https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw YouTube]
