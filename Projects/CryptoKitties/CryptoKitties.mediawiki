@@ -1,0 +1,56 @@
+= CryptoKitties =
+
+*Company Name: Launch Labs Inc.<ref name="Bloomberg">https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=326273941, accessed on 09.10.2018.</ref>
+*Website: https://www.cryptokitties.co/
+*Founded: 2017<ref name="technicalWebsite">https://www.cryptokitties.co/Technical-details, accessed on 16.10.2018.</ref>
+*Stage: Live<ref name="Website">https://www.cryptokitties.co/, accessed on 08.10.2018.</ref>
+*Team Size: 16<ref name="About">https://www.cryptokitties.co/about, accessed on 08.10.2018.</ref>
+*Sector: Consumer Discretionary (25)
+*Funding: 12M USD<ref name="Funding">https://medium.com/cryptokitties/cryptokitties-receives-12m-in-funding-38322f90ab65, accessed on 08.10.2018.</ref>
+*Based on Blockchain: Ethereum (main net)<ref name="technicalWebsite"/>
+*Customer Segment: B2C<ref name="Whitepaper">https://drive.google.com/file/d/1soo-eAaJHzhw_XhFGMJp3VNcQoM43byS/view, accessed on 16.10.2018.</ref>
+*Open-Source: Yes<ref>https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code, accessed on 08.10.2018.</ref>
+
+==Short Description==
+CryptoKitties is probably the best known crypto-game. In short, CryptoKitties are digital collectibles which can be traded or used to breed new ones by pairing two kitten. They are represented by non-fungible ERC721 token, which guarantee true ownership and erase the dependency on central game operators. The visualization of the cats depends on the underlying information saved in the smart contract and allows over 4 billion variations.<ref name="technicalWebsite"/> There are more common and more special attributes of the CryptoKitties, which usually have an impact on their valuation. Any two CryptoKitties can breed together to create a new one which has a combination of the “genes” of its parents. In order to create such an offspring, one kitten acts as sire (father) and one as dame (mother), whereby the father can sell his service on a market place. After an incubating time, the owner of the mother receives the new kitten, which is one generation younger than its youngest parent. The kitten who acted as father will have a recovery period which increases with each pairing. CryptoKitties don’t have a fixed gender but chose their role for every pairing. After having deployed the smart contract in November 2017<ref name="technicalWebsite"/>, the transactions of CryptoKitties accounted for about 25 percent of all traffic on the Ethereum main network, only one week after the first CryptoKitty was sold in an auction. <ref name="technicalWebsite"/> <ref name="Whitepaper"/>
+
+==Collaborations==
+CryptoKitties was founded by Launch Labs Inc. (which is operating as Axiom Zen).
+
+Investors: [https://a16z.com/ Andreessen Horowitz], [https://www.usv.com/ Union Square Ventures].<ref>https://medium.com/cryptokitties/cryptokitties-receives-12m-in-funding-38322f90ab65, accessed on 09.10.2018.</ref>
+
+==Location==
+Address: 980 Howe Street, 350 Vancouver, British-Columbia V6Z 1N9, Canada.<ref name="LinkedIn">https://www.linkedin.com/company/cryptokitties/?originalSubdomain=de, accessed on 09.10.2018.</ref>
+
+Coordinates: 
+*longitudes: -123.123497
+*latitudes: 49.280008
+
+Link: [https://www.google.ch/maps/place/Axiom+Zen+Inc./@49.2799271,-123.1242481,19z/data=!3m1!4b1!4m5!3m4!1s0x548671791193158b:0x965c4ead0e0a931!8m2!3d49.2799262!4d-123.1237009 Google maps]
+
+==Team==
+No information about C-level management found.
+
+==Key Indicators==
+*Clients: N/A
+*Business Volume: N/A
+*Valuation: N/A
+*Revenue: N/A
+*Tradeability: N/A
+*Identification code: N/A
+*Token Type: ERC-721
+*Link: [https://etherscan.io/token/0x06012c8cf97bead5deae237070f9587f8e7a266d Etherscan]
+
+==Funding==
+In March 2018 about 12 million USD were raised in a private funding round. Besides the two leading investors, Andreessen Horowitz and Union Square Ventures, there were 12 more smaller investors.<ref name="Funding"/>
+
+==Revenue Model==
+Comission and Trading<ref>https://www.cryptokitties.co/technical-details, accessed on 09.10.2018.</ref>
+
+==Additional Information==
+
+==References==
+<references/>
+
+==Additional Links==
+[https://www.facebook.com/CryptoKitties/ Facebook], [https://twitter.com/cryptokitties Twitter], [https://www.instagram.com/cryptokitties/ Instagram], [https://www.twitch.tv/directory/game/CryptoKitties Twitch], [https://discordapp.com/invite/cryptokitties Discord],[https://www.youtube.com/channel/UClUgQBJcxAmHjOQgV4QgVXg YouTube], [https://www.linkedin.com/company/cryptokitties/?originalSubdomain=de LinkedIn], [https://www.reddit.com/r/CryptoKitties/ Reddit], [https://medium.com/cryptokitties Medium].
