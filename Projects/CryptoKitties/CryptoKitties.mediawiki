@@ -4,7 +4,7 @@
 *Website: https://www.cryptokitties.co/
 *Founded: 2017<ref name="technicalWebsite">https://www.cryptokitties.co/Technical-details, accessed on 16.10.2018.</ref>
 *Stage: Live<ref name="Website">https://www.cryptokitties.co/, accessed on 08.10.2018.</ref>
-*Team Size: 16<ref name="About">https://www.cryptokitties.co/about, accessed on 08.10.2018.</ref>
+*Team Size: 16 (08.10.2018)<ref name="About">https://www.cryptokitties.co/about, accessed on 08.10.2018.</ref>
 *Sector: Consumer Discretionary (25)
 *Funding: 12M USD<ref name="Funding">https://medium.com/cryptokitties/cryptokitties-receives-12m-in-funding-38322f90ab65, accessed on 08.10.2018.</ref>
 *Based on Blockchain: Ethereum (main net)<ref name="technicalWebsite"/>
